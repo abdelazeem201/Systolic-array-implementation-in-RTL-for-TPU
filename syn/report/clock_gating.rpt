@@ -1,0 +1,19 @@
+****************************************
+Report : clock_gating
+Design : tpu_top
+Version: G-2012.06-SP2
+Date   : Thu Jan  7 05:05:59 2016
+****************************************
+
+
+
+                             Clock Gating Summary
+          ------------------------------------------------------------
+          |    Number of Clock gating elements    |        0         |
+          |                                       |                  |
+          |    Number of Gated registers          |     0 (0.00%)    |
+          |                                       |                  |
+          |    Number of Ungated registers        |  2828 (100.00%)  |
+          |                                       |                  |
+          |    Total number of registers          |     2828         |
+          ------------------------------------------------------------
