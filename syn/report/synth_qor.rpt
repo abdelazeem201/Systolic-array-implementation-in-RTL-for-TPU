@@ -1,0 +1,69 @@
+ 
+****************************************
+Report : qor
+Design : tpu_top
+Version: G-2012.06-SP2
+Date   : Thu Jan  7 05:06:03 2016
+****************************************
+
+
+  Timing Path Group 'clk'
+  -----------------------------------
+  Levels of Logic:              41.00
+  Critical Path Length:          1.24
+  Critical Path Slack:           0.03
+  Critical Path Clk Period:      3.01
+  Total Negative Slack:          0.00
+  No. of Violating Paths:        0.00
+  Worst Hold Violation:          0.00
+  Total Hold Violation:          0.00
+  No. of Hold Violations:        0.00
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:        199
+  Hierarchical Port Count:       9647
+  Leaf Cell Count:              54885
+  Buf/Inv Cell Count:           33656
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:     52057
+  Sequential Cell Count:         2828
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:    53403.224098
+  Noncombinational Area: 12788.215536
+  Buf/Inv Area:          19856.101977
+  Net Area:                  0.000000
+  -----------------------------------
+  Cell Area:             66191.439634
+  Design Area:           66191.439634
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:         61482
+  Nets With Violations:         27175
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  Max Fanout Violations:        27175
+  -----------------------------------
+
+
+  Hostname: 192.168.64.136
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                   13.79
+  Logic Optimization:                  7.38
+  Mapping Optimization:             2008.31
+  -----------------------------------------
+  Overall Compile Time:             2034.87
+  Overall Compile Wall Clock Time:  2083.96
+
+1

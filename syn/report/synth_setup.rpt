@@ -1,0 +1,316 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 4
+Design : tpu_top
+Version: G-2012.06-SP2
+Date   : Thu Jan  7 05:06:03 2016
+****************************************
+
+ # A fanout number of 1000 was used for high fanout net computations.
+
+Operating Conditions: worst_low   Library: NangateOpenCellLibrary_ss0p95vn40c
+Wire Load Model Mode: top
+
+  Startpoint: srstn (input port clocked by clk)
+  Endpoint: systolic/matrix_mul_2D_reg[1][7][10]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  tpu_top            5K_hvratio_1_1        NangateOpenCellLibrary_ss0p95vn40c
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clk (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    1.50       1.50 r
+  srstn (in)                                              0.00       1.50 r
+  U31/ZN (INV_X1)                                         0.02       1.53 f
+  U32/ZN (INV_X1)                                         0.03       1.55 r
+  systolic/srstn (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8)
+                                                          0.00       1.55 r
+  systolic/U11811/Z (CLKBUF_X1)                           0.04       1.59 r
+  systolic/U16084/ZN (INV_X1)                             0.02       1.62 f
+  systolic/U18369/ZN (INV_X1)                             0.03       1.64 r
+  systolic/U18370/ZN (INV_X1)                             0.02       1.67 f
+  systolic/U20624/ZN (NOR2_X1)                            0.04       1.71 r
+  systolic/U20351/ZN (INV_X1)                             0.03       1.74 f
+  systolic/U18177/ZN (INV_X1)                             0.03       1.77 r
+  systolic/U11362/Z (CLKBUF_X1)                           0.04       1.81 r
+  systolic/U13963/ZN (INV_X1)                             0.02       1.83 f
+  systolic/U12302/Z (CLKBUF_X1)                           0.04       1.87 f
+  systolic/U11361/Z (CLKBUF_X1)                           0.04       1.91 f
+  systolic/U13961/ZN (INV_X1)                             0.03       1.94 r
+  systolic/U12184/Z (CLKBUF_X1)                           0.04       1.98 r
+  systolic/U17530/ZN (INV_X1)                             0.02       2.00 f
+  systolic/U11821/Z (CLKBUF_X1)                           0.04       2.04 f
+  systolic/U16149/ZN (INV_X1)                             0.03       2.07 r
+  systolic/U11484/Z (CLKBUF_X1)                           0.04       2.11 r
+  systolic/U14384/ZN (INV_X1)                             0.03       2.14 f
+  systolic/U18698/ZN (INV_X1)                             0.03       2.16 r
+  systolic/U20636/ZN (NOR2_X1)                            0.03       2.19 f
+  systolic/U17567/ZN (INV_X1)                             0.03       2.22 r
+  systolic/U17569/ZN (INV_X1)                             0.03       2.25 f
+  systolic/U20155/ZN (INV_X1)                             0.03       2.27 r
+  systolic/U17570/ZN (INV_X1)                             0.03       2.30 f
+  systolic/U17571/ZN (INV_X1)                             0.03       2.33 r
+  systolic/U11570/Z (CLKBUF_X1)                           0.04       2.37 r
+  systolic/U14650/ZN (INV_X1)                             0.02       2.39 f
+  systolic/U11571/Z (CLKBUF_X1)                           0.04       2.43 f
+  systolic/U14651/ZN (INV_X1)                             0.03       2.46 r
+  systolic/U20471/ZN (INV_X1)                             0.02       2.48 f
+  systolic/U11980/Z (CLKBUF_X1)                           0.04       2.52 f
+  systolic/U16829/ZN (INV_X1)                             0.03       2.55 r
+  systolic/U19765/ZN (INV_X1)                             0.03       2.58 f
+  systolic/U15282/ZN (INV_X1)                             0.03       2.61 r
+  systolic/U15283/ZN (INV_X1)                             0.03       2.63 f
+  systolic/U24010/ZN (OAI21_X1)                           0.03       2.67 r
+  systolic/U4332/ZN (INV_X1)                              0.02       2.69 f
+  systolic/U4333/ZN (INV_X1)                              0.02       2.71 r
+  systolic/U4329/Z (BUF_X1)                               0.03       2.74 r
+  systolic/matrix_mul_2D_reg[1][7][10]/D (DFF_X1)         0.01       2.75 r
+  data arrival time                                                  2.75
+
+  clock clk (rise edge)                                   3.01       3.01
+  clock network delay (ideal)                             0.00       3.01
+  clock uncertainty                                      -0.20       2.81
+  systolic/matrix_mul_2D_reg[1][7][10]/CK (DFF_X1)        0.00       2.81 r
+  library setup time                                     -0.03       2.78
+  data required time                                                 2.78
+  --------------------------------------------------------------------------
+  data required time                                                 2.78
+  data arrival time                                                 -2.75
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.03
+
+
+  Startpoint: srstn (input port clocked by clk)
+  Endpoint: systolic/matrix_mul_2D_reg[6][2][10]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  tpu_top            5K_hvratio_1_1        NangateOpenCellLibrary_ss0p95vn40c
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clk (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    1.50       1.50 r
+  srstn (in)                                              0.00       1.50 r
+  U31/ZN (INV_X1)                                         0.02       1.53 f
+  U32/ZN (INV_X1)                                         0.03       1.55 r
+  systolic/srstn (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8)
+                                                          0.00       1.55 r
+  systolic/U11811/Z (CLKBUF_X1)                           0.04       1.59 r
+  systolic/U16084/ZN (INV_X1)                             0.02       1.62 f
+  systolic/U18369/ZN (INV_X1)                             0.03       1.64 r
+  systolic/U18370/ZN (INV_X1)                             0.02       1.67 f
+  systolic/U20624/ZN (NOR2_X1)                            0.04       1.71 r
+  systolic/U20351/ZN (INV_X1)                             0.03       1.74 f
+  systolic/U18177/ZN (INV_X1)                             0.03       1.77 r
+  systolic/U11362/Z (CLKBUF_X1)                           0.04       1.81 r
+  systolic/U13963/ZN (INV_X1)                             0.02       1.83 f
+  systolic/U12302/Z (CLKBUF_X1)                           0.04       1.87 f
+  systolic/U11361/Z (CLKBUF_X1)                           0.04       1.91 f
+  systolic/U13961/ZN (INV_X1)                             0.03       1.94 r
+  systolic/U12184/Z (CLKBUF_X1)                           0.04       1.98 r
+  systolic/U17530/ZN (INV_X1)                             0.02       2.00 f
+  systolic/U11821/Z (CLKBUF_X1)                           0.04       2.04 f
+  systolic/U16149/ZN (INV_X1)                             0.03       2.07 r
+  systolic/U11484/Z (CLKBUF_X1)                           0.04       2.11 r
+  systolic/U14384/ZN (INV_X1)                             0.03       2.14 f
+  systolic/U18698/ZN (INV_X1)                             0.03       2.16 r
+  systolic/U20636/ZN (NOR2_X1)                            0.03       2.19 f
+  systolic/U17567/ZN (INV_X1)                             0.03       2.22 r
+  systolic/U17569/ZN (INV_X1)                             0.03       2.25 f
+  systolic/U20155/ZN (INV_X1)                             0.03       2.27 r
+  systolic/U17570/ZN (INV_X1)                             0.03       2.30 f
+  systolic/U17571/ZN (INV_X1)                             0.03       2.33 r
+  systolic/U11570/Z (CLKBUF_X1)                           0.04       2.37 r
+  systolic/U14650/ZN (INV_X1)                             0.02       2.39 f
+  systolic/U11571/Z (CLKBUF_X1)                           0.04       2.43 f
+  systolic/U14651/ZN (INV_X1)                             0.03       2.46 r
+  systolic/U20471/ZN (INV_X1)                             0.02       2.48 f
+  systolic/U11980/Z (CLKBUF_X1)                           0.04       2.52 f
+  systolic/U16829/ZN (INV_X1)                             0.03       2.55 r
+  systolic/U19765/ZN (INV_X1)                             0.03       2.58 f
+  systolic/U15282/ZN (INV_X1)                             0.03       2.61 r
+  systolic/U15283/ZN (INV_X1)                             0.03       2.63 f
+  systolic/U23858/ZN (OAI21_X1)                           0.03       2.67 r
+  systolic/U1644/ZN (INV_X1)                              0.02       2.69 f
+  systolic/U1645/ZN (INV_X1)                              0.02       2.71 r
+  systolic/U1642/Z (BUF_X1)                               0.03       2.74 r
+  systolic/matrix_mul_2D_reg[6][2][10]/D (DFF_X1)         0.01       2.75 r
+  data arrival time                                                  2.75
+
+  clock clk (rise edge)                                   3.01       3.01
+  clock network delay (ideal)                             0.00       3.01
+  clock uncertainty                                      -0.20       2.81
+  systolic/matrix_mul_2D_reg[6][2][10]/CK (DFF_X1)        0.00       2.81 r
+  library setup time                                     -0.03       2.78
+  data required time                                                 2.78
+  --------------------------------------------------------------------------
+  data required time                                                 2.78
+  data arrival time                                                 -2.75
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.03
+
+
+  Startpoint: srstn (input port clocked by clk)
+  Endpoint: systolic/matrix_mul_2D_reg[3][5][5]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  tpu_top            5K_hvratio_1_1        NangateOpenCellLibrary_ss0p95vn40c
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clk (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    1.50       1.50 r
+  srstn (in)                                              0.00       1.50 r
+  U31/ZN (INV_X1)                                         0.02       1.53 f
+  U32/ZN (INV_X1)                                         0.03       1.55 r
+  systolic/srstn (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8)
+                                                          0.00       1.55 r
+  systolic/U11811/Z (CLKBUF_X1)                           0.04       1.59 r
+  systolic/U16084/ZN (INV_X1)                             0.02       1.62 f
+  systolic/U18369/ZN (INV_X1)                             0.03       1.64 r
+  systolic/U18370/ZN (INV_X1)                             0.02       1.67 f
+  systolic/U20624/ZN (NOR2_X1)                            0.04       1.71 r
+  systolic/U20351/ZN (INV_X1)                             0.03       1.74 f
+  systolic/U18177/ZN (INV_X1)                             0.03       1.77 r
+  systolic/U11362/Z (CLKBUF_X1)                           0.04       1.81 r
+  systolic/U13963/ZN (INV_X1)                             0.02       1.83 f
+  systolic/U12302/Z (CLKBUF_X1)                           0.04       1.87 f
+  systolic/U11361/Z (CLKBUF_X1)                           0.04       1.91 f
+  systolic/U13961/ZN (INV_X1)                             0.03       1.94 r
+  systolic/U12184/Z (CLKBUF_X1)                           0.04       1.98 r
+  systolic/U17530/ZN (INV_X1)                             0.02       2.00 f
+  systolic/U11821/Z (CLKBUF_X1)                           0.04       2.04 f
+  systolic/U16149/ZN (INV_X1)                             0.03       2.07 r
+  systolic/U11484/Z (CLKBUF_X1)                           0.04       2.11 r
+  systolic/U14384/ZN (INV_X1)                             0.03       2.14 f
+  systolic/U18698/ZN (INV_X1)                             0.03       2.16 r
+  systolic/U20636/ZN (NOR2_X1)                            0.03       2.19 f
+  systolic/U17567/ZN (INV_X1)                             0.03       2.22 r
+  systolic/U17569/ZN (INV_X1)                             0.03       2.25 f
+  systolic/U20155/ZN (INV_X1)                             0.03       2.27 r
+  systolic/U17570/ZN (INV_X1)                             0.03       2.30 f
+  systolic/U17571/ZN (INV_X1)                             0.03       2.33 r
+  systolic/U11570/Z (CLKBUF_X1)                           0.04       2.37 r
+  systolic/U14650/ZN (INV_X1)                             0.02       2.39 f
+  systolic/U11571/Z (CLKBUF_X1)                           0.04       2.43 f
+  systolic/U14651/ZN (INV_X1)                             0.03       2.46 r
+  systolic/U20471/ZN (INV_X1)                             0.02       2.48 f
+  systolic/U11980/Z (CLKBUF_X1)                           0.04       2.52 f
+  systolic/U16829/ZN (INV_X1)                             0.03       2.55 r
+  systolic/U19765/ZN (INV_X1)                             0.03       2.58 f
+  systolic/U15282/ZN (INV_X1)                             0.03       2.61 r
+  systolic/U15284/ZN (INV_X1)                             0.02       2.63 f
+  systolic/U23946/ZN (OAI21_X1)                           0.03       2.66 r
+  systolic/U3289/ZN (INV_X1)                              0.02       2.69 f
+  systolic/U3290/ZN (INV_X1)                              0.02       2.71 r
+  systolic/U3286/Z (BUF_X1)                               0.03       2.73 r
+  systolic/matrix_mul_2D_reg[3][5][5]/D (DFF_X1)          0.01       2.74 r
+  data arrival time                                                  2.74
+
+  clock clk (rise edge)                                   3.01       3.01
+  clock network delay (ideal)                             0.00       3.01
+  clock uncertainty                                      -0.20       2.81
+  systolic/matrix_mul_2D_reg[3][5][5]/CK (DFF_X1)         0.00       2.81 r
+  library setup time                                     -0.03       2.78
+  data required time                                                 2.78
+  --------------------------------------------------------------------------
+  data required time                                                 2.78
+  data arrival time                                                 -2.74
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.04
+
+
+  Startpoint: srstn (input port clocked by clk)
+  Endpoint: systolic/matrix_mul_2D_reg[1][7][13]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  tpu_top            5K_hvratio_1_1        NangateOpenCellLibrary_ss0p95vn40c
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clk (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  input external delay                                    1.50       1.50 r
+  srstn (in)                                              0.00       1.50 r
+  U31/ZN (INV_X1)                                         0.02       1.53 f
+  U32/ZN (INV_X1)                                         0.03       1.55 r
+  systolic/srstn (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8)
+                                                          0.00       1.55 r
+  systolic/U11811/Z (CLKBUF_X1)                           0.04       1.59 r
+  systolic/U16084/ZN (INV_X1)                             0.02       1.62 f
+  systolic/U18369/ZN (INV_X1)                             0.03       1.64 r
+  systolic/U18370/ZN (INV_X1)                             0.02       1.67 f
+  systolic/U20624/ZN (NOR2_X1)                            0.04       1.71 r
+  systolic/U20351/ZN (INV_X1)                             0.03       1.74 f
+  systolic/U18177/ZN (INV_X1)                             0.03       1.77 r
+  systolic/U11362/Z (CLKBUF_X1)                           0.04       1.81 r
+  systolic/U13963/ZN (INV_X1)                             0.02       1.83 f
+  systolic/U12302/Z (CLKBUF_X1)                           0.04       1.87 f
+  systolic/U11361/Z (CLKBUF_X1)                           0.04       1.91 f
+  systolic/U13961/ZN (INV_X1)                             0.03       1.94 r
+  systolic/U12184/Z (CLKBUF_X1)                           0.04       1.98 r
+  systolic/U17530/ZN (INV_X1)                             0.02       2.00 f
+  systolic/U11821/Z (CLKBUF_X1)                           0.04       2.04 f
+  systolic/U16149/ZN (INV_X1)                             0.03       2.07 r
+  systolic/U11484/Z (CLKBUF_X1)                           0.04       2.11 r
+  systolic/U14384/ZN (INV_X1)                             0.03       2.14 f
+  systolic/U18698/ZN (INV_X1)                             0.03       2.16 r
+  systolic/U20636/ZN (NOR2_X1)                            0.03       2.19 f
+  systolic/U17567/ZN (INV_X1)                             0.03       2.22 r
+  systolic/U17568/ZN (INV_X1)                             0.02       2.25 f
+  systolic/U18637/Z (CLKBUF_X1)                           0.04       2.29 f
+  systolic/U18638/ZN (INV_X1)                             0.03       2.32 r
+  systolic/U11572/Z (CLKBUF_X1)                           0.04       2.36 r
+  systolic/U14653/ZN (INV_X1)                             0.02       2.38 f
+  systolic/U11573/Z (CLKBUF_X1)                           0.04       2.42 f
+  systolic/U14654/ZN (INV_X1)                             0.03       2.45 r
+  systolic/U20469/ZN (INV_X1)                             0.02       2.47 f
+  systolic/U11981/Z (CLKBUF_X1)                           0.04       2.51 f
+  systolic/U16831/ZN (INV_X1)                             0.03       2.54 r
+  systolic/U19768/ZN (INV_X1)                             0.03       2.57 f
+  systolic/U15287/ZN (INV_X1)                             0.03       2.60 r
+  systolic/U15288/ZN (INV_X1)                             0.03       2.62 f
+  systolic/U24004/ZN (OAI21_X1)                           0.03       2.66 r
+  systolic/U4317/ZN (INV_X1)                              0.02       2.68 f
+  systolic/U4318/ZN (INV_X1)                              0.02       2.70 r
+  systolic/U4314/Z (BUF_X1)                               0.03       2.73 r
+  systolic/matrix_mul_2D_reg[1][7][13]/D (DFF_X1)         0.01       2.74 r
+  data arrival time                                                  2.74
+
+  clock clk (rise edge)                                   3.01       3.01
+  clock network delay (ideal)                             0.00       3.01
+  clock uncertainty                                      -0.20       2.81
+  systolic/matrix_mul_2D_reg[1][7][13]/CK (DFF_X1)        0.00       2.81 r
+  library setup time                                     -0.03       2.78
+  data required time                                                 2.78
+  --------------------------------------------------------------------------
+  data required time                                                 2.78
+  data arrival time                                                 -2.74
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.04
+
+
+1

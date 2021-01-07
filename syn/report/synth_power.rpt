@@ -1,0 +1,440 @@
+Loading db file '/home/standard_cell_libraries/NangateOpenCellLibrary_PDKv1_3_v2010_12/lib/Front_End/Liberty/NLDM/NangateOpenCellLibrary_ss0p95vn40c.db'
+Information: Propagating switching activity (low effort zero delay simulation). (PWR-6)
+Warning: Design has unannotated primary inputs. (PWR-414)
+Warning: Design has unannotated sequential cell outputs. (PWR-415)
+ 
+****************************************
+Report : power
+        -hier
+        -analysis_effort low
+Design : tpu_top
+Version: G-2012.06-SP2
+Date   : Thu Jan  7 05:06:03 2016
+****************************************
+
+
+Library(s) Used:
+
+    NangateOpenCellLibrary_ss0p95vn40c (File: /home/standard_cell_libraries/NangateOpenCellLibrary_PDKv1_3_v2010_12/lib/Front_End/Liberty/NLDM/NangateOpenCellLibrary_ss0p95vn40c.db)
+
+
+Operating Conditions: worst_low   Library: NangateOpenCellLibrary_ss0p95vn40c
+Wire Load Model Mode: top
+
+Design        Wire Load Model            Library
+------------------------------------------------
+tpu_top                5K_hvratio_1_1    NangateOpenCellLibrary_ss0p95vn40c
+
+
+Global Operating Voltage = 0.95 
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000ff
+    Time Units = 1ns
+    Dynamic Power Units = 1uW    (derived from V,C,T units)
+    Leakage Power Units = 1nW
+
+
+--------------------------------------------------------------------------------
+                                       Switch   Int      Leak     Total
+Hierarchy                              Power    Power    Power    Power    %
+--------------------------------------------------------------------------------
+tpu_top                                1.13e+03 5.50e+03 2.95e+05 6.92e+03 100.0
+  write_out (write_out_ARRAY_SIZE8_OUTPUT_DATA_WIDTH16)
+                                         67.126  731.725 3.07e+04  829.553  12.0
+  systolic_controll (systolic_controll_ARRAY_SIZE8)
+                                          7.329   49.878 1.56e+03   58.768   0.8
+    add_121 (systolic_controll_ARRAY_SIZE8_DW01_inc_2)
+                                          0.221    0.458   58.652    0.739   0.0
+    add_159 (systolic_controll_ARRAY_SIZE8_DW01_inc_1)
+                                          0.227    0.433   80.943    0.741   0.0
+  systolic (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8)
+                                       1.05e+03 4.66e+03 2.59e+05 5.97e+03  86.2
+    r1063 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_0)
+                                          4.636    4.585 1.60e+03   10.824   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_65)
+                                          1.033    0.843  256.730    2.132   0.0
+    r1058 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_1)
+                                          4.993    4.952 1.60e+03   11.547   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_66)
+                                          1.166    0.948  256.457    2.370   0.0
+    r1056 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_2)
+                                          5.122    5.054 1.60e+03   11.778   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_67)
+                                          1.187    0.963  256.178    2.406   0.0
+    r1054 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_3)
+                                          5.280    5.193 1.60e+03   12.074   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_68)
+                                          1.226    0.992  255.906    2.474   0.0
+    r1052 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_4)
+                                          5.587    5.465 1.60e+03   12.652   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_69)
+                                          1.290    1.043  255.603    2.589   0.0
+    r1050 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_5)
+                                          5.870    5.726 1.60e+03   13.196   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_70)
+                                          1.348    1.088  255.223    2.691   0.0
+    r1048 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_6)
+                                          6.094    5.912 1.60e+03   13.604   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_71)
+                                          1.396    1.124  255.042    2.775   0.0
+    r1046 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_7)
+                                          6.444    6.221 1.60e+03   14.263   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_72)
+                                          1.470    1.185  254.667    2.910   0.0
+    r1044 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_8)
+                                          4.902    4.819 1.60e+03   11.323   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_73)
+                                          1.140    0.925  256.390    2.321   0.0
+    r1039 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_9)
+                                          5.199    5.139 1.60e+03   11.941   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_74)
+                                          1.180    0.961  256.675    2.398   0.0
+    r1037 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_10)
+                                          5.519    5.473 1.60e+03   12.595   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_75)
+                                          1.280    1.038  256.388    2.575   0.0
+    r1035 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_11)
+                                          5.659    5.588 1.60e+03   12.849   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_76)
+                                          1.312    1.064  256.094    2.633   0.0
+    r1033 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_12)
+                                          5.929    5.831 1.60e+03   13.361   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_77)
+                                          1.367    1.106  255.778    2.729   0.0
+    r1031 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_13)
+                                          6.174    6.039 1.60e+03   13.813   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_78)
+                                          1.414    1.144  255.432    2.813   0.0
+    r1029 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_14)
+                                          6.386    6.228 1.60e+03   14.214   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_79)
+                                          1.460    1.177  255.331    2.892   0.0
+    r1027 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_15)
+                                          6.834    6.633 1.60e+03   15.066   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_80)
+                                          1.555    1.250  254.869    3.060   0.0
+    r1025 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_16)
+                                          4.988    4.873 1.60e+03   11.462   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_81)
+                                          1.171    0.949  256.170    2.377   0.0
+    r1020 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_17)
+                                          5.367    5.267 1.60e+03   12.236   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_82)
+                                          1.261    1.022  256.454    2.539   0.0
+    r1018 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_18)
+                                          5.576    5.506 1.60e+03   12.685   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_83)
+                                          1.269    1.033  256.563    2.558   0.0
+    r1016 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_19)
+                                          5.906    5.856 1.60e+03   13.363   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_84)
+                                          1.376    1.117  256.369    2.749   0.0
+    r1014 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_20)
+                                          6.295    6.226 1.60e+03   14.123   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_85)
+                                          1.454    1.178  255.971    2.889   0.0
+    r1012 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_21)
+                                          6.543    6.440 1.60e+03   14.585   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_86)
+                                          1.501    1.213  255.676    2.970   0.0
+    r1010 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_22)
+                                          6.838    6.722 1.60e+03   15.160   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_87)
+                                          1.575    1.273  255.499    3.104   0.0
+    r1008 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_23)
+                                          7.212    7.036 1.60e+03   15.848   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_88)
+                                          1.661    1.335  255.026    3.251   0.0
+    r1006 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_24)
+                                          5.281    5.126 1.60e+03   12.007   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_89)
+                                          1.239    1.002  255.920    2.496   0.0
+    r1001 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_25)
+                                          5.671    5.540 1.60e+03   12.813   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_90)
+                                          1.336    1.082  256.159    2.674   0.0
+    r999 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_26)
+                                          6.066    5.960 1.60e+03   13.629   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_91)
+                                          1.428    1.154  256.187    2.838   0.0
+    r997 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_27)
+                                          6.246    6.177 1.60e+03   14.026   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_92)
+                                          1.404    1.139  256.456    2.799   0.0
+    r995 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_28)
+                                          6.779    6.723 1.60e+03   15.105   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_93)
+                                          1.574    1.276  256.177    3.105   0.0
+    r993 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_29)
+                                          7.086    6.998 1.60e+03   15.686   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_94)
+                                          1.643    1.325  255.777    3.223   0.0
+    r991 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_30)
+                                          7.309    7.197 1.60e+03   16.108   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_95)
+                                          1.689    1.363  255.499    3.307   0.0
+    r989 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_31)
+                                          7.732    7.580 1.60e+03   16.913   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_96)
+                                          1.779    1.431  255.085    3.466   0.1
+    r987 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_32)
+                                          5.411    5.217 1.60e+03   12.227   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_97)
+                                          1.274    1.030  255.627    2.559   0.0
+    r982 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_33)
+                                          5.773    5.610 1.60e+03   12.984   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_98)
+                                          1.363    1.104  255.837    2.722   0.0
+    r980 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_34)
+                                          6.153    6.013 1.60e+03   13.768   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_99)
+                                          1.451    1.172  255.929    2.879   0.0
+    r978 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_35)
+                                          6.586    6.479 1.60e+03   14.668   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_100)
+                                          1.558    1.261  256.190    3.075   0.0
+    r976 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_36)
+                                          6.973    6.910 1.60e+03   15.486   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_101)
+                                          1.583    1.292  256.366    3.132   0.0
+    r974 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_37)
+                                          7.546    7.485 1.60e+03   16.634   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_102)
+                                          1.760    1.420  255.891    3.436   0.0
+    r972 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_38)
+                                          7.807    7.733 1.60e+03   17.142   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_103)
+                                          1.810    1.460  255.790    3.526   0.1
+    r970 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_39)
+                                          8.139    8.007 1.60e+03   17.748   0.3
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_104)
+                                          1.885    1.519  255.315    3.659   0.1
+    r968 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_40)
+                                          5.694    5.456 1.60e+03   12.750   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_105)
+                                          1.341    1.084  255.287    2.681   0.0
+    r963 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_41)
+                                          6.072    5.870 1.60e+03   13.541   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_106)
+                                          1.427    1.153  255.587    2.835   0.0
+    r961 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_42)
+                                          6.383    6.203 1.60e+03   14.187   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_107)
+                                          1.496    1.211  255.666    2.962   0.0
+    r959 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_43)
+                                          6.865    6.720 1.60e+03   15.187   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_108)
+                                          1.622    1.314  255.862    3.192   0.0
+    r957 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_44)
+                                          7.386    7.270 1.60e+03   16.259   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_109)
+                                          1.729    1.395  255.996    3.381   0.0
+    r955 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_45)
+                                          7.794    7.723 1.60e+03   17.120   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_110)
+                                          1.754    1.425  256.178    3.435   0.0
+    r953 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_46)
+                                          8.350    8.313 1.60e+03   18.266   0.3
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_111)
+                                          1.934    1.562  255.883    3.751   0.1
+    r951 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_47)
+                                          8.730    8.650 1.60e+03   18.982   0.3
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_112)
+                                          2.020    1.627  255.506    3.903   0.1
+    r949 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_48)
+                                          5.953    5.665 1.60e+03   13.216   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_113)
+                                          1.404    1.131  254.917    2.790   0.0
+    r944 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_49)
+                                          6.322    6.059 1.60e+03   13.980   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_114)
+                                          1.497    1.207  255.186    2.959   0.0
+    r942 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_50)
+                                          6.697    6.466 1.60e+03   14.763   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_115)
+                                          1.582    1.275  255.394    3.112   0.0
+    r940 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_51)
+                                          7.115    6.914 1.60e+03   15.630   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_116)
+                                          1.679    1.356  255.555    3.290   0.0
+    r938 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_52)
+                                          7.693    7.529 1.60e+03   16.823   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_117)
+                                          1.802    1.454  255.750    3.511   0.1
+    r936 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_53)
+                                          8.292    8.153 1.60e+03   18.048   0.3
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_118)
+                                          1.940    1.563  255.792    3.759   0.1
+    r934 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_54)
+                                          8.629    8.548 1.60e+03   18.781   0.3
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_119)
+                                          1.953    1.585  256.237    3.794   0.1
+    r932 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_55)
+                                          9.330    9.267 1.60e+03   20.201   0.3
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_120)
+                                          2.173    1.752  255.671    4.180   0.1
+    r930 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_56)
+                                          6.220    5.876 1.60e+03   13.693   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_121)
+                                          1.477    1.187  254.664    2.918   0.0
+    r925 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_57)
+                                          6.589    6.274 1.60e+03   14.460   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_122)
+                                          1.560    1.254  254.910    3.069   0.0
+    r920 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_58)
+                                          6.937    6.638 1.60e+03   15.174   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_123)
+                                          1.643    1.320  254.987    3.217   0.0
+    r915 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_59)
+                                          7.349    7.078 1.60e+03   16.027   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_124)
+                                          1.730    1.392  255.163    3.378   0.0
+    r910 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_60)
+                                          7.907    7.672 1.60e+03   17.179   0.2
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_125)
+                                          1.852    1.495  255.394    3.603   0.1
+    r905 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_61)
+                                          8.513    8.304 1.60e+03   18.418   0.3
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_126)
+                                          2.004    1.614  255.517    3.874   0.1
+    r900 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_62)
+                                          9.072    8.919 1.60e+03   19.595   0.3
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_127)
+                                          2.119    1.710  255.932    4.086   0.1
+    r895 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW02_mult_63)
+                                          9.636    9.542 1.60e+03   20.783   0.3
+      FS_1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_128)
+                                          2.166    1.754  255.926    4.176   0.1
+    add_103 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_64)
+                                          1.652    3.565  260.287    5.477   0.1
+    add_103_I2_I1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_63)
+                                          1.485    3.201  257.561    4.943   0.1
+    add_103_I3_I1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_62)
+                                          1.340    2.887  254.368    4.481   0.1
+    add_103_I4_I1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_61)
+                                          1.196    2.576  251.869    4.024   0.1
+    add_103_I5_I1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_60)
+                                          1.063    2.287  249.513    3.600   0.1
+    add_103_I6_I1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_59)
+                                          0.958    2.061  247.822    3.267   0.0
+    add_103_I7_I1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_58)
+                                          0.870    1.871  246.479    2.987   0.0
+    add_103_I8_I1 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_57)
+                                          0.771    1.656  244.686    2.672   0.0
+    add_103_I2 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_56)
+                                          1.485    3.201  257.046    4.942   0.1
+    add_103_I2_I2 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_55)
+                                          1.389    3.013  256.061    4.658   0.1
+    add_103_I3_I2 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_54)
+                                          1.237    2.678  252.803    4.167   0.1
+    add_103_I4_I2 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_53)
+                                          1.107    2.395  250.497    3.753   0.1
+    add_103_I5_I2 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_52)
+                                          1.003    2.169  248.886    3.420   0.0
+    add_103_I6_I2 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_51)
+                                          0.897    1.939  247.057    3.083   0.0
+    add_103_I7_I2 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_50)
+                                          0.809    1.748  245.129    2.802   0.0
+    add_103_I8_I2 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_49)
+                                          0.720    1.556  243.697    2.520   0.0
+    add_103_I3 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_48)
+                                          1.340    2.890  254.705    4.485   0.1
+    add_103_I2_I3 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_47)
+                                          1.241    2.688  253.094    4.182   0.1
+    add_103_I3_I3 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_46)
+                                          1.160    2.531  252.200    3.942   0.1
+    add_103_I4_I3 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_45)
+                                          1.040    2.264  249.426    3.553   0.1
+    add_103_I5_I3 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_44)
+                                          0.940    2.048  247.736    3.236   0.0
+    add_103_I6_I3 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_43)
+                                          0.836    1.820  246.350    2.902   0.0
+    add_103_I7_I3 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_42)
+                                          0.752    1.634  244.523    2.630   0.0
+    add_103_I8_I3 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_41)
+                                          0.668    1.452  242.949    2.363   0.0
+    add_103_I4 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_40)
+                                          1.198    2.580  252.060    4.030   0.1
+    add_103_I2_I4 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_39)
+                                          1.119    2.425  251.069    3.795   0.1
+    add_103_I3_I4 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_38)
+                                          1.040    2.266  249.572    3.556   0.1
+    add_103_I4_I4 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_37)
+                                          0.967    2.117  248.304    3.332   0.0
+    add_103_I5_I4 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_36)
+                                          0.861    1.886  246.810    2.994   0.0
+    add_103_I6_I4 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_35)
+                                          0.774    1.693  245.161    2.713   0.0
+    add_103_I7_I4 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_34)
+                                          0.696    1.523  243.823    2.462   0.0
+    add_103_I8_I4 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_33)
+                                          0.619    1.353  242.508    2.214   0.0
+    add_103_I5 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_32)
+                                          1.085    2.335  249.878    3.670   0.1
+    add_103_I2_I5 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_31)
+                                          1.006    2.179  248.623    3.433   0.0
+    add_103_I3_I5 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_30)
+                                          0.934    2.035  247.953    3.217   0.0
+    add_103_I4_I5 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_29)
+                                          0.873    1.913  247.055    3.033   0.0
+    add_103_I5_I5 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_28)
+                                          0.817    1.799  245.951    2.862   0.0
+    add_103_I6_I5 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_27)
+                                          0.734    1.615  244.567    2.594   0.0
+    add_103_I7_I5 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_26)
+                                          0.666    1.466  243.424    2.375   0.0
+    add_103_I8_I5 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_25)
+                                          0.596    1.312  242.443    2.150   0.0
+    add_103_I6 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_24)
+                                          0.971    2.087  247.905    3.306   0.0
+    add_103_I2_I6 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_23)
+                                          0.901    1.948  247.087    3.096   0.0
+    add_103_I3_I6 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_22)
+                                          0.832    1.812  246.055    2.891   0.0
+    add_103_I4_I6 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_21)
+                                          0.779    1.708  244.985    2.731   0.0
+    add_103_I5_I6 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_20)
+                                          0.726    1.597  244.567    2.568   0.0
+    add_103_I6_I6 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_19)
+                                          0.676    1.497  243.770    2.417   0.0
+    add_103_I7_I6 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_18)
+                                          0.615    1.362  243.080    2.220   0.0
+    add_103_I8_I6 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_17)
+                                          0.540    1.196  241.781    1.977   0.0
+    add_103_I7 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_16)
+                                          0.874    1.879  246.086    2.999   0.0
+    add_103_I2_I7 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_15)
+                                          0.809    1.750  245.597    2.804   0.0
+    add_103_I3_I7 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_14)
+                                          0.747    1.621  243.918    2.612   0.0
+    add_103_I4_I7 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_13)
+                                          0.694    1.517  243.472    2.455   0.0
+    add_103_I5_I7 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_12)
+                                          0.648    1.425  242.859    2.315   0.0
+    add_103_I6_I7 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_11)
+                                          0.619    1.371  242.889    2.233   0.0
+    add_103_I7_I7 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_10)
+                                          0.584    1.301  242.021    2.127   0.0
+    add_103_I8_I7 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_9)
+                                          0.508    1.131  241.144    1.880   0.0
+    add_103_I8 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_8)
+                                          0.784    1.685  244.826    2.713   0.0
+    add_103_I2_I8 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_7)
+                                          0.723    1.563  244.007    2.530   0.0
+    add_103_I3_I8 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_6)
+                                          0.667    1.450  242.767    2.359   0.0
+    add_103_I4_I8 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_5)
+                                          0.624    1.364  242.378    2.231   0.0
+    add_103_I5_I8 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_4)
+                                          0.583    1.282  241.675    2.107   0.0
+    add_103_I6_I8 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_3)
+                                          0.550    1.215  241.243    2.006   0.0
+    add_103_I7_I8 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_2)
+                                          0.523    1.166  241.140    1.930   0.0
+    add_103_I8_I8 (systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_DW01_add_1)
+                                          0.491    1.098  241.230    1.830   0.0
+  quantize (quantize_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_OUTPUT_DATA_WIDTH16)
+                                          7.678    6.659 2.13e+03   16.468   0.2
+  addr_sel (addr_sel)                     1.623   44.607  784.165   47.014   0.7
+1

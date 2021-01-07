@@ -1,0 +1,76 @@
+ 
+****************************************
+Report : cell
+Design : tpu_top
+Version: G-2012.06-SP2
+Date   : Thu Jan  7 05:06:03 2016
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    p - parameterized
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+U1                        INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U3                        INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U5                        INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U7                        INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U9                        INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U11                       INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U13                       INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U15                       INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U17                       INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U19                       INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U21                       INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U23                       INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U25                       BUF_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.798000  
+U26                       BUF_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.798000  
+U27                       BUF_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.798000  
+U28                       BUF_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.798000  
+U29                       CLKBUF_X1       NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.798000  
+U30                       CLKBUF_X1       NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.798000  
+U31                       INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U32                       INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+U33                       INV_X1          NangateOpenCellLibrary_ss0p95vn40c
+                                                          0.532000  
+addr_sel                  addr_sel                        183.539995
+                                                                    h, n
+quantize                  quantize_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8_OUTPUT_DATA_WIDTH16
+                                                          413.630002
+                                                                    h, p
+systolic                  systolic_ARRAY_SIZE8_SRAM_DATA_WIDTH32_DATA_WIDTH8
+                                                          59306.029685
+                                                                    h, n, p
+systolic_controll         systolic_controll_ARRAY_SIZE8   331.169998
+                                                                    h, n, p
+write_out                 write_out_ARRAY_SIZE8_OUTPUT_DATA_WIDTH16
+                                                          5944.301954
+                                                                    h, n, p
+--------------------------------------------------------------------------------
+Total 26 cells                                            66191.439634
+1
