@@ -1,2 +1,4 @@
-# Systolic-array-implementation-in-RTL-for-tpu
-IC implementation of Systolic Array for TPU
+## Introduction: 
+For my TPU, I designed a 8x8 systolic array. As presented by picture below, under the scenario that there are two matrices need to do matrix multiplication, matrix A (named weight matrix) multiply with matrix B(named data matrix), each of the matrix is 8x8. Once they start to do matrix multiplication, these coefficients of two matrices will first transform into an order to feed into TPU, and then fed into each specific queue. Then these queues will output at most 8 datams to its connected cell, these cells will do multiplication and addition according to the weight and data it receives. And in the next cycle, each cell will forward its weight and data to next cell. Weight will foward from up to down, and data will forward from left to right.
+
+![Imgur](https://i.imgur.com/lfWEjwv.png)Reference:https://zhuanlan.zhihu.com/p/26522315
