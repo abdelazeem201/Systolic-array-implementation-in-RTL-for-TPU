@@ -14,6 +14,11 @@ Let's take a look at how Google implements the systolic array in the TPU design.
 
 For each cell in systolic array, we have three registers: 1 ALU to record the cumulative result, 1 weight-register for storing matrix A’s data and forwarding to next row, 1 data-register for storing matrix B’s data and forwarding to next column. And total we have 8x8=64 cells. For 8x8 matrix multiplications, each element in matrix is 8 bit signed number, 4 bit represents integer part, 4bit represents precision part. And final answer of matrix multiplication, we use 16 bit signed number to represent, 8 bit represents integer part, 8 bit represents precision part. For testbench part, we create three sets of matrix multiplications to emulate three kinds of situation: the output of first set represents the initial entering of systolic array, the output of second set represents the steady state of systolic array, when the total systolic array hardware utilization is 100%, and the output of final set represents the leaving the systolic array. The outcome shows that these three situations can really be implemented.
 
+## *Synthesis using FPGA*
+
+I have suceeded synthesis the desing using Vivado 2021
+<img src= "https://github.com/Casear98/Systolic-array-implementation-in-RTL-for-TPU/blob/main/Pics/synthesis_FPGA.PNG">
+
 ## *Synthesize:*
 
 I have succeeded synthesis the design and met  my constraints
