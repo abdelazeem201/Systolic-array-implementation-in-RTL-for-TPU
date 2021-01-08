@@ -1,0 +1,13 @@
+The meaning of messages about CONN view parsing:
+No connected port in CONN view
+	-> No ports connected to top-level net.
+No connected PG port in CONN view
+	-> There is a port connected to top-level net, but the type is not power or ground.
+No connected net in CONN view
+	-> There is a PG port connected to top-level net, but no net in the CONN view is connected the port.
+No net ID in CONN view
+	-> There is a PG port connected to top-level net, and PG net in the CONN view is connected the port, but the net ID cannot be found.
+No wires in CONN view
+	-> There is a PG port connected to top-level net, and PG net in the CONN view is connected the port, but no wires in the net inside CONN view.
+
+--------------------------------------------

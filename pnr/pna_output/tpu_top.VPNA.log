@@ -1,0 +1,47 @@
+
+Name of design : tpu_top
+Number of cell instances in the design : 54885
+Number of cell instance masters in the library : 36
+
+Processing power net VSS ...
+Number of power net wires : 770
+Number of vias : 19836
+Average power dissipation in tpu_top :    10.00 mW
+Power supply voltage :     1.05 V
+Assigning vias begins
+Assigning power net wires ...
+Constructing virtual grid ..
+Performing virtual connection ...
+Reading virtual power pads
+Extracting power net VSS ...
+Number of power pad nodes connecting to power net VSS : 20
+Number of power pad nodes reaching to the power ports of the leaf cells or blocks : 20
+Number of resistors in VSS : 111686
+Number of nodes in VSS : 100678
+Performing network simulation
+Assigning netlists to simulation engine begins
+Assigning netlists to simulation engine finished
+Maximum IR drop in tpu_top : 0.24 mV
+Maximum current in tpu_top : 0.568 mA
+
+Processing power net VDD ...
+Number of power net wires : 966
+Number of vias : 20028
+Average power dissipation in tpu_top :    10.00 mW
+Power supply voltage :     1.05 V
+Assigning vias begins
+Assigning power net wires ...
+Constructing virtual grid ..
+Performing virtual connection ...
+Reading virtual power pads
+Extracting power net VDD ...
+Number of power pad nodes connecting to power net VDD : 20
+Number of power pad nodes reaching to the power ports of the leaf cells or blocks : 20
+Number of resistors in VDD : 113782
+Number of nodes in VDD : 101872
+Performing network simulation
+Assigning netlists to simulation engine begins
+Assigning netlists to simulation engine finished
+Maximum IR drop in tpu_top : 0.24 mV
+Maximum current in tpu_top : 0.619 mA
+Overall takes     6.29 seconds
