@@ -26,3 +26,5 @@ Total area  | 116493.18
 ## *PnR:*
 
 I have succeeded to meet my time constraints, and all the test-bench data passed, meaning that our functionality of layout works fine.
+
+<img src= "https://github.com/Casear98/Systolic-array-implementation-in-RTL-for-TPU/blob/main/Pics/Capture.PNG">
