@@ -1,0 +1,38 @@
+guide_constraints -body { write_out } -equivalent { write_out/matrix_index[0]    write_out/IN0 }
+set_user_match   -inverted   $svf_ref/tpu_top/systolic_controll/cycle_num[0]   $svf_impl/tpu_top/systolic_controll/cycle_num[0]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/cycle_num[0]   $svf_impl/tpu_top/systolic/cycle_num[0]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic_controll/matrix_index[5]   $svf_impl/tpu_top/systolic_controll/matrix_index[5]
+guide_constraints -body { write_out } -equivalent { write_out/matrix_index[5]  ~ write_out/IN1 }
+set_user_match   -inverted   $svf_ref/tpu_top/systolic_controll/matrix_index[4]   $svf_impl/tpu_top/systolic_controll/matrix_index[4]
+guide_constraints -body { write_out } -equivalent { write_out/matrix_index[4]  ~ write_out/IN2 }
+set_user_match   -inverted   $svf_ref/tpu_top/systolic_controll/matrix_index[3]   $svf_impl/tpu_top/systolic_controll/matrix_index[3]
+guide_constraints -body { write_out } -equivalent { write_out/matrix_index[3]  ~ write_out/IN3 }
+set_user_match   -inverted   $svf_ref/tpu_top/systolic_controll/matrix_index[2]   $svf_impl/tpu_top/systolic_controll/matrix_index[2]
+set_user_match   -inverted   $svf_ref/tpu_top/write_out/matrix_index[2]   $svf_impl/tpu_top/write_out/matrix_index[2]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/matrix_index[2]   $svf_impl/tpu_top/systolic/matrix_index[2]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic_controll/matrix_index[1]   $svf_impl/tpu_top/systolic_controll/matrix_index[1]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/matrix_index[1]   $svf_impl/tpu_top/systolic/matrix_index[1]
+set_user_match   -inverted   $svf_ref/tpu_top/write_out/matrix_index[1]   $svf_impl/tpu_top/write_out/matrix_index[1]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r930/B[7]   $svf_impl/tpu_top/systolic/r930/B[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r949/B[7]   $svf_impl/tpu_top/systolic/r949/B[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r987/B[7]   $svf_impl/tpu_top/systolic/r987/B[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r968/B[7]   $svf_impl/tpu_top/systolic/r968/B[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1006/B[7]   $svf_impl/tpu_top/systolic/r1006/B[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1044/B[7]   $svf_impl/tpu_top/systolic/r1044/B[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1025/B[7]   $svf_impl/tpu_top/systolic/r1025/B[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1063/B[7]   $svf_impl/tpu_top/systolic/r1063/B[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1056/A[7]   $svf_impl/tpu_top/systolic/r1056/A[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1054/A[7]   $svf_impl/tpu_top/systolic/r1054/A[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1052/A[7]   $svf_impl/tpu_top/systolic/r1052/A[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1050/A[7]   $svf_impl/tpu_top/systolic/r1050/A[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1048/A[7]   $svf_impl/tpu_top/systolic/r1048/A[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1046/A[7]   $svf_impl/tpu_top/systolic/r1046/A[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1063/A[7]   $svf_impl/tpu_top/systolic/r1063/A[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/r1058/A[7]   $svf_impl/tpu_top/systolic/r1058/A[7]
+set_user_match   -inverted   $svf_ref/tpu_top/systolic/srstn   $svf_impl/tpu_top/systolic/srstn
+set_user_match   -inverted   $svf_ref/tpu_top/systolic_controll/srstn   $svf_impl/tpu_top/systolic_controll/srstn
+guide_constraints -body { systolic } -equivalent { systolic/srstn  ~ systolic/IN0 }
+guide_constraints -body { systolic_controll } -equivalent { systolic_controll/srstn  ~ systolic_controll/IN1 }
+
+#-------------------------------------------------------------------
+

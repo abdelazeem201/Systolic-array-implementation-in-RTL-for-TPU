@@ -1,0 +1,5210 @@
+routeGuideNet clk
+wire 235.81 1190.27 235.8 1190.27 H 0.5
+wire 235.8 1190.27 235.8 1190.26 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m
+#Trunk_Term begin
+#Trunk clk_m__L1_I3 I 461.4 594.2
+#Trunk in1 O 242.2 973.8
+#Trunk clk_m__L1_I0 I 740.6 604.2
+#Trunk_Term end
+wire 740.6 604.2 725 604.2 H 0.5
+wire 725 604.2 725 613.4 V 0.5
+wire 725 613.4 484.6 613.4 H 0.5
+wire 484.6 613.4 461.4 613.4 H 0.5
+wire 461.4 594.2 461.4 613.4 V 0.5
+wire 369.8 875.8 242.2 875.8 H 0.5
+wire 242.2 875.8 242.2 973.8 V 0.5
+wire 369.8 875.8 461.4 875.8 H 0.5
+wire 461.4 875.8 461.4 613.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L1_N0
+wire 742.2 604.6 742.2 447 V 0.5
+wire 713.4 427.8 742.2 427.8 H 0.5
+wire 742.2 427.8 742.2 447 V 0.5
+wire 650.2 421.4 713.4 421.4 H 0.5
+wire 713.4 421.4 713.4 427.8 V 0.5
+wire 742.2 447 811.4 447 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L1_N1
+wire 756.6 597.8 845.4 597.8 H 0.5
+wire 745.8 600.2 745.8 597.8 V 0.5
+wire 663.8 594.2 745.8 594.2 H 0.5
+wire 745.8 594.2 745.8 597.8 V 0.5
+wire 745.8 597.8 756.6 597.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L1_N2
+wire 726.6 613 726.6 764.2 V 0.5
+wire 716.6 777 726.6 777 H 0.5
+wire 726.6 777 726.6 764.2 V 0.5
+wire 654.2 779.8 716.6 779.8 H 0.5
+wire 716.6 779.8 716.6 777 V 0.5
+wire 726.6 764.2 816.6 764.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L1_N3
+wire 480.6 425 559.4 425 H 0.5
+wire 559.4 425 559.4 421.4 V 0.5
+wire 463 593.8 463 437.8 V 0.5
+wire 388.2 437.8 463 437.8 H 0.5
+wire 463 437.8 480.6 437.8 H 0.5
+wire 480.6 437.8 480.6 425 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L1_N4
+wire 486.6 613 486.6 597.8 V 0.5
+wire 449.8 597.8 486.6 597.8 H 0.5
+wire 358.6 600.6 449.8 600.6 H 0.5
+wire 449.8 600.6 449.8 597.8 V 0.5
+wire 486.6 597.8 539.4 597.8 H 0.5
+wire 539.4 597.8 539.4 594.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L1_N5
+wire 496.6 777 559.4 777 H 0.5
+wire 390.6 754.2 390.6 777 V 0.5
+wire 371.4 875.4 390.6 875.4 H 0.5
+wire 390.6 875.4 390.6 777 V 0.5
+wire 390.6 777 496.6 777 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N2
+#Trunk_Term begin
+#Trunk clk_m__L3_I25 I 657.4 341.8
+#Trunk clk_m__L3_I26 I 667.4 466.2
+#Trunk clk_m__L3_I28 I 680.6 508.2
+#Trunk_Term end
+wire 631 341.8 657.4 341.8 H 0.5
+wire 631 341.8 631 386.6 V 0.5
+wire 651.8 389.4 651.8 421 V 0.5
+wire 651.8 389.4 631 389.4 H 0.5
+wire 631 389.4 631 386.6 V 0.5
+wire 667.4 491.8 680.6 491.8 H 0.5
+wire 680.6 491.8 680.6 508.2 V 0.5
+wire 667.4 491.8 667.4 466.2 V 0.5
+wire 667.4 491.8 632.6 491.8 H 0.5
+wire 632.6 491.8 632.6 459.8 V 0.5
+wire 637.4 425 632.6 425 H 0.5
+wire 632.6 425 632.6 459.8 V 0.5
+wire 637.4 425 651.8 425 H 0.5
+wire 651.8 425 651.8 421 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N1
+#Trunk_Term begin
+#Trunk clk_m__L3_I10 I 687 431.4
+#Trunk clk_m__L3_I11 I 687.4 348.2
+#Trunk clk_m__L3_I12 I 695.8 482.6
+#Trunk clk_m__L3_I16 I 739.4 383
+#Trunk clk_m__L3_I18 I 739.4 514.6
+#Trunk clk_m__L3_I19 I 751.8 418.6
+#Trunk_Term end
+wire 703 427.4 713.8 427.4 H 0.5
+wire 703 427.4 703 399.4 V 0.5
+wire 703 427.4 687 427.4 H 0.5
+wire 687 427.4 687 431.4 V 0.5
+wire 709 383 739.4 383 H 0.5
+wire 709 383 709 370.2 V 0.5
+wire 709 383 703 383 H 0.5
+wire 703 383 703 399.4 V 0.5
+wire 713.8 472.6 738.2 472.6 H 0.5
+wire 713.8 472.6 695.8 472.6 H 0.5
+wire 695.8 472.6 695.8 482.6 V 0.5
+wire 713.8 472.6 713.8 450.6 V 0.5
+wire 687.4 348.2 709 348.2 H 0.5
+wire 709 348.2 709 370.2 V 0.5
+wire 713.8 450.6 713.8 427.4 V 0.5
+wire 715 427.4 751.8 427.4 H 0.5
+wire 751.8 427.4 751.8 418.6 V 0.5
+wire 715 427.4 713.8 427.4 H 0.5
+wire 738.2 472.6 739.4 472.6 H 0.5
+wire 739.4 472.6 739.4 514.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N0
+#Trunk_Term begin
+#Trunk clk_m__L3_I1 I 771.4 498.2
+#Trunk clk_m__L3_I2 I 774.6 383
+#Trunk clk_m__L3_I7 I 849 427.8
+#Trunk clk_m__L3_I9 I 857 511
+#Trunk_Term end
+wire 813 453.4 817.8 453.4 H 0.5
+wire 817.8 453.4 817.8 485.4 V 0.5
+wire 813 453.4 813 446.6 V 0.5
+wire 813 453.4 806.2 453.4 H 0.5
+wire 771.4 453.4 771.4 498.2 V 0.5
+wire 771.4 453.4 806.2 453.4 H 0.5
+wire 810.6 386.6 774.6 386.6 H 0.5
+wire 774.6 386.6 774.6 383 V 0.5
+wire 810.6 386.6 810.6 412.2 V 0.5
+wire 853.8 485.4 857 485.4 H 0.5
+wire 857 485.4 857 511 V 0.5
+wire 853.8 485.4 817.8 485.4 H 0.5
+wire 810.6 412.2 813 412.2 H 0.5
+wire 813 412.2 813 427.8 V 0.5
+wire 813 446.6 813 427.8 V 0.5
+wire 849 427.8 813 427.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N5
+#Trunk_Term begin
+#Trunk clk_m__L3_I49 I 616.6 549.4
+#Trunk clk_m__L3_I50 I 625.8 607
+#Trunk clk_m__L3_I51 I 627.4 661.8
+#Trunk clk_m__L3_I52 I 641.8 527.4
+#Trunk clk_m__L3_I56 I 689.4 553
+#Trunk clk_m__L3_I58 I 713 617
+#Trunk_Term end
+wire 665.4 604.2 671.8 604.2 H 0.5
+wire 665.4 604.2 665.4 593.8 V 0.5
+wire 665.4 604.2 625.8 604.2 H 0.5
+wire 625.8 604.2 625.8 607 V 0.5
+wire 665.4 568.6 658.2 568.6 H 0.5
+wire 665.4 568.6 665.4 593.8 V 0.5
+wire 693.4 617 713 617 H 0.5
+wire 693.4 617 693.4 645.4 V 0.5
+wire 693.4 617 671.8 617 H 0.5
+wire 671.8 617 671.8 604.2 V 0.5
+wire 641.8 549.4 641.8 527.4 V 0.5
+wire 641.8 549.4 616.6 549.4 H 0.5
+wire 641.8 549.4 658.2 549.4 H 0.5
+wire 658.2 549.4 658.2 553 V 0.5
+wire 627.4 661.8 667.4 661.8 H 0.5
+wire 667.4 661.8 667.4 658.2 V 0.5
+wire 658.2 568.6 658.2 553 V 0.5
+wire 667.4 658.2 693.4 658.2 H 0.5
+wire 693.4 658.2 693.4 645.4 V 0.5
+wire 689.4 553 658.2 553 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N4
+#Trunk_Term begin
+#Trunk clk_m__L3_I40 I 712.2 575
+#Trunk clk_m__L3_I39 I 712.2 671
+#Trunk clk_m__L3_I41 I 719 533.8
+#Trunk clk_m__L3_I46 I 788.2 645.4
+#Trunk clk_m__L3_I48 I 794.6 553
+#Trunk_Term end
+wire 746.2 668.2 746.2 623.4 V 0.5
+wire 746.2 668.2 712.2 668.2 H 0.5
+wire 712.2 668.2 712.2 671 V 0.5
+wire 758.2 604.2 788.2 604.2 H 0.5
+wire 758.2 604.2 758.2 598.2 V 0.5
+wire 758.2 604.2 746.2 604.2 H 0.5
+wire 746.2 604.2 746.2 623.4 V 0.5
+wire 719 553 719 533.8 V 0.5
+wire 719 553 712.2 553 H 0.5
+wire 712.2 553 712.2 575 V 0.5
+wire 719 553 759 553 H 0.5
+wire 758.2 598.2 759 598.2 H 0.5
+wire 759 598.2 759 587.8 V 0.5
+wire 759 587.8 759 553 V 0.5
+wire 759.4 553 794.6 553 H 0.5
+wire 759.4 553 759 553 H 0.5
+wire 788.2 645.4 788.2 604.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N3
+#Trunk_Term begin
+#Trunk clk_m__L3_I29 I 811 517.4
+#Trunk clk_m__L3_I31 I 820.2 655.4
+#Trunk clk_m__L3_I35 I 871 585
+#Trunk clk_m__L3_I36 I 875.4 681
+#Trunk clk_m__L3_I37 I 875.8 543
+#Trunk_Term end
+wire 832.2 594.2 847 594.2 H 0.5
+wire 847 594.2 847 597.8 V 0.5
+wire 832.2 594.2 832.2 555.8 V 0.5
+wire 847 632.6 875.4 632.6 H 0.5
+wire 847 632.6 834.6 632.6 H 0.5
+wire 834.6 632.6 834.6 639 V 0.5
+wire 847 632.6 847 598.2 V 0.5
+wire 811 517.4 832.2 517.4 H 0.5
+wire 832.2 517.4 832.2 543 V 0.5
+wire 820.2 655.4 834.6 655.4 H 0.5
+wire 834.6 655.4 834.6 639 V 0.5
+wire 832.2 555.8 832.2 543 V 0.5
+wire 847 598.2 847 597.8 V 0.5
+wire 863.4 597.8 871 597.8 H 0.5
+wire 871 597.8 871 585 V 0.5
+wire 863.4 597.8 847 597.8 H 0.5
+wire 875.4 681 875.4 632.6 V 0.5
+wire 875.8 543 832.2 543 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N8
+#Trunk_Term begin
+#Trunk clk_m__L3_I80 I 627.8 709.4
+#Trunk clk_m__L3_I86 I 669.4 837.4
+#Trunk clk_m__L3_I88 I 673 693.8
+#Trunk_Term end
+wire 632.2 779.4 655.8 779.4 H 0.5
+wire 632.2 779.4 632.2 786.2 V 0.5
+wire 632.2 779.4 628.2 779.4 H 0.5
+wire 628.2 779.4 628.2 747.8 V 0.5
+wire 669.4 863 669.4 837.4 V 0.5
+wire 669.4 863 628.6 863 H 0.5
+wire 627.8 709.4 628.2 709.4 H 0.5
+wire 628.2 709.4 628.2 747.8 V 0.5
+wire 628.6 863 628.6 828.2 V 0.5
+wire 632.2 786.2 628.6 786.2 H 0.5
+wire 628.6 786.2 628.6 828.2 V 0.5
+wire 655.8 779.4 666.6 779.4 H 0.5
+wire 666.6 779.4 666.6 764.2 V 0.5
+wire 666.6 764.2 669 764.2 H 0.5
+wire 669 764.2 669 735 V 0.5
+wire 669 735 673 735 H 0.5
+wire 673 735 673 693.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N7
+#Trunk_Term begin
+#Trunk clk_m__L3_I78 I 767.4 841
+#Trunk clk_m__L3_I71 I 711 847.4
+#Trunk clk_m__L3_I70 I 705.4 719.4
+#Trunk clk_m__L3_I69 I 673 799
+#Trunk_Term end
+wire 767.4 841 750.2 841 H 0.5
+wire 750.2 841 750.2 821.8 V 0.5
+wire 751 741.4 740.2 741.4 H 0.5
+wire 740.2 741.4 740.2 719.4 V 0.5
+wire 751 741.4 751 777.4 V 0.5
+wire 750.2 821.8 713.8 821.8 H 0.5
+wire 718.2 777.4 751 777.4 H 0.5
+wire 718.2 777.4 713.8 777.4 H 0.5
+wire 713.8 777.4 713.8 799 V 0.5
+wire 713.8 802.6 713.8 799 V 0.5
+wire 713.8 802.6 713.8 821.8 V 0.5
+wire 711 847.4 713.8 847.4 H 0.5
+wire 713.8 847.4 713.8 821.8 V 0.5
+wire 705.4 719.4 740.2 719.4 H 0.5
+wire 673 799 713.8 799 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N6
+#Trunk_Term begin
+#Trunk clk_m__L3_I60 I 788.2 683.8
+#Trunk clk_m__L3_I64 I 818.6 847.4
+#Trunk clk_m__L3_I66 I 834.2 690.2
+#Trunk clk_m__L3_I68 I 850.6 754.2
+#Trunk clk_m__L3_I67 I 852.6 799
+#Trunk_Term end
+wire 812.6 799 852.6 799 H 0.5
+wire 812.6 799 812.6 818.2 V 0.5
+wire 812.6 799 808.6 799 H 0.5
+wire 808.6 799 808.6 792.6 V 0.5
+wire 788.2 719.4 788.2 683.8 V 0.5
+wire 788.2 719.4 823.8 719.4 H 0.5
+wire 808.6 764.6 818.2 764.6 H 0.5
+wire 808.6 764.6 808.6 792.6 V 0.5
+wire 823.8 754.2 850.6 754.2 H 0.5
+wire 823.8 754.2 823.8 722.2 V 0.5
+wire 823.8 754.2 818.2 754.2 H 0.5
+wire 812.6 818.2 818.6 818.2 H 0.5
+wire 818.6 818.2 818.6 847.4 V 0.5
+wire 818.2 764.6 818.2 754.2 V 0.5
+wire 823.8 722.2 823.8 719.4 V 0.5
+wire 834.2 690.2 823.8 690.2 H 0.5
+wire 823.8 690.2 823.8 719.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N11
+#Trunk_Term begin
+#Trunk clk_m__L3_I110 I 347.8 459.8
+#Trunk clk_m__L3_I111 I 370.6 421.4
+#Trunk clk_m__L3_I115 I 426.6 373.8
+#Trunk clk_m__L3_I116 I 428.6 453.4
+#Trunk_Term end
+wire 389.8 476.2 381 476.2 H 0.5
+wire 381 476.2 381 495.4 V 0.5
+wire 389.8 476.2 389.8 438.2 V 0.5
+wire 389.8 427.8 398.2 427.8 H 0.5
+wire 389.8 427.8 370.6 427.8 H 0.5
+wire 370.6 427.8 370.6 421.4 V 0.5
+wire 389.8 427.8 389.8 438.2 V 0.5
+wire 347.8 495.4 347.8 459.8 V 0.5
+wire 347.8 495.4 381 495.4 H 0.5
+wire 428.6 427.8 428.6 408.6 V 0.5
+wire 428.6 427.8 428.6 453.4 V 0.5
+wire 428.6 427.8 398.2 427.8 H 0.5
+wire 426.6 373.8 428.6 373.8 H 0.5
+wire 428.6 373.8 428.6 408.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N10
+#Trunk_Term begin
+#Trunk clk_m__L3_I99 I 441.8 479
+#Trunk clk_m__L3_I100 I 461.8 431.4
+#Trunk clk_m__L3_I101 I 465 344.6
+#Trunk clk_m__L3_I103 I 484.6 508.2
+#Trunk clk_m__L3_I108 I 519.4 434.2
+#Trunk clk_m__L3_I107 I 519.8 389.4
+#Trunk_Term end
+wire 474.2 373.8 489.4 373.8 H 0.5
+wire 474.2 373.8 465 373.8 H 0.5
+wire 465 373.8 465 344.6 V 0.5
+wire 482.2 431.4 484.6 431.4 H 0.5
+wire 484.6 431.4 484.6 459.8 V 0.5
+wire 482.2 431.4 461.8 431.4 H 0.5
+wire 482.2 431.4 482.2 425.4 V 0.5
+wire 519.4 412.2 519.8 412.2 H 0.5
+wire 519.8 412.2 519.8 389.4 V 0.5
+wire 519.4 412.2 519.4 434.2 V 0.5
+wire 519.4 412.2 493.8 412.2 H 0.5
+wire 484.6 479 484.6 508.2 V 0.5
+wire 484.6 479 441.8 479 H 0.5
+wire 484.6 479 484.6 459.8 V 0.5
+wire 482.2 425.4 491.4 425.4 H 0.5
+wire 491.4 425.4 491.4 412.2 V 0.5
+wire 489.4 373.8 491.4 373.8 H 0.5
+wire 491.4 373.8 491.4 380.2 V 0.5
+wire 491.4 380.2 491.4 412.2 V 0.5
+wire 493.8 412.2 491.4 412.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N9
+#Trunk_Term begin
+#Trunk clk_m__L3_I89 I 527.4 476.2
+#Trunk clk_m__L3_I92 I 552.2 331.8
+#Trunk clk_m__L3_I93 I 560.2 511
+#Trunk clk_m__L3_I98 I 595 341.8
+#Trunk clk_m__L2_I9 O 561 421
+#Trunk_Term end
+wire 571.8 427.8 585.8 427.8 H 0.5
+wire 571.8 427.8 571.8 453.4 V 0.5
+wire 571.8 427.8 561 427.8 H 0.5
+wire 561 427.8 561 421 V 0.5
+wire 585.8 367.4 595 367.4 H 0.5
+wire 595 367.4 595 341.8 V 0.5
+wire 585.8 367.4 555.4 367.4 H 0.5
+wire 585.8 367.4 585.8 386.6 V 0.5
+wire 560.2 479 560.2 511 V 0.5
+wire 560.2 479 527.4 479 H 0.5
+wire 527.4 479 527.4 476.2 V 0.5
+wire 560.2 479 571.8 479 H 0.5
+wire 552.2 331.8 555.4 331.8 H 0.5
+wire 555.4 331.8 555.4 367.4 V 0.5
+wire 571.8 453.4 571.8 479 V 0.5
+wire 585.8 386.6 585.8 427.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N14
+#Trunk_Term begin
+#Trunk clk_m__L3_I138 I 322.2 604.2
+#Trunk clk_m__L3_I139 I 323 649
+#Trunk clk_m__L3_I140 I 331.8 546.6
+#Trunk clk_m__L3_I142 I 360.6 527.4
+#Trunk clk_m__L3_I145 I 382.2 568.6
+#Trunk clk_m__L3_I146 I 398.2 677.4
+#Trunk clk_m__L3_I147 I 399.4 604.2
+#Trunk_Term end
+wire 360.2 581.4 360.2 600.2 V 0.5
+wire 360.2 581.4 359.8 581.4 H 0.5
+wire 364.2 649 365.8 649 H 0.5
+wire 365.8 649 365.8 658.2 V 0.5
+wire 364.2 649 323 649 H 0.5
+wire 364.2 649 364.2 623.4 V 0.5
+wire 364.2 604.2 399.4 604.2 H 0.5
+wire 364.2 604.2 364.2 623.4 V 0.5
+wire 364.2 604.2 360.2 604.2 H 0.5
+wire 359.8 546.6 360.6 546.6 H 0.5
+wire 360.6 546.6 360.6 527.4 V 0.5
+wire 359.8 546.6 331.8 546.6 H 0.5
+wire 359.8 546.6 359.8 568.6 V 0.5
+wire 322.2 604.2 360.2 604.2 H 0.5
+wire 359.8 581.4 359.8 568.6 V 0.5
+wire 360.2 600.2 360.2 604.2 V 0.5
+wire 365.8 658.2 398.2 658.2 H 0.5
+wire 398.2 658.2 398.2 677.4 V 0.5
+wire 382.2 568.6 359.8 568.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N13
+#Trunk_Term begin
+#Trunk clk_m__L3_I128 I 405 536.6
+#Trunk clk_m__L3_I129 I 410.6 651.8
+#Trunk clk_m__L3_I131 I 439.4 517.4
+#Trunk clk_m__L3_I136 I 482.6 568.6
+#Trunk clk_m__L3_I137 I 486.6 671
+#Trunk_Term end
+wire 446.6 642.6 457.4 642.6 H 0.5
+wire 446.6 642.6 446.6 607 V 0.5
+wire 446.6 642.6 410.6 642.6 H 0.5
+wire 410.6 642.6 410.6 651.8 V 0.5
+wire 457.4 671 486.6 671 H 0.5
+wire 457.4 671 457.4 642.6 V 0.5
+wire 439.4 536.6 439.4 517.4 V 0.5
+wire 439.4 536.6 405 536.6 H 0.5
+wire 439.4 536.6 462.2 536.6 H 0.5
+wire 462.2 536.6 462.2 543 V 0.5
+wire 462.2 568.6 482.6 568.6 H 0.5
+wire 462.2 568.6 462.2 543 V 0.5
+wire 462.2 568.6 451.4 568.6 H 0.5
+wire 446.6 607 451.4 607 H 0.5
+wire 451.4 607 451.4 598.2 V 0.5
+wire 451.4 598.2 451.4 568.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N12
+#Trunk_Term begin
+#Trunk clk_m__L3_I118 I 491 607
+#Trunk clk_m__L3_I119 I 501.8 649
+#Trunk clk_m__L3_I121 I 516.2 514.6
+#Trunk clk_m__L3_I124 I 543.4 671
+#Trunk clk_m__L3_I126 I 585 565.8
+#Trunk clk_m__L3_I127 I 590.2 523.8
+#Trunk_Term end
+wire 541 649 543.4 649 H 0.5
+wire 543.4 649 543.4 671 V 0.5
+wire 541 649 541 626.2 V 0.5
+wire 541 649 501.8 649 H 0.5
+wire 585 543 590.2 543 H 0.5
+wire 590.2 543 590.2 523.8 V 0.5
+wire 585 543 585 565.8 V 0.5
+wire 585 543 547.8 543 H 0.5
+wire 534.2 555.8 516.2 555.8 H 0.5
+wire 534.2 555.8 547.8 555.8 H 0.5
+wire 547.8 555.8 547.8 543 V 0.5
+wire 534.2 555.8 534.2 581.4 V 0.5
+wire 491 607 541 607 H 0.5
+wire 516.2 514.6 516.2 555.8 V 0.5
+wire 534.2 581.4 541 581.4 H 0.5
+wire 541 581.4 541 593.8 V 0.5
+wire 541 593.8 541 607 V 0.5
+wire 541 626.2 541 607 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N17
+#Trunk_Term begin
+#Trunk clk_m__L3_I168 I 331.4 703
+#Trunk clk_m__L3_I169 I 359.4 754.2
+#Trunk clk_m__L3_I170 I 365.4 796.2
+#Trunk clk_m__L3_I174 I 417.8 805.4
+#Trunk clk_m__L3_I176 I 427 700.2
+#Trunk clk_m__L3_I177 I 448.2 760.6
+#Trunk_Term end
+wire 387.8 706.6 427 706.6 H 0.5
+wire 427 706.6 427 700.2 V 0.5
+wire 387.8 706.6 387.8 732.2 V 0.5
+wire 387.8 706.6 371.8 706.6 H 0.5
+wire 419 753.8 448.2 753.8 H 0.5
+wire 448.2 753.8 448.2 760.6 V 0.5
+wire 419 753.8 399.4 753.8 H 0.5
+wire 399.4 796.2 417.8 796.2 H 0.5
+wire 417.8 796.2 417.8 805.4 V 0.5
+wire 399.4 796.2 365.4 796.2 H 0.5
+wire 399.4 796.2 399.4 779.8 V 0.5
+wire 331.4 703 371.8 703 H 0.5
+wire 371.8 703 371.8 706.6 V 0.5
+wire 359.4 754.2 387.8 754.2 H 0.5
+wire 387.8 754.2 387.8 753.8 V 0.5
+wire 387.8 732.2 387.8 753.8 V 0.5
+wire 392.2 753.8 399.4 753.8 H 0.5
+wire 392.2 753.8 387.8 753.8 H 0.5
+wire 399.4 779.8 399.4 753.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N16
+#Trunk_Term begin
+#Trunk clk_m__L3_I160 I 463.8 821.8
+#Trunk clk_m__L3_I159 I 465 719.4
+#Trunk clk_m__L3_I166 I 515.4 773.4
+#Trunk clk_m__L3_I165 I 516.2 693.8
+#Trunk clk_m__L3_I167 I 525 863
+#Trunk_Term end
+wire 498.6 853.8 525 853.8 H 0.5
+wire 525 853.8 525 863 V 0.5
+wire 498.6 853.8 498.6 802.6 V 0.5
+wire 473.8 732.2 507.8 732.2 H 0.5
+wire 473.8 732.2 465 732.2 H 0.5
+wire 465 732.2 465 719.4 V 0.5
+wire 473.8 732.2 473.8 757.8 V 0.5
+wire 473.8 777.4 463.8 777.4 H 0.5
+wire 463.8 777.4 463.8 792.6 V 0.5
+wire 473.8 777.4 473.8 757.8 V 0.5
+wire 473.8 777.4 498.2 777.4 H 0.5
+wire 463.8 821.8 463.8 792.6 V 0.5
+wire 498.2 777.4 498.6 777.4 H 0.5
+wire 498.6 802.6 498.6 777.4 V 0.5
+wire 507.8 732.2 516.2 732.2 H 0.5
+wire 516.2 732.2 516.2 693.8 V 0.5
+wire 515.4 773.4 498.6 773.4 H 0.5
+wire 498.6 773.4 498.6 777.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L2_N15
+#Trunk_Term begin
+#Trunk clk_m__L3_I153 I 583 869.4
+#Trunk clk_m__L3_I154 I 581.8 683.8
+#Trunk clk_m__L3_I151 I 558.6 843.8
+#Trunk clk_m__L3_I149 I 550.6 728.6
+#Trunk clk_m__L3_I148 I 532.6 818.2
+#Trunk clk_m__L2_I15 O 561 777.4
+#Trunk_Term end
+wire 585 757.8 583.4 757.8 H 0.5
+wire 583.4 757.8 583.4 777.4 V 0.5
+wire 585 757.8 585 728.6 V 0.5
+wire 583.4 828.2 583 828.2 H 0.5
+wire 583 828.2 583 843.8 V 0.5
+wire 583.4 828.2 583.4 818.2 V 0.5
+wire 585 715.8 581.8 715.8 H 0.5
+wire 581.8 715.8 581.8 683.8 V 0.5
+wire 585 715.8 585 728.6 V 0.5
+wire 583.4 799 583.4 818.2 V 0.5
+wire 583.4 799 583.4 777.4 V 0.5
+wire 583 869.4 583 843.8 V 0.5
+wire 561 777.4 583.4 777.4 H 0.5
+wire 558.6 843.8 583 843.8 H 0.5
+wire 550.6 728.6 585 728.6 H 0.5
+wire 532.6 818.2 583.4 818.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N28
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[158\]\[5\] CK 673.8 514.6
+#Trunk mips_core/datamem/ram_reg\[159\]\[3\] CK 672.6 491.8
+#Trunk mips_core/datamem/ram_reg\[235\]\[13\] CK 700.2 523.8
+#Trunk_Term end
+wire 684.2 521 689.4 521 H 0.5
+wire 689.4 521 689.4 523.8 V 0.5
+wire 684.2 521 684.2 514.6 V 0.5
+wire 689.8 523.8 700.2 523.8 H 0.5
+wire 689.8 523.8 689.4 523.8 H 0.5
+wire 700.2 517.4 700.2 523.8 V 0.5
+wire 673.8 508.6 673.8 514.6 V 0.5
+wire 673.8 508.6 682.2 508.6 H 0.5
+wire 674.6 491.8 672.6 491.8 H 0.5
+wire 674.6 491.8 681.8 491.8 H 0.5
+wire 684.2 504.6 684.2 501.8 V 0.5
+wire 684.2 504.6 683.8 504.6 H 0.5
+wire 683.8 504.6 683.8 508.6 V 0.5
+wire 662.6 491.8 672.6 491.8 H 0.5
+wire 681.8 498.2 681.8 491.8 V 0.5
+wire 681.8 498.2 684.2 498.2 H 0.5
+wire 684.2 498.2 684.2 501.8 V 0.5
+wire 682.2 508.6 683.8 508.6 H 0.5
+wire 683.8 511 683.8 508.6 V 0.5
+wire 683.8 511 684.2 511 H 0.5
+wire 684.2 511 684.2 514.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N27
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[162\]\[0\] CK 665.4 386.6
+#Trunk mips_core/datamem/ram_reg\[162\]\[1\] CK 657 405.8
+#Trunk mips_core/datamem/ram_reg\[161\]\[0\] CK 673.4 386.6
+#Trunk mips_core/datamem/ram_reg\[160\]\[7\] CK 667.4 383
+#Trunk_Term end
+wire 667.4 386.6 667.8 386.6 H 0.5
+wire 667.8 386.6 667.8 389 V 0.5
+wire 667.4 386.6 667.4 383 V 0.5
+wire 667.4 386.6 665.4 386.6 H 0.5
+wire 675.4 399.4 675.4 405.8 V 0.5
+wire 675.4 399.4 673.4 399.4 H 0.5
+wire 679 386.6 673.4 386.6 H 0.5
+wire 672.6 389.4 673.4 389.4 H 0.5
+wire 673.4 389.4 673.4 386.6 V 0.5
+wire 672.6 389.4 672.6 395.8 V 0.5
+wire 672.6 389.4 669.8 389.4 H 0.5
+wire 657 405.8 669 405.8 H 0.5
+wire 667.4 383 668.2 383 H 0.5
+wire 668.2 383 668.2 376.6 V 0.5
+wire 667.8 389 669.8 389 H 0.5
+wire 669.8 389 669.8 389.4 V 0.5
+wire 669 405.8 675.4 405.8 H 0.5
+wire 672.6 395.8 673.4 395.8 H 0.5
+wire 673.4 395.8 673.4 399.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N26
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[165\]\[8\] CK 657 459.8
+#Trunk mips_core/datamem/ram_reg\[164\]\[1\] CK 668.6 476.2
+#Trunk mips_core/datamem/ram_reg\[164\]\[9\] CK 674.6 459.8
+#Trunk_Term end
+wire 674.6 459.8 671 459.8 H 0.5
+wire 671 459.8 669 459.8 H 0.5
+wire 669 465.8 669 459.8 V 0.5
+wire 669 465.8 666.6 465.8 H 0.5
+wire 668.6 476.2 662.2 476.2 H 0.5
+wire 665.4 466.2 666.6 466.2 H 0.5
+wire 666.6 466.2 666.6 465.8 V 0.5
+wire 665.4 466.2 662.2 466.2 H 0.5
+wire 662.2 472.6 662.2 466.2 V 0.5
+wire 662.2 472.6 662.2 476.2 V 0.5
+wire 657.4 466.2 657 466.2 H 0.5
+wire 657 466.2 657 459.8 V 0.5
+wire 657.4 466.2 662.2 466.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N25
+#Trunk_Term begin
+#Trunk clk_m__L3_I25 O 659 342.2
+#Trunk mips_core/datamem/ram_reg\[171\]\[8\] CK 652.6 363.8
+#Trunk mips_core/datamem/ram_reg\[171\]\[6\] CK 668.2 335.4
+#Trunk mips_core/datamem/ram_reg\[171\]\[1\] CK 649.4 331.8
+#Trunk_Term end
+wire 647 354.6 647 361 V 0.5
+wire 647 354.6 646.2 354.6 H 0.5
+wire 644.2 344.6 644.2 351 V 0.5
+wire 644.2 344.6 647 344.6 H 0.5
+wire 647 344.6 647 341.8 V 0.5
+wire 647 363.8 652.6 363.8 H 0.5
+wire 647 363.8 647 361 V 0.5
+wire 655.8 341.8 658.2 341.8 H 0.5
+wire 658.2 341.8 658.2 342.2 V 0.5
+wire 655.8 341.8 647 341.8 H 0.5
+wire 655.8 341.8 655.8 335.4 V 0.5
+wire 655.8 331.8 655.8 335.4 V 0.5
+wire 655.8 331.8 649.4 331.8 H 0.5
+wire 655.8 331.8 661 331.8 H 0.5
+wire 644.2 351 646.2 351 H 0.5
+wire 646.2 351 646.2 354.6 V 0.5
+wire 649.4 331.8 647.8 331.8 H 0.5
+wire 647.8 331.8 647.8 329 V 0.5
+wire 659 342.2 658.2 342.2 H 0.5
+wire 661 331.8 668.2 331.8 H 0.5
+wire 668.2 335.4 668.2 331.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N24
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[135\]\[1\] CK 624.6 437.8
+#Trunk mips_core/datamem/ram_reg\[160\]\[8\] CK 654.2 434.2
+#Trunk mips_core/datamem/ram_reg\[132\]\[5\] CK 623.8 418.6
+#Trunk_Term end
+wire 624.6 425 624.6 427.8 V 0.5
+wire 624.6 425 624.2 425 H 0.5
+wire 624.2 425 624.2 421.4 V 0.5
+wire 619.4 415 623.8 415 H 0.5
+wire 623.8 415 623.8 418.6 V 0.5
+wire 629.8 437.8 624.6 437.8 H 0.5
+wire 629.8 437.8 629.8 431.4 V 0.5
+wire 629.8 427.8 635.4 427.8 H 0.5
+wire 629.8 427.8 629.8 431.4 V 0.5
+wire 629.8 427.8 624.6 427.8 H 0.5
+wire 646.2 425.4 651.8 425.4 H 0.5
+wire 651.8 425.4 651.8 425 V 0.5
+wire 646.2 425.4 639.4 425.4 H 0.5
+wire 623.8 418.6 624.2 418.6 H 0.5
+wire 624.2 418.6 624.2 421.4 V 0.5
+wire 635.4 427.8 639 427.8 H 0.5
+wire 639 427.8 639 425.4 V 0.5
+wire 639 425.4 639.4 425.4 H 0.5
+wire 651.8 425 653.8 425 H 0.5
+wire 654.2 434.2 653.8 434.2 H 0.5
+wire 653.8 434.2 653.8 425 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N23
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[143\]\[4\] CK 615 399.4
+#Trunk mips_core/datamem/ram_reg\[128\]\[6\] CK 639.4 373.8
+#Trunk mips_core/datamem/ram_reg\[128\]\[5\] CK 631 367.4
+#Trunk mips_core/datamem/ram_reg\[128\]\[3\] CK 643 393
+#Trunk_Term end
+wire 623.8 389.4 631.4 389.4 H 0.5
+wire 623.8 389.4 623.8 386.6 V 0.5
+wire 623.8 389.4 623.4 389.4 H 0.5
+wire 641 387 643 387 H 0.5
+wire 643 387 643 393 V 0.5
+wire 641 387 632.6 387 H 0.5
+wire 646.2 399.4 643 399.4 H 0.5
+wire 643 399.4 643 393 V 0.5
+wire 622.6 367.4 631 367.4 H 0.5
+wire 631 370.2 635.4 370.2 H 0.5
+wire 631 370.2 631 367.4 V 0.5
+wire 631 370.2 630.6 370.2 H 0.5
+wire 630.6 370.2 630.6 376.6 V 0.5
+wire 615 389.4 615 399.4 V 0.5
+wire 615 389.4 623.4 389.4 H 0.5
+wire 623.8 386.6 623.8 380.2 V 0.5
+wire 625.4 380.2 630.6 380.2 H 0.5
+wire 630.6 380.2 630.6 376.6 V 0.5
+wire 625.4 380.2 623.8 380.2 H 0.5
+wire 631.4 389.4 632.6 389.4 H 0.5
+wire 632.6 389.4 632.6 387 V 0.5
+wire 635.4 370.2 639.4 370.2 H 0.5
+wire 639.4 370.2 639.4 373.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N22
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[154\]\[5\] CK 626.2 508.2
+#Trunk mips_core/datamem/ram_reg\[158\]\[7\] CK 647 489
+#Trunk mips_core/datamem/ram_reg\[155\]\[6\] CK 623.8 501.8
+#Trunk mips_core/datamem/ram_reg\[153\]\[7\] CK 615.4 479
+#Trunk_Term end
+wire 609 479 615.4 479 H 0.5
+wire 624.6 482.6 624.6 489 V 0.5
+wire 624.6 482.6 619.8 482.6 H 0.5
+wire 625 498.2 625 501.8 V 0.5
+wire 625 498.2 625 495.4 V 0.5
+wire 639.8 485.4 647 485.4 H 0.5
+wire 639.8 485.4 636.6 485.4 H 0.5
+wire 615.4 479 619.8 479 H 0.5
+wire 619.8 479 619.8 482.6 V 0.5
+wire 623.8 501.8 625 501.8 H 0.5
+wire 624.6 489 625 489 H 0.5
+wire 625 489 625 491.8 V 0.5
+wire 625 495.4 625 491.8 V 0.5
+wire 625.4 491.8 634.2 491.8 H 0.5
+wire 634.2 491.8 634.2 491.4 V 0.5
+wire 625.4 491.8 625 491.8 H 0.5
+wire 626.2 508.2 625 508.2 H 0.5
+wire 625 508.2 625 501.8 V 0.5
+wire 634.2 491.4 635.4 491.4 H 0.5
+wire 635.4 491.4 635.4 489 V 0.5
+wire 635.4 489 636.6 489 H 0.5
+wire 636.6 489 636.6 485.4 V 0.5
+wire 647 485.4 647 489 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N21
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[147\]\[4\] CK 639.8 472.6
+#Trunk mips_core/datamem/ram_reg\[145\]\[7\] CK 613.8 463.4
+#Trunk mips_core/datamem/ram_reg\[132\]\[3\] CK 637.4 447
+#Trunk_Term end
+wire 630.2 459.8 630.2 457 V 0.5
+wire 630.2 459.8 628.2 459.8 H 0.5
+wire 630.2 459.8 630.2 463.4 V 0.5
+wire 630.2 447 637.4 447 H 0.5
+wire 630.2 447 630.2 450.6 V 0.5
+wire 643 447 637.4 447 H 0.5
+wire 635.4 472.6 635.4 466.2 V 0.5
+wire 635.4 472.6 639.8 472.6 H 0.5
+wire 613.8 457 613.8 463.4 V 0.5
+wire 613.8 457 623.4 457 H 0.5
+wire 623.4 457 626.2 457 H 0.5
+wire 626.2 457 626.2 459.4 V 0.5
+wire 626.2 459.4 628.2 459.4 H 0.5
+wire 628.2 459.4 628.2 459.8 V 0.5
+wire 630.2 450.6 630.2 457 V 0.5
+wire 630.2 463.4 635.4 463.4 H 0.5
+wire 635.4 463.4 635.4 466.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N20
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[129\]\[7\] CK 613.8 341.8
+#Trunk mips_core/datamem/ram_reg\[138\]\[1\] CK 624.6 319
+#Trunk mips_core/datamem/ram_reg\[136\]\[5\] CK 622.6 351
+#Trunk_Term end
+wire 630.2 335.4 630.2 337.8 V 0.5
+wire 630.2 335.4 630.2 329 V 0.5
+wire 623.4 337.8 619.8 337.8 H 0.5
+wire 619.8 337.8 619.8 341.8 V 0.5
+wire 623.4 337.8 624.6 337.8 H 0.5
+wire 615.8 341.8 615.8 348.2 V 0.5
+wire 615.8 341.8 613.8 341.8 H 0.5
+wire 615.8 341.8 619.8 341.8 H 0.5
+wire 629 351 625.4 351 H 0.5
+wire 615.8 348.2 615.8 351 V 0.5
+wire 622.6 351 625.4 351 H 0.5
+wire 622.6 351 615.8 351 H 0.5
+wire 624.6 319 630.2 319 H 0.5
+wire 624.6 337.8 630.2 337.8 H 0.5
+wire 630.2 319 630.2 329 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N19
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[175\]\[15\] CK 733.4 412.2
+#Trunk mips_core/datamem/ram_reg\[175\]\[6\] CK 760.6 421.4
+#Trunk_Term end
+wire 753.4 415 753.4 419 V 0.5
+wire 753.4 415 752.6 415 H 0.5
+wire 753.8 421.4 760.6 421.4 H 0.5
+wire 753.8 421.4 753.4 421.4 H 0.5
+wire 744.2 425 738.6 425 H 0.5
+wire 744.2 425 744.6 425 H 0.5
+wire 744.6 425 744.6 421.4 V 0.5
+wire 748.2 415 744.6 415 H 0.5
+wire 748.2 415 752.6 415 H 0.5
+wire 731 415 733.4 415 H 0.5
+wire 733.4 415 733.4 412.2 V 0.5
+wire 731 415 731 421.4 V 0.5
+wire 763.8 421.4 760.6 421.4 H 0.5
+wire 731 421.4 731 425 V 0.5
+wire 738.6 425 731 425 H 0.5
+wire 744.6 421.4 744.6 415 V 0.5
+wire 753.4 419 753.4 421.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N18
+#Trunk_Term begin
+#Trunk clk_m__L3_I18 O 741 515
+#Trunk mips_core/datamem/ram_reg\[233\]\[2\] CK 760.6 498.2
+#Trunk mips_core/datamem/ram_reg\[235\]\[6\] CK 735 501.8
+#Trunk mips_core/datamem/ram_reg\[234\]\[10\] CK 748.6 521
+#Trunk_Term end
+wire 748.6 514.6 748.6 521 V 0.5
+wire 748.6 514.6 748.2 514.6 H 0.5
+wire 737.4 501.8 743 501.8 H 0.5
+wire 737.4 501.8 735 501.8 H 0.5
+wire 737.4 501.8 737.4 508.2 V 0.5
+wire 737.4 514.6 737.4 508.2 V 0.5
+wire 737.4 514.6 741 514.6 H 0.5
+wire 741 515 741 514.6 V 0.5
+wire 743 498.2 751.8 498.2 H 0.5
+wire 743 498.2 743 501.8 V 0.5
+wire 748.2 514.6 741 514.6 H 0.5
+wire 751.8 498.2 760.6 498.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N17
+#Trunk_Term begin
+#Trunk clk_m__L3_I17 O 739.8 472.2
+#Trunk mips_core/datamem/ram_reg\[174\]\[12\] CK 746.6 453.4
+#Trunk mips_core/datamem/ram_reg\[252\]\[11\] CK 749.4 482.6
+#Trunk mips_core/datamem/ram_reg\[235\]\[12\] CK 730.6 482.6
+#Trunk_Term end
+wire 749.4 482.6 746.6 482.6 H 0.5
+wire 746.6 482.6 742.6 482.6 H 0.5
+wire 746.6 463.4 746.6 453.4 V 0.5
+wire 746.6 463.4 746.6 466.2 V 0.5
+wire 743.8 469.8 746.6 469.8 H 0.5
+wire 746.6 469.8 746.6 466.2 V 0.5
+wire 743.8 469.8 742.6 469.8 H 0.5
+wire 742.6 469.8 742.6 472.2 V 0.5
+wire 742.6 476.2 742.6 472.2 V 0.5
+wire 742.6 476.2 742.6 482.6 V 0.5
+wire 739.8 472.2 742.6 472.2 H 0.5
+wire 738.6 482.6 732.6 482.6 H 0.5
+wire 738.6 482.6 742.6 482.6 H 0.5
+wire 730.6 482.6 725.4 482.6 H 0.5
+wire 730.6 482.6 732.6 482.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N16
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[175\]\[14\] CK 743 395.8
+#Trunk mips_core/datamem/ram_reg\[173\]\[7\] CK 721 376.6
+#Trunk mips_core/datamem/ram_reg\[173\]\[4\] CK 749.8 373.8
+#Trunk_Term end
+wire 732.2 376.6 732.2 383 V 0.5
+wire 732.2 376.6 721 376.6 H 0.5
+wire 737.8 393 732.6 393 H 0.5
+wire 737.8 393 739.4 393 H 0.5
+wire 737.8 393 737.8 389.4 V 0.5
+wire 749.8 367.4 749.8 373.8 V 0.5
+wire 737.8 383 741 383 H 0.5
+wire 737.8 383 737.8 389.4 V 0.5
+wire 737.8 383 732.2 383 H 0.5
+wire 739.4 393 743 393 H 0.5
+wire 743 393 743 395.8 V 0.5
+wire 741 382.6 741 373.8 V 0.5
+wire 741 382.6 741 383 V 0.5
+wire 747 373.8 749.8 373.8 H 0.5
+wire 747 373.8 741 373.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N15
+#Trunk_Term begin
+#Trunk clk_m__L3_I15 O 710.6 369.8
+#Trunk mips_core/datamem/ram_reg\[170\]\[14\] CK 715.8 335.4
+#Trunk mips_core/datamem/ram_reg\[171\]\[13\] CK 737.8 351
+#Trunk mips_core/datamem/ram_reg\[168\]\[5\] CK 701.8 338.2
+#Trunk_Term end
+wire 731 354.6 732.2 354.6 H 0.5
+wire 731 354.6 722.2 354.6 H 0.5
+wire 708.2 344.6 708.2 341.8 V 0.5
+wire 708.2 344.6 705.8 344.6 H 0.5
+wire 708.2 344.6 710.6 344.6 H 0.5
+wire 710.6 344.6 710.6 351 V 0.5
+wire 701.8 341.8 701.8 338.2 V 0.5
+wire 701.8 341.8 701.8 344.6 V 0.5
+wire 711 363.8 710.6 363.8 H 0.5
+wire 710.6 363.8 710.6 369.8 V 0.5
+wire 711 363.8 711 361 V 0.5
+wire 737.8 354.6 737.8 351 V 0.5
+wire 737.8 354.6 732.2 354.6 H 0.5
+wire 710.6 357.4 711 357.4 H 0.5
+wire 711 357.4 711 361 V 0.5
+wire 710.6 357.4 710.6 354.6 V 0.5
+wire 701.8 331.8 701.8 338.2 V 0.5
+wire 715.8 341.8 715.8 335.4 V 0.5
+wire 715.8 341.8 708.2 341.8 H 0.5
+wire 701.8 344.6 705.8 344.6 H 0.5
+wire 710.6 351 710.6 354.6 V 0.5
+wire 722.2 354.6 710.6 354.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N14
+#Trunk_Term begin
+#Trunk clk_m__L3_I14 O 715.4 451
+#Trunk mips_core/datamem/ram_reg\[165\]\[2\] CK 722.2 444.2
+#Trunk mips_core/datamem/ram_reg\[173\]\[10\] CK 731 447
+#Trunk mips_core/datamem/ram_reg\[166\]\[5\] CK 716.6 453.4
+#Trunk_Term end
+wire 707 453.4 716.6 453.4 H 0.5
+wire 716.6 451 717.4 451 H 0.5
+wire 717.4 451 717.4 450.6 V 0.5
+wire 716.6 451 715.4 451 H 0.5
+wire 716.6 451 716.6 453.4 V 0.5
+wire 736.6 447 731 447 H 0.5
+wire 722.2 437.8 722.2 444.2 V 0.5
+wire 722.2 450.6 725.4 450.6 H 0.5
+wire 722.2 450.6 722.2 444.2 V 0.5
+wire 722.2 450.6 717.4 450.6 H 0.5
+wire 727.4 450.6 731 450.6 H 0.5
+wire 731 450.6 731 447 V 0.5
+wire 727.4 450.6 725.4 450.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N13
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[161\]\[15\] CK 689.4 399.4
+#Trunk mips_core/datamem/ram_reg\[163\]\[2\] CK 705.4 383
+#Trunk mips_core/datamem/ram_reg\[160\]\[14\] CK 710.2 408.6
+#Trunk_Term end
+wire 710.2 415 710.2 408.6 V 0.5
+wire 693.8 395.8 699 395.8 H 0.5
+wire 693.8 395.8 693.8 393 V 0.5
+wire 693.8 395.8 689.4 395.8 H 0.5
+wire 689.4 395.8 689.4 399.4 V 0.5
+wire 705.4 380.2 705.4 383 V 0.5
+wire 705.4 380.2 700.2 380.2 H 0.5
+wire 710.2 405.8 710.2 408.6 V 0.5
+wire 710.2 405.8 704.6 405.8 H 0.5
+wire 695.4 380.2 700.2 380.2 H 0.5
+wire 695.4 380.2 695.4 386.6 V 0.5
+wire 693.8 393 695.4 393 H 0.5
+wire 695.4 393 695.4 386.6 V 0.5
+wire 699 395.8 700.2 395.8 H 0.5
+wire 700.2 395.8 700.2 399.4 V 0.5
+wire 700.2 399.4 704.6 399.4 H 0.5
+wire 704.6 399.4 704.6 399.8 V 0.5
+wire 704.6 399.8 704.6 405.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N12
+#Trunk_Term begin
+#Trunk clk_m__L3_I12 O 697.4 483
+#Trunk mips_core/datamem/ram_reg\[232\]\[5\] CK 700.2 501.8
+#Trunk mips_core/datamem/ram_reg\[165\]\[4\] CK 686.6 472.6
+#Trunk mips_core/datamem/ram_reg\[167\]\[13\] CK 709 479
+#Trunk_Term end
+wire 705.8 482.6 700.6 482.6 H 0.5
+wire 705.8 482.6 707.4 482.6 H 0.5
+wire 705.8 482.6 705.8 485.4 V 0.5
+wire 699.4 483 697.4 483 H 0.5
+wire 699.4 483 699.4 482.6 V 0.5
+wire 686.6 482.6 686.6 472.6 V 0.5
+wire 686.6 482.6 688.6 482.6 H 0.5
+wire 700.2 491.8 700.2 501.8 V 0.5
+wire 700.2 491.8 697.8 491.8 H 0.5
+wire 700.2 491.8 700.2 489 V 0.5
+wire 705.8 489 700.2 489 H 0.5
+wire 705.8 489 705.8 485.4 V 0.5
+wire 709 472.6 709 479 V 0.5
+wire 688.6 482.6 689.4 482.6 H 0.5
+wire 689.4 482.6 689.4 489 V 0.5
+wire 689.4 489 689.8 489 H 0.5
+wire 689.8 489 689.8 491.8 V 0.5
+wire 689.8 491.8 697.8 491.8 H 0.5
+wire 699.4 482.6 700.2 482.6 H 0.5
+wire 707.4 482.6 709 482.6 H 0.5
+wire 709 482.6 709 479 V 0.5
+wire 700.2 482.6 700.6 482.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N11
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[169\]\[11\] CK 695 361
+#Trunk mips_core/datamem/ram_reg\[169\]\[3\] CK 674.2 354.6
+#Trunk mips_core/datamem/ram_reg\[169\]\[9\] CK 688.2 331.8
+#Trunk_Term end
+wire 691 348.6 689 348.6 H 0.5
+wire 691 348.6 691 354.6 V 0.5
+wire 673.4 354.6 674.2 354.6 H 0.5
+wire 688.6 348.2 688.6 338.2 V 0.5
+wire 688.6 348.2 689 348.2 H 0.5
+wire 689 348.2 689 348.6 V 0.5
+wire 688.6 335.4 688.2 335.4 H 0.5
+wire 688.2 335.4 688.2 331.8 V 0.5
+wire 688.6 335.4 688.6 338.2 V 0.5
+wire 687 329 688.2 329 H 0.5
+wire 688.2 329 688.2 331.8 V 0.5
+wire 674.2 354.6 682.2 354.6 H 0.5
+wire 682.2 354.6 691 354.6 H 0.5
+wire 691.8 357.4 695 357.4 H 0.5
+wire 695 357.4 695 361 V 0.5
+wire 691.8 357.4 691 357.4 H 0.5
+wire 691 357.4 691 354.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N10
+#Trunk_Term begin
+#Trunk clk_m__L3_I10 O 688.6 431.8
+#Trunk mips_core/datamem/ram_reg\[163\]\[8\] CK 666.2 427.8
+#Trunk mips_core/datamem/ram_reg\[164\]\[15\] CK 700.2 434.2
+#Trunk mips_core/datamem/ram_reg\[162\]\[11\] CK 679.4 421.4
+#Trunk mips_core/datamem/ram_reg\[166\]\[0\] CK 684.6 440.6
+#Trunk_Term end
+wire 688.6 427.8 689.8 427.8 H 0.5
+wire 689.8 427.8 689.8 425 V 0.5
+wire 688.6 427.8 688.6 431.8 V 0.5
+wire 688.6 427.8 684.6 427.8 H 0.5
+wire 679.4 427.8 679.4 434.2 V 0.5
+wire 679.4 427.8 684.6 427.8 H 0.5
+wire 679.4 427.8 679.4 421.4 V 0.5
+wire 679.4 427.8 673 427.8 H 0.5
+wire 700.2 425 700.2 434.2 V 0.5
+wire 700.2 425 689.8 425 H 0.5
+wire 666.2 427.8 673 427.8 H 0.5
+wire 684.2 434.2 684.6 434.2 H 0.5
+wire 684.6 434.2 684.6 440.6 V 0.5
+wire 684.2 434.2 679.4 434.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N9
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[249\]\[7\] CK 847.4 523.8
+#Trunk mips_core/datamem/ram_reg\[248\]\[15\] CK 869.8 504.6
+#Trunk mips_core/datamem/ram_reg\[251\]\[11\] CK 853.4 498.2
+#Trunk_Term end
+wire 847.4 517.4 848.6 517.4 H 0.5
+wire 847.4 517.4 847.4 523.8 V 0.5
+wire 853.4 504.6 853.4 498.2 V 0.5
+wire 853.4 504.6 853.8 504.6 H 0.5
+wire 853.8 504.6 853.8 508.2 V 0.5
+wire 853.8 510.6 858.6 510.6 H 0.5
+wire 853.8 510.6 853.8 508.2 V 0.5
+wire 853.8 510.6 851.4 510.6 H 0.5
+wire 851.4 510.6 851.4 511 V 0.5
+wire 861.4 510.6 863.4 510.6 H 0.5
+wire 863.4 510.6 863.4 511 V 0.5
+wire 861.4 510.6 858.6 510.6 H 0.5
+wire 853.4 491.8 853.4 498.2 V 0.5
+wire 848.6 517.4 851.4 517.4 H 0.5
+wire 851.4 517.4 851.4 511 V 0.5
+wire 869.8 504.6 869.8 511 V 0.5
+wire 869.8 511 863.4 511 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N8
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[244\]\[14\] CK 834.2 457
+#Trunk mips_core/datamem/ram_reg\[250\]\[4\] CK 862.2 463.4
+#Trunk mips_core/datamem/ram_reg\[251\]\[12\] CK 856.2 476.2
+#Trunk_Term end
+wire 855.4 466.2 860.6 466.2 H 0.5
+wire 855.4 466.2 855.4 470.2 V 0.5
+wire 855.4 466.2 847.4 466.2 H 0.5
+wire 856.2 482.6 856.2 476.2 V 0.5
+wire 836.2 457 842.2 457 H 0.5
+wire 836.2 457 834.2 457 H 0.5
+wire 847.4 457 847.4 466.2 V 0.5
+wire 847.4 457 844.2 457 H 0.5
+wire 842.2 457 844.2 457 H 0.5
+wire 855.4 470.2 856.2 470.2 H 0.5
+wire 856.2 470.2 856.2 476.2 V 0.5
+wire 860.6 466.2 862.2 466.2 H 0.5
+wire 862.2 466.2 862.2 463.4 V 0.5
+wire 862.2 463.4 871 463.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N7
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[247\]\[6\] CK 873.4 440.6
+#Trunk clk_m__L3_I7 O 850.6 427.4
+#Trunk mips_core/datamem/ram_reg\[247\]\[2\] CK 835.4 425
+#Trunk_Term end
+wire 835.4 427.8 833.4 427.8 H 0.5
+wire 833.4 427.8 833.4 431.4 V 0.5
+wire 835.4 427.8 835.4 425 V 0.5
+wire 852.6 427.4 863.8 427.4 H 0.5
+wire 863.8 427.4 863.8 427.8 V 0.5
+wire 852.6 427.4 850.6 427.4 H 0.5
+wire 852.6 427.4 852.6 425 V 0.5
+wire 850.2 434.2 850.6 434.2 H 0.5
+wire 850.6 434.2 850.6 427.4 V 0.5
+wire 835.4 421.4 844.2 421.4 H 0.5
+wire 835.4 421.4 835.4 425 V 0.5
+wire 844.2 421.4 846.6 421.4 H 0.5
+wire 852.6 425 846.6 425 H 0.5
+wire 846.6 425 846.6 421.4 V 0.5
+wire 863.8 427.8 873.4 427.8 H 0.5
+wire 873.4 427.8 873.4 440.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N6
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[243\]\[1\] CK 821 376.6
+#Trunk mips_core/datamem/ram_reg\[240\]\[13\] CK 799 380.2
+#Trunk mips_core/datamem/ram_reg\[241\]\[6\] CK 826.6 393
+#Trunk mips_core/datamem/ram_reg\[240\]\[4\] CK 837.8 386.6
+#Trunk_Term end
+wire 820.2 387 824.2 387 H 0.5
+wire 820.2 387 813.8 387 H 0.5
+wire 813.8 387 813.8 393 V 0.5
+wire 826.2 387 826.6 387 H 0.5
+wire 826.6 387 826.6 393 V 0.5
+wire 826.2 387 826.2 386.6 V 0.5
+wire 826.2 387 824.2 387 H 0.5
+wire 829.8 376.6 821 376.6 H 0.5
+wire 829.8 376.6 829.8 380.2 V 0.5
+wire 846.6 386.6 837.8 386.6 H 0.5
+wire 803.8 389.4 796.6 389.4 H 0.5
+wire 803.8 389.4 803.8 393 V 0.5
+wire 829.8 386.6 837.8 386.6 H 0.5
+wire 829.8 386.6 829.8 380.2 V 0.5
+wire 829.8 386.6 826.2 386.6 H 0.5
+wire 796.6 389.4 796.6 383 V 0.5
+wire 799 380.2 796.6 380.2 H 0.5
+wire 796.6 380.2 796.6 383 V 0.5
+wire 803.8 393 813.8 393 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N5
+#Trunk_Term begin
+#Trunk clk_m__L3_I5 O 819.4 485
+#Trunk mips_core/datamem/ram_reg\[254\]\[2\] CK 793.8 489
+#Trunk mips_core/datamem/ram_reg\[251\]\[10\] CK 838.2 476.2
+#Trunk_Term end
+wire 815.4 491.8 819 491.8 H 0.5
+wire 815.4 491.8 815 491.8 H 0.5
+wire 815 491.8 815 498.2 V 0.5
+wire 804.2 479 799.4 479 H 0.5
+wire 804.2 479 804.2 485.4 V 0.5
+wire 819.4 489 825.8 489 H 0.5
+wire 819.4 489 819.4 485 V 0.5
+wire 819.4 489 819 489 H 0.5
+wire 819 489 819 491.8 V 0.5
+wire 835.4 491.8 836.2 491.8 H 0.5
+wire 836.2 491.8 836.2 485.4 V 0.5
+wire 835.4 491.8 831.8 491.8 H 0.5
+wire 838.2 482.6 838.2 476.2 V 0.5
+wire 838.2 482.6 836.2 482.6 H 0.5
+wire 836.2 482.6 836.2 485.4 V 0.5
+wire 793.8 489 796.6 489 H 0.5
+wire 796.6 489 796.6 482.6 V 0.5
+wire 796.6 482.6 799.4 482.6 H 0.5
+wire 799.4 482.6 799.4 479 V 0.5
+wire 803.8 491.8 804.2 491.8 H 0.5
+wire 804.2 491.8 804.2 485.4 V 0.5
+wire 803.8 491.8 803.8 498.2 V 0.5
+wire 803.8 498.2 815 498.2 H 0.5
+wire 825.8 489 831.8 489 H 0.5
+wire 831.8 489 831.8 491.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N4
+#Trunk_Term begin
+#Trunk clk_m__L3_I4 O 807.8 453
+#Trunk mips_core/datamem/ram_reg\[245\]\[5\] CK 807.8 440.6
+#Trunk mips_core/datamem/ram_reg\[253\]\[6\] CK 796.6 463.4
+#Trunk_Term end
+wire 804.2 469.8 805 469.8 H 0.5
+wire 804.2 469.8 797 469.8 H 0.5
+wire 794.2 459.8 796.6 459.8 H 0.5
+wire 796.6 459.8 796.6 463.4 V 0.5
+wire 815 469.8 815 463.4 V 0.5
+wire 815 469.8 805 469.8 H 0.5
+wire 811.4 453 811.4 450.6 V 0.5
+wire 811.4 453 807.8 453 H 0.5
+wire 811.4 453 812.6 453 H 0.5
+wire 812.6 453 812.6 457 V 0.5
+wire 811.4 444.2 809 444.2 H 0.5
+wire 811.4 444.2 811.4 450.6 V 0.5
+wire 807.8 434.2 807.8 440.6 V 0.5
+wire 815 459.8 812.6 459.8 H 0.5
+wire 815 459.8 815 463.4 V 0.5
+wire 796.6 463.4 797 463.4 H 0.5
+wire 797 463.4 797 469.8 V 0.5
+wire 807.8 440.6 809 440.6 H 0.5
+wire 809 440.6 809 444.2 V 0.5
+wire 812.6 457 812.6 459.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N3
+#Trunk_Term begin
+#Trunk clk_m__L3_I3 O 812.2 412.6
+#Trunk mips_core/datamem/ram_reg\[240\]\[14\] CK 814.6 421.4
+#Trunk mips_core/datamem/ram_reg\[241\]\[14\] CK 815 405.8
+#Trunk mips_core/datamem/ram_reg\[241\]\[10\] CK 798.2 408.6
+#Trunk_Term end
+wire 803 421.4 803.8 421.4 H 0.5
+wire 803 421.4 803 418.6 V 0.5
+wire 789.4 408.6 798.2 408.6 H 0.5
+wire 809 425 813.8 425 H 0.5
+wire 809 425 806.6 425 H 0.5
+wire 806.6 425 806.6 421.4 V 0.5
+wire 810.2 405.8 815 405.8 H 0.5
+wire 810.2 405.8 810.2 408.6 V 0.5
+wire 810.2 405.8 808.2 405.8 H 0.5
+wire 810.2 412.2 812.2 412.2 H 0.5
+wire 812.2 412.2 812.2 412.6 V 0.5
+wire 810.2 412.2 810.2 408.6 V 0.5
+wire 801.8 408.6 801.8 405.8 V 0.5
+wire 801.8 408.6 798.2 408.6 H 0.5
+wire 801.8 408.6 803 408.6 H 0.5
+wire 803 408.6 803 412.2 V 0.5
+wire 803 418.6 803 412.2 V 0.5
+wire 803.8 421.4 806.6 421.4 H 0.5
+wire 808.2 405.8 801.8 405.8 H 0.5
+wire 813.8 425 814.6 425 H 0.5
+wire 814.6 425 814.6 421.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N2
+#Trunk_Term begin
+#Trunk clk_m__L3_I2 O 776.2 382.6
+#Trunk mips_core/datamem/ram_reg\[172\]\[4\] CK 760.2 361
+#Trunk mips_core/datamem/ram_reg\[242\]\[11\] CK 776.2 402.2
+#Trunk mips_core/datamem/ram_reg\[241\]\[0\] CK 785.4 383
+#Trunk_Term end
+wire 766.6 386.6 768.6 386.6 H 0.5
+wire 766.6 386.6 766.6 383 V 0.5
+wire 775.8 382.6 775.8 376.6 V 0.5
+wire 775.8 382.6 776.2 382.6 H 0.5
+wire 775.8 382.6 772.6 382.6 H 0.5
+wire 772.6 382.6 772.6 386.6 V 0.5
+wire 768.6 402.2 776.2 402.2 H 0.5
+wire 768.6 402.2 768.6 399.4 V 0.5
+wire 785.4 383 784.2 383 H 0.5
+wire 784.2 383 784.2 376.6 V 0.5
+wire 784.2 376.6 781 376.6 H 0.5
+wire 775.8 376.6 781 376.6 H 0.5
+wire 772.6 386.6 768.6 386.6 H 0.5
+wire 768.6 399.4 768.6 395.8 V 0.5
+wire 768.6 393 768.6 395.8 V 0.5
+wire 768.6 393 768.6 386.6 V 0.5
+wire 766.6 383 765 383 H 0.5
+wire 765 383 765 376.6 V 0.5
+wire 765 376.6 760.2 376.6 H 0.5
+wire 760.2 376.6 760.2 361 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N1
+#Trunk_Term begin
+#Trunk clk_m__L3_I1 O 773 497.8
+#Trunk mips_core/datamem/ram_reg\[225\]\[9\] CK 771.4 523.8
+#Trunk mips_core/datamem/ram_reg\[252\]\[8\] CK 776.6 482.6
+#Trunk_Term end
+wire 782.2 485.4 782.2 482.6 V 0.5
+wire 782.2 485.4 780.6 485.4 H 0.5
+wire 780.6 485.4 780.6 491.8 V 0.5
+wire 768.6 482.6 776.6 482.6 H 0.5
+wire 776.6 498.2 776.6 501.8 V 0.5
+wire 776.6 498.2 775 498.2 H 0.5
+wire 776.6 498.2 780.6 498.2 H 0.5
+wire 780.6 498.2 780.6 491.8 V 0.5
+wire 777 511 777 514.6 V 0.5
+wire 777 511 776.6 511 H 0.5
+wire 776.6 511 776.6 501.8 V 0.5
+wire 771.4 523.8 775.4 523.8 H 0.5
+wire 773 497.8 775 497.8 H 0.5
+wire 775 497.8 775 498.2 V 0.5
+wire 775.4 521 775.4 523.8 V 0.5
+wire 775.4 521 777 521 H 0.5
+wire 777 521 777 517.4 V 0.5
+wire 776.6 482.6 782.2 482.6 H 0.5
+wire 777 514.6 777 517.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N0
+#Trunk_Term begin
+#Trunk clk_m__L3_I0 O 770.2 446.6
+#Trunk mips_core/datamem/ram_reg\[247\]\[12\] CK 755.4 440.6
+#Trunk mips_core/datamem/ram_reg\[252\]\[0\] CK 773.8 466.2
+#Trunk_Term end
+wire 783.4 450.6 787.8 450.6 H 0.5
+wire 787.8 450.6 787.8 444.2 V 0.5
+wire 783.4 450.6 783.4 457 V 0.5
+wire 767 434.2 765 434.2 H 0.5
+wire 767 434.2 774.2 434.2 H 0.5
+wire 762.6 440.6 762.6 447 V 0.5
+wire 762.6 440.6 755.4 440.6 H 0.5
+wire 762.6 440.6 762.6 437.8 V 0.5
+wire 766.2 447 766.2 446.6 V 0.5
+wire 766.2 447 762.6 447 H 0.5
+wire 773.8 459.8 773.8 466.2 V 0.5
+wire 773.8 459.8 776.6 459.8 H 0.5
+wire 783.4 459.8 776.6 459.8 H 0.5
+wire 783.4 459.8 783.4 457 V 0.5
+wire 782.2 437.8 782.2 434.2 V 0.5
+wire 782.2 437.8 787.8 437.8 H 0.5
+wire 762.6 437.8 765 437.8 H 0.5
+wire 765 437.8 765 434.2 V 0.5
+wire 770.2 446.6 766.2 446.6 H 0.5
+wire 774.2 434.2 782.2 434.2 H 0.5
+wire 787.8 437.8 787.8 444.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N58
+#Trunk_Term begin
+#Trunk clk_m__L3_I58 O 714.6 617.4
+#Trunk mips_core/datamem/ram_reg\[229\]\[1\] CK 693.8 613.4
+#Trunk mips_core/datamem/ram_reg\[208\]\[0\] CK 727.4 629.8
+#Trunk_Term end
+wire 711 594.2 703.4 594.2 H 0.5
+wire 711 594.2 711 600.6 V 0.5
+wire 717.4 610.6 720.2 610.6 H 0.5
+wire 720.2 610.6 720.2 604.2 V 0.5
+wire 717.4 610.6 717.4 613.4 V 0.5
+wire 717.4 617.4 717.4 613.4 V 0.5
+wire 717.4 617.4 714.6 617.4 H 0.5
+wire 717.4 617.4 720.2 617.4 H 0.5
+wire 720.2 617.4 720.2 619.8 V 0.5
+wire 720.2 623.4 725.4 623.4 H 0.5
+wire 720.2 623.4 720.2 619.8 V 0.5
+wire 720.2 600.6 711 600.6 H 0.5
+wire 720.2 600.6 720.2 604.2 V 0.5
+wire 693.8 604.2 693.8 613.4 V 0.5
+wire 693.8 604.2 697.8 604.2 H 0.5
+wire 697.8 604.2 697.8 597.8 V 0.5
+wire 697.8 597.8 703.4 597.8 H 0.5
+wire 703.4 597.8 703.4 594.2 V 0.5
+wire 725.4 623.4 727.4 623.4 H 0.5
+wire 727.4 623.4 727.4 629.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N57
+#Trunk_Term begin
+#Trunk clk_m__L3_I57 O 695 645
+#Trunk mips_core/datamem/ram_reg\[214\]\[1\] CK 684.2 655.4
+#Trunk mips_core/datamem/ram_reg\[211\]\[14\] CK 705.4 639
+#Trunk mips_core/datamem/ram_reg\[214\]\[3\] CK 687.4 636.2
+#Trunk_Term end
+wire 695 661.8 695 655.4 V 0.5
+wire 695 661.8 694.6 661.8 H 0.5
+wire 695.4 645.4 695.4 645 V 0.5
+wire 695.4 645.4 695.4 649 V 0.5
+wire 695.8 639 705.4 639 H 0.5
+wire 695.8 639 695.8 636.2 V 0.5
+wire 695.8 639 695.4 639 H 0.5
+wire 684.2 661.8 684.2 655.4 V 0.5
+wire 684.2 661.8 686.6 661.8 H 0.5
+wire 687.4 629.8 687.4 636.2 V 0.5
+wire 686.6 661.8 694.6 661.8 H 0.5
+wire 687.4 636.2 695.8 636.2 H 0.5
+wire 695 645 695.4 645 H 0.5
+wire 695 655.4 695.4 655.4 H 0.5
+wire 695.4 655.4 695.4 649 V 0.5
+wire 695.4 642.6 695.4 639 V 0.5
+wire 695.4 642.6 695.4 645 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N56
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[239\]\[8\] CK 693.4 565.8
+#Trunk mips_core/datamem/ram_reg\[238\]\[11\] CK 671.4 555.8
+#Trunk mips_core/datamem/ram_reg\[236\]\[0\] CK 679.8 540.2
+#Trunk mips_core/datamem/ram_reg\[236\]\[6\] CK 695.4 549.4
+#Trunk_Term end
+wire 685.4 543 685.4 546.6 V 0.5
+wire 685.4 543 679.8 543 H 0.5
+wire 679.8 543 679.8 540.2 V 0.5
+wire 696.6 555.8 696.6 553 V 0.5
+wire 696.6 555.8 696.6 559.4 V 0.5
+wire 696.6 555.8 693.4 555.8 H 0.5
+wire 682.2 549.4 682.2 553 V 0.5
+wire 682.2 549.4 677.8 549.4 H 0.5
+wire 682.2 549.4 685.4 549.4 H 0.5
+wire 685.4 549.4 685.4 546.6 V 0.5
+wire 671.4 549.4 671.4 555.8 V 0.5
+wire 671.4 549.4 677.8 549.4 H 0.5
+wire 682.2 553 683.4 553 H 0.5
+wire 683.4 553 683.4 553.4 V 0.5
+wire 691 553.4 693.4 553.4 H 0.5
+wire 693.4 553.4 693.4 555.8 V 0.5
+wire 691 553.4 683.4 553.4 H 0.5
+wire 693.4 565.8 696.6 565.8 H 0.5
+wire 696.6 565.8 696.6 559.4 V 0.5
+wire 695.4 549.4 696.6 549.4 H 0.5
+wire 696.6 549.4 696.6 553 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N55
+#Trunk_Term begin
+#Trunk clk_m__L3_I55 O 673.4 604.6
+#Trunk mips_core/datamem/ram_reg\[237\]\[4\] CK 665.8 613.4
+#Trunk mips_core/datamem/ram_reg\[236\]\[5\] CK 687.4 591.4
+#Trunk_Term end
+wire 678.6 619.8 674.6 619.8 H 0.5
+wire 678.6 619.8 678.6 617 V 0.5
+wire 665.8 610.6 665.8 613.4 V 0.5
+wire 687.4 587.8 687.4 591.4 V 0.5
+wire 687.4 597.8 687.4 591.4 V 0.5
+wire 687.4 597.8 681.8 597.8 H 0.5
+wire 677 597.8 681.8 597.8 H 0.5
+wire 677 597.8 677 600.6 V 0.5
+wire 665.8 617 665.8 613.4 V 0.5
+wire 665.8 617 669 617 H 0.5
+wire 669 617 669 619.8 V 0.5
+wire 677 604.6 677 600.6 V 0.5
+wire 677 604.6 673.4 604.6 H 0.5
+wire 677 604.6 678.6 604.6 H 0.5
+wire 678.6 604.6 678.6 607 V 0.5
+wire 678.6 613.4 678.6 617 V 0.5
+wire 678.6 613.4 678.6 607 V 0.5
+wire 669 619.8 674.6 619.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N54
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[213\]\[14\] CK 657.8 649
+#Trunk mips_core/datamem/ram_reg\[213\]\[7\] CK 661.4 671
+#Trunk mips_core/datamem/ram_reg\[212\]\[14\] CK 665.8 642.6
+#Trunk_Term end
+wire 669 658.2 669 664.6 V 0.5
+wire 669 658.2 669 657.8 V 0.5
+wire 668.2 655.4 668.2 651.8 V 0.5
+wire 668.2 655.4 669 655.4 H 0.5
+wire 669 655.4 669 657.8 V 0.5
+wire 665.8 649 665.8 642.6 V 0.5
+wire 665.8 649 657.8 649 H 0.5
+wire 665.8 649 667.8 649 H 0.5
+wire 659 671 657.8 671 H 0.5
+wire 657.8 671 657.8 674.6 V 0.5
+wire 659 671 661.4 671 H 0.5
+wire 669.8 668.2 669.8 671 V 0.5
+wire 669.8 668.2 669 668.2 H 0.5
+wire 669 668.2 669 664.6 V 0.5
+wire 669.8 636.2 665.8 636.2 H 0.5
+wire 661.4 671 669.8 671 H 0.5
+wire 665.8 642.6 665.8 636.2 V 0.5
+wire 667.8 649 668.2 649 H 0.5
+wire 668.2 649 668.2 651.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N53
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[236\]\[12\] CK 657 581.4
+#Trunk mips_core/datamem/ram_reg\[151\]\[3\] CK 639.8 559.4
+#Trunk mips_core/datamem/ram_reg\[239\]\[7\] CK 657.8 555.8
+#Trunk mips_core/datamem/ram_reg\[239\]\[1\] CK 647.4 572.2
+#Trunk_Term end
+wire 668.2 578.6 665 578.6 H 0.5
+wire 665 578.6 665 581.4 V 0.5
+wire 668.2 578.6 668.2 575 V 0.5
+wire 667.4 568.6 667.4 568.2 V 0.5
+wire 667.4 568.6 668.2 568.6 H 0.5
+wire 668.2 568.6 668.2 575 V 0.5
+wire 659.8 568.2 656.2 568.2 H 0.5
+wire 656.2 568.2 656.2 568.6 V 0.5
+wire 659.8 568.2 667.4 568.2 H 0.5
+wire 657.8 555.8 655.8 555.8 H 0.5
+wire 655.8 555.8 655.8 553 V 0.5
+wire 657 581.4 665 581.4 H 0.5
+wire 656.2 568.6 647.4 568.6 H 0.5
+wire 655.8 553 650.6 553 H 0.5
+wire 649.4 555.8 650.6 555.8 H 0.5
+wire 650.6 555.8 650.6 553 V 0.5
+wire 649.4 555.8 647 555.8 H 0.5
+wire 647 555.8 647 559.4 V 0.5
+wire 647.4 572.2 647.4 568.6 V 0.5
+wire 647 562.2 647 559.4 V 0.5
+wire 647 562.2 647.4 562.2 H 0.5
+wire 647.4 562.2 647.4 568.6 V 0.5
+wire 639.8 559.4 647 559.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N52
+#Trunk_Term begin
+#Trunk clk_m__L3_I52 O 643.8 527.8
+#Trunk mips_core/datamem/ram_reg\[151\]\[4\] CK 644.2 530.2
+#Trunk mips_core/datamem/ram_reg\[157\]\[4\] CK 657.4 517.4
+#Trunk mips_core/datamem/ram_reg\[236\]\[9\] CK 657.8 530.2
+#Trunk mips_core/datamem/ram_reg\[155\]\[4\] CK 629 523.8
+#Trunk_Term end
+wire 644.2 527.8 647.4 527.8 H 0.5
+wire 647.4 527.8 647.4 527.4 V 0.5
+wire 644.2 527.8 644.2 530.2 V 0.5
+wire 644.2 527.8 643.8 527.8 H 0.5
+wire 629 517.4 629 523.8 V 0.5
+wire 666.2 530.2 657.8 530.2 H 0.5
+wire 657.4 523.8 657.4 530.2 V 0.5
+wire 657.4 523.8 657.4 517.4 V 0.5
+wire 657.4 523.8 654.6 523.8 H 0.5
+wire 634.2 523.8 629 523.8 H 0.5
+wire 634.2 523.8 638.6 523.8 H 0.5
+wire 638.6 523.8 647.4 523.8 H 0.5
+wire 647.4 527.4 647.4 523.8 V 0.5
+wire 651.8 523.8 654.6 523.8 H 0.5
+wire 651.8 523.8 647.4 523.8 H 0.5
+wire 657.8 530.2 657.4 530.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N51
+#Trunk_Term begin
+#Trunk clk_m__L3_I51 O 629.4 662.2
+#Trunk mips_core/reg_file/reg_array_reg\[7\]\[3\] CK 629.8 645.8
+#Trunk mips_core/reg_file/reg_array_reg\[2\]\[2\] CK 631.4 667.8
+#Trunk mips_core/reg_file/reg_array_reg\[1\]\[1\] CK 617 665
+#Trunk mips_core/reg_file/reg_array_reg\[6\]\[3\] CK 635.4 648.6
+#Trunk mips_core/reg_file/reg_array_reg\[4\]\[3\] CK 638.2 665
+#Trunk_Term end
+wire 629.4 661.8 633 661.8 H 0.5
+wire 629.4 661.8 622.2 661.8 H 0.5
+wire 629.4 661.8 629.4 662.2 V 0.5
+wire 617 674.2 617 665 V 0.5
+wire 643 665 638.2 665 H 0.5
+wire 633 648.6 635.4 648.6 H 0.5
+wire 633 648.6 629.8 648.6 H 0.5
+wire 629.8 648.6 629.8 645.8 V 0.5
+wire 633 648.6 633 661.4 V 0.5
+wire 633 665 638.2 665 H 0.5
+wire 633 665 631.4 665 H 0.5
+wire 631.4 665 631.4 667.8 V 0.5
+wire 633 665 633 661.8 V 0.5
+wire 643.4 648.6 635.4 648.6 H 0.5
+wire 617 665 621.8 665 H 0.5
+wire 621.8 665 621.8 661.8 V 0.5
+wire 621.8 661.8 622.2 661.8 H 0.5
+wire 631.4 667.8 631 667.8 H 0.5
+wire 631 667.8 631 674.2 V 0.5
+wire 633 661.4 633 661.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N50
+#Trunk_Term begin
+#Trunk clk_m__L3_I50 O 627.8 606.6
+#Trunk mips_core/pc_current_reg\[5\] CK 630.6 626.2
+#Trunk mips_core/reg_file/reg_array_reg\[2\]\[7\] CK 611 584.6
+#Trunk_Term end
+wire 629.8 597.4 641.8 597.4 H 0.5
+wire 629.8 597.4 629.8 601 V 0.5
+wire 629.8 597.4 629.4 597.4 H 0.5
+wire 644.6 603.8 645 603.8 H 0.5
+wire 645 603.8 645 613.8 V 0.5
+wire 644.6 603.8 644.6 601 V 0.5
+wire 627.8 601 627.8 606.6 V 0.5
+wire 627.8 601 629.8 601 H 0.5
+wire 629 584.6 611 584.6 H 0.5
+wire 629 584.6 629 588.2 V 0.5
+wire 648.6 623 644.2 623 H 0.5
+wire 648.6 623 649.4 623 H 0.5
+wire 649.4 623 649.4 620.2 V 0.5
+wire 629 588.2 629.4 588.2 H 0.5
+wire 629.4 588.2 629.4 597.4 V 0.5
+wire 630.6 626.2 644.2 626.2 H 0.5
+wire 644.2 626.2 644.2 623 V 0.5
+wire 641.8 597.4 644.6 597.4 H 0.5
+wire 644.6 601 644.6 597.4 V 0.5
+wire 645 613.8 649.4 613.8 H 0.5
+wire 649.4 613.8 649.4 616.6 V 0.5
+wire 649.4 616.6 649.4 620.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N49
+#Trunk_Term begin
+#Trunk clk_m__L3_I49 O 618.6 549
+#Trunk mips_core/datamem/ram_reg\[149\]\[7\] CK 607.4 536.6
+#Trunk mips_core/reg_file/reg_array_reg\[5\]\[7\] CK 625.4 569
+#Trunk mips_core/datamem/ram_reg\[150\]\[1\] CK 615.8 530.2
+#Trunk_Term end
+wire 622.2 549.4 629.8 549.4 H 0.5
+wire 629.8 549.4 629.8 546.6 V 0.5
+wire 622.2 549.4 620.6 549.4 H 0.5
+wire 622.2 549.4 622.2 553 V 0.5
+wire 633 543 633 536.6 V 0.5
+wire 633 543 629.8 543 H 0.5
+wire 629.8 543 629.8 546.6 V 0.5
+wire 629.4 569 629.4 562.2 V 0.5
+wire 629.4 569 625.4 569 H 0.5
+wire 615.8 536.6 615.8 530.2 V 0.5
+wire 615.8 536.6 607.4 536.6 H 0.5
+wire 615.8 536.6 616.2 536.6 H 0.5
+wire 618.6 549 620.6 549 H 0.5
+wire 620.6 549 620.6 549.4 V 0.5
+wire 622.2 536.6 616.2 536.6 H 0.5
+wire 622.2 536.6 630.2 536.6 H 0.5
+wire 622.2 553 623.8 553 H 0.5
+wire 623.8 553 623.8 559.4 V 0.5
+wire 623.8 559.4 629.4 559.4 H 0.5
+wire 629.4 559.4 629.4 562.2 V 0.5
+wire 630.2 536.6 633 536.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N48
+#Trunk_Term begin
+#Trunk clk_m__L3_I48 O 796.6 553.4
+#Trunk mips_core/datamem/ram_reg\[224\]\[7\] CK 792.2 559.4
+#Trunk mips_core/datamem/ram_reg\[225\]\[7\] CK 782.2 543
+#Trunk mips_core/datamem/ram_reg\[207\]\[8\] CK 810.2 546.6
+#Trunk_Term end
+wire 795.8 540.2 797.4 540.2 H 0.5
+wire 797.4 540.2 797.4 543 V 0.5
+wire 797 553.4 797 555.8 V 0.5
+wire 797 553.4 796.6 553.4 H 0.5
+wire 797 553.4 797.4 553.4 H 0.5
+wire 797.4 553.4 797.4 549.4 V 0.5
+wire 797.4 546.6 797.4 549.4 V 0.5
+wire 797.4 546.6 797.4 543 V 0.5
+wire 784.2 555.8 782.2 555.8 H 0.5
+wire 782.2 555.8 782.2 553 V 0.5
+wire 784.2 555.8 787.8 555.8 H 0.5
+wire 792.2 555.8 792.2 559.4 V 0.5
+wire 792.2 555.8 787.8 555.8 H 0.5
+wire 792.2 555.8 797 555.8 H 0.5
+wire 782.2 543 782.2 553 V 0.5
+wire 798.2 543 803.8 543 H 0.5
+wire 798.2 543 797.4 543 H 0.5
+wire 803.8 543 810.2 543 H 0.5
+wire 810.2 543 810.2 546.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N47
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[217\]\[4\] CK 794.2 617
+#Trunk mips_core/datamem/ram_reg\[201\]\[13\] CK 798.2 591.4
+#Trunk mips_core/datamem/ram_reg\[229\]\[2\] CK 781 610.6
+#Trunk_Term end
+wire 782.6 604.2 790.6 604.2 H 0.5
+wire 790.6 604.2 790.6 604.6 V 0.5
+wire 782.6 604.2 782.6 600.6 V 0.5
+wire 782.6 604.2 781.8 604.2 H 0.5
+wire 798.2 597.8 804.6 597.8 H 0.5
+wire 798.2 597.8 798.2 591.4 V 0.5
+wire 781 613.4 781 610.6 V 0.5
+wire 781 613.4 772.6 613.4 H 0.5
+wire 798.2 587.8 798.2 591.4 V 0.5
+wire 798.2 587.8 789.4 587.8 H 0.5
+wire 781 610.6 781.8 610.6 H 0.5
+wire 781.8 610.6 781.8 604.2 V 0.5
+wire 782.6 600.6 783.8 600.6 H 0.5
+wire 783.8 600.6 783.8 597.8 V 0.5
+wire 783.8 594.2 785 594.2 H 0.5
+wire 785 594.2 785 591.4 V 0.5
+wire 783.8 594.2 783.8 597.8 V 0.5
+wire 785 591.4 789.4 591.4 H 0.5
+wire 789.4 591.4 789.4 587.8 V 0.5
+wire 790.6 604.6 792.2 604.6 H 0.5
+wire 792.2 604.6 792.2 610.6 V 0.5
+wire 792.2 610.6 794.2 610.6 H 0.5
+wire 794.2 610.6 794.2 617 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N46
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[218\]\[15\] CK 795.4 629.8
+#Trunk mips_core/datamem/ram_reg\[216\]\[1\] CK 771.4 645.4
+#Trunk clk_m__L3_I46 O 789.8 645
+#Trunk_Term end
+wire 787 642.6 789.8 642.6 H 0.5
+wire 787 642.6 787 636.2 V 0.5
+wire 787 642.6 784.6 642.6 H 0.5
+wire 787.4 629.8 795.4 629.8 H 0.5
+wire 787.4 629.8 787.4 632.6 V 0.5
+wire 793 651.8 789.8 651.8 H 0.5
+wire 771.4 645.4 771.4 655.4 V 0.5
+wire 771.4 645.4 781 645.4 H 0.5
+wire 781 645.4 784.6 645.4 H 0.5
+wire 784.6 645.4 784.6 642.6 V 0.5
+wire 787 636.2 787.4 636.2 H 0.5
+wire 787.4 636.2 787.4 632.6 V 0.5
+wire 789.8 645 789.8 651.8 V 0.5
+wire 789.8 645 789.8 642.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N45
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[231\]\[0\] CK 744.6 591.4
+#Trunk mips_core/datamem/ram_reg\[229\]\[15\] CK 762.2 604.2
+#Trunk mips_core/datamem/ram_reg\[228\]\[8\] CK 739.8 581.4
+#Trunk mips_core/datamem/ram_reg\[228\]\[10\] CK 776.6 578.6
+#Trunk_Term end
+wire 744.6 585 753 585 H 0.5
+wire 744.6 585 744.6 591.4 V 0.5
+wire 744.6 585 744.2 585 H 0.5
+wire 770.2 581.4 771.4 581.4 H 0.5
+wire 770.2 581.4 770.2 585 V 0.5
+wire 770.2 587.8 770.2 585 V 0.5
+wire 770.2 587.8 767.8 587.8 H 0.5
+wire 773.4 578.6 776.6 578.6 H 0.5
+wire 773.4 578.6 771.4 578.6 H 0.5
+wire 760.6 594.2 762.2 594.2 H 0.5
+wire 762.2 594.2 762.2 604.2 V 0.5
+wire 760.6 594.2 760.6 587.8 V 0.5
+wire 739.8 581.4 744.2 581.4 H 0.5
+wire 744.2 581.4 744.2 585 V 0.5
+wire 753 585 760.6 585 H 0.5
+wire 760.6 585 760.6 587.4 V 0.5
+wire 760.6 587.4 760.6 587.8 V 0.5
+wire 767.8 587.8 760.6 587.8 H 0.5
+wire 771.4 581.4 771.4 578.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N44
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[224\]\[4\] CK 771.4 553
+#Trunk mips_core/datamem/ram_reg\[227\]\[12\] CK 745 549.4
+#Trunk_Term end
+wire 772.6 559.4 771.4 559.4 H 0.5
+wire 771.4 559.4 771.4 553 V 0.5
+wire 772.6 559.4 772.6 562.2 V 0.5
+wire 767.4 562.2 761 562.2 H 0.5
+wire 767.4 562.2 772.6 562.2 H 0.5
+wire 761.4 553.4 760.6 553.4 H 0.5
+wire 760.6 553.4 760.6 553 V 0.5
+wire 761.4 553.4 761.4 555.8 V 0.5
+wire 761 559.4 761.4 559.4 H 0.5
+wire 761.4 559.4 761.4 555.8 V 0.5
+wire 761 559.4 761 562.2 V 0.5
+wire 760.6 546.6 760.6 543 V 0.5
+wire 760.6 546.6 760.6 553 V 0.5
+wire 760.6 543 755 543 H 0.5
+wire 755 543 754.6 543 H 0.5
+wire 745 549.4 745 543 V 0.5
+wire 745 543 754.6 543 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N43
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[211\]\[2\] CK 738.6 651.8
+#Trunk mips_core/datamem/ram_reg\[211\]\[7\] CK 739.8 674.6
+#Trunk mips_core/datamem/ram_reg\[210\]\[10\] CK 755 658.2
+#Trunk mips_core/datamem/ram_reg\[219\]\[8\] CK 759.8 674.6
+#Trunk_Term end
+wire 757.8 668.6 759.8 668.6 H 0.5
+wire 759.8 668.6 759.8 671 V 0.5
+wire 757.8 668.6 750.6 668.6 H 0.5
+wire 757.8 668.6 757.8 668.2 V 0.5
+wire 755 649 755 658.2 V 0.5
+wire 759.8 674.6 758.6 674.6 H 0.5
+wire 758.6 674.6 758.6 681 V 0.5
+wire 759.8 674.6 759.8 671 V 0.5
+wire 757.8 668.2 757.8 658.2 V 0.5
+wire 755 658.2 757.8 658.2 H 0.5
+wire 750.6 668.6 749.8 668.6 H 0.5
+wire 749.8 668.6 749.8 671 V 0.5
+wire 749.8 671 747 671 H 0.5
+wire 747 671 739.8 671 H 0.5
+wire 739.8 674.6 739.8 671 V 0.5
+wire 738.6 651.8 737.8 651.8 H 0.5
+wire 737.8 651.8 737.8 661.8 V 0.5
+wire 737.8 661.8 737.8 671 V 0.5
+wire 739.8 671 737.8 671 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N42
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[219\]\[0\] CK 766.2 629.8
+#Trunk mips_core/datamem/ram_reg\[211\]\[15\] CK 740.2 632.6
+#Trunk mips_core/datamem/ram_reg\[230\]\[12\] CK 744.6 613.4
+#Trunk_Term end
+wire 744.6 610.6 744.6 613.4 V 0.5
+wire 747.8 626.2 754.2 626.2 H 0.5
+wire 747.8 626.2 747.8 623.8 V 0.5
+wire 747.8 626.2 746.2 626.2 H 0.5
+wire 756.2 626.2 762.6 626.2 H 0.5
+wire 756.2 626.2 754.2 626.2 H 0.5
+wire 744.6 617 744.6 613.4 V 0.5
+wire 744.6 617 747.8 617 H 0.5
+wire 765.8 626.2 766.2 626.2 H 0.5
+wire 766.2 626.2 766.2 629.8 V 0.5
+wire 765.8 626.2 762.6 626.2 H 0.5
+wire 740.2 632.6 745.4 632.6 H 0.5
+wire 746.2 626.2 745.4 626.2 H 0.5
+wire 745.4 626.2 745.4 632.6 V 0.5
+wire 747.8 617 747.8 623.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N41
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[234\]\[14\] CK 715.8 514.6
+#Trunk mips_core/datamem/ram_reg\[226\]\[13\] CK 726.6 555.8
+#Trunk_Term end
+wire 713.4 549.4 722.2 549.4 H 0.5
+wire 713.4 549.4 713.4 546.6 V 0.5
+wire 723 523.8 716.6 523.8 H 0.5
+wire 723 523.8 723 527.4 V 0.5
+wire 709.8 543 713.4 543 H 0.5
+wire 713.4 543 713.4 546.6 V 0.5
+wire 709.8 543 709.8 536.6 V 0.5
+wire 723 533.8 723 527.4 V 0.5
+wire 723 533.8 720.6 533.8 H 0.5
+wire 720.6 533.8 720.6 534.2 V 0.5
+wire 709.8 536.6 718.2 536.6 H 0.5
+wire 715.8 514.6 716.6 514.6 H 0.5
+wire 716.6 514.6 716.6 521 V 0.5
+wire 716.6 523.8 716.6 521 V 0.5
+wire 718.2 536.6 720.6 536.6 H 0.5
+wire 720.6 536.6 720.6 534.2 V 0.5
+wire 722.2 549.4 726.2 549.4 H 0.5
+wire 726.2 549.4 726.2 553 V 0.5
+wire 726.2 553 726.6 553 H 0.5
+wire 726.6 553 726.6 555.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N40
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[229\]\[5\] CK 695.8 591.4
+#Trunk mips_core/datamem/ram_reg\[224\]\[5\] CK 695.4 568.6
+#Trunk mips_core/datamem/ram_reg\[231\]\[8\] CK 731.4 575
+#Trunk_Term end
+wire 709 568.6 711.4 568.6 H 0.5
+wire 709 568.6 709 562.2 V 0.5
+wire 709 568.6 708.6 568.6 H 0.5
+wire 731.4 581.4 731.4 575 V 0.5
+wire 718.2 562.2 720.6 562.2 H 0.5
+wire 718.2 562.2 709 562.2 H 0.5
+wire 728.6 568.6 731.4 568.6 H 0.5
+wire 728.6 568.6 728.6 562.2 V 0.5
+wire 714.2 585 714.2 591.4 V 0.5
+wire 714.2 585 714.2 581.4 V 0.5
+wire 695.4 568.6 708.6 568.6 H 0.5
+wire 695.8 591.4 714.2 591.4 H 0.5
+wire 711.4 568.6 713.8 568.6 H 0.5
+wire 713.8 568.6 713.8 574.6 V 0.5
+wire 713.8 574.6 713.8 578.6 V 0.5
+wire 714.2 578.6 714.2 581.4 V 0.5
+wire 714.2 578.6 713.8 578.6 H 0.5
+wire 720.6 562.2 728.6 562.2 H 0.5
+wire 731.4 575 731.4 568.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N39
+#Trunk_Term begin
+#Trunk clk_m__L3_I39 O 713.8 670.6
+#Trunk mips_core/datamem/ram_reg\[213\]\[13\] CK 701 683.8
+#Trunk mips_core/datamem/ram_reg\[211\]\[8\] CK 729 658.2
+#Trunk_Term end
+wire 718.6 687.4 718.6 677.4 V 0.5
+wire 718.6 687.4 711 687.4 H 0.5
+wire 725.8 668.2 723 668.2 H 0.5
+wire 723 668.2 723 664.6 V 0.5
+wire 725.8 668.2 725.8 671 V 0.5
+wire 707.8 671 708.2 671 H 0.5
+wire 708.2 671 708.2 670.6 V 0.5
+wire 707.8 671 707.8 677.4 V 0.5
+wire 725.8 677.4 725.8 671 V 0.5
+wire 725.8 677.4 718.6 677.4 H 0.5
+wire 701 683.8 703 683.8 H 0.5
+wire 703 683.8 703 687.4 V 0.5
+wire 703 687.4 711 687.4 H 0.5
+wire 707.8 677.4 710.6 677.4 H 0.5
+wire 710.6 677.4 718.6 677.4 H 0.5
+wire 713.8 670.6 708.2 670.6 H 0.5
+wire 723 658.2 729 658.2 H 0.5
+wire 723 658.2 723 664.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N38
+#Trunk_Term begin
+#Trunk clk_m__L3_I38 O 878.2 632.2
+#Trunk mips_core/datamem/ram_reg\[195\]\[5\] CK 866.2 617
+#Trunk mips_core/datamem/ram_reg\[192\]\[15\] CK 867.8 649
+#Trunk mips_core/datamem/ram_reg\[194\]\[2\] CK 890.6 645.4
+#Trunk_Term end
+wire 867.8 655.4 867.8 649 V 0.5
+wire 890.6 651.8 890.6 645.4 V 0.5
+wire 869 636.2 873 636.2 H 0.5
+wire 869 636.2 869 639 V 0.5
+wire 878.2 629.8 883 629.8 H 0.5
+wire 878.2 629.8 878.2 632.2 V 0.5
+wire 878.2 629.8 873 629.8 H 0.5
+wire 891 623.4 891 626.2 V 0.5
+wire 891 623.4 884.6 623.4 H 0.5
+wire 891 636.2 890.6 636.2 H 0.5
+wire 890.6 636.2 890.6 642.6 V 0.5
+wire 891 636.2 891 632.6 V 0.5
+wire 866.2 617 879.8 617 H 0.5
+wire 867.8 649 869 649 H 0.5
+wire 869 649 869 639 V 0.5
+wire 873 629.8 873 636.2 V 0.5
+wire 879.8 617 883 617 H 0.5
+wire 883 617 883 623.4 V 0.5
+wire 883 629.8 883 623.4 V 0.5
+wire 884.6 623.4 883 623.4 H 0.5
+wire 890.6 645.4 890.6 642.6 V 0.5
+wire 891 626.2 891 632.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N37
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[204\]\[15\] CK 861.4 553
+#Trunk mips_core/datamem/ram_reg\[204\]\[4\] CK 874.2 530.2
+#Trunk mips_core/datamem/ram_reg\[205\]\[4\] CK 889 543
+#Trunk_Term end
+wire 863.8 530.2 874.2 530.2 H 0.5
+wire 861.4 546.6 868.6 546.6 H 0.5
+wire 861.4 546.6 861.4 553 V 0.5
+wire 874.6 540.2 877.4 540.2 H 0.5
+wire 877.4 540.2 877.4 542.6 V 0.5
+wire 874.6 540.2 874.6 536.6 V 0.5
+wire 874.6 540.2 869 540.2 H 0.5
+wire 896.2 543 889.8 543 H 0.5
+wire 868.6 543 869 543 H 0.5
+wire 869 543 869 540.2 V 0.5
+wire 868.6 543 868.6 546.6 V 0.5
+wire 874.2 530.2 874.6 530.2 H 0.5
+wire 874.6 530.2 874.6 536.6 V 0.5
+wire 877.4 542.6 889 542.6 H 0.5
+wire 889 542.6 889 543 V 0.5
+wire 889 543 889.8 543 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N36
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[198\]\[6\] CK 894.2 700.2
+#Trunk clk_m__L3_I36 O 877 681.4
+#Trunk mips_core/datamem/ram_reg\[197\]\[2\] CK 858.2 696.6
+#Trunk mips_core/datamem/ram_reg\[199\]\[4\] CK 885.8 661.8
+#Trunk mips_core/datamem/ram_reg\[197\]\[15\] CK 863.4 664.6
+#Trunk_Term end
+wire 894.2 700.2 869 700.2 H 0.5
+wire 885.8 661.8 883 661.8 H 0.5
+wire 883 661.8 883 658.2 V 0.5
+wire 883 658.2 869 658.2 H 0.5
+wire 877 681.4 875 681.4 H 0.5
+wire 875 681.4 875 687.4 V 0.5
+wire 875 687.4 869 687.4 H 0.5
+wire 869 696.6 869 687.4 V 0.5
+wire 869 696.6 858.2 696.6 H 0.5
+wire 869 696.6 869 700.2 V 0.5
+wire 869 664.6 869 658.2 V 0.5
+wire 869 664.6 867.8 664.6 H 0.5
+wire 867.8 671 867.8 664.6 V 0.5
+wire 867.8 671 867 671 H 0.5
+wire 867 671 867 674.6 V 0.5
+wire 867 674.6 863.8 674.6 H 0.5
+wire 863.8 674.6 863.8 677.4 V 0.5
+wire 866.6 687.4 863.8 687.4 H 0.5
+wire 863.8 687.4 863.8 681 V 0.5
+wire 866.6 687.4 869 687.4 H 0.5
+wire 863.8 681 863.8 677.4 V 0.5
+wire 863.4 664.6 867.8 664.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N35
+#Trunk_Term begin
+#Trunk clk_m__L3_I35 O 873 585.4
+#Trunk mips_core/datamem/ram_reg\[206\]\[5\] CK 863.8 568.6
+#Trunk mips_core/datamem/ram_reg\[200\]\[6\] CK 883 572.2
+#Trunk mips_core/datamem/ram_reg\[203\]\[4\] CK 889.8 591.4
+#Trunk_Term end
+wire 871.8 572.2 877 572.2 H 0.5
+wire 871.8 572.2 871.8 568.6 V 0.5
+wire 879.8 572.2 883 572.2 H 0.5
+wire 879.8 572.2 879.8 578.6 V 0.5
+wire 879.8 572.2 877 572.2 H 0.5
+wire 879.4 585.4 883 585.4 H 0.5
+wire 883 585.4 883 587.8 V 0.5
+wire 879.4 585.4 873 585.4 H 0.5
+wire 879.4 585.4 879.4 581.4 V 0.5
+wire 863.8 568.6 871.8 568.6 H 0.5
+wire 879.4 581.4 879.8 581.4 H 0.5
+wire 879.8 581.4 879.8 578.6 V 0.5
+wire 883 587.8 889.8 587.8 H 0.5
+wire 889.8 587.8 889.8 591.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N34
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[202\]\[2\] CK 874.2 604.2
+#Trunk mips_core/datamem/ram_reg\[201\]\[11\] CK 848.6 591.4
+#Trunk_Term end
+wire 866.6 598.2 869.4 598.2 H 0.5
+wire 869.4 598.2 869.4 600.6 V 0.5
+wire 866.6 598.2 865.4 598.2 H 0.5
+wire 841.4 591.4 848.6 591.4 H 0.5
+wire 841.4 591.4 841.4 594.2 V 0.5
+wire 843.4 600.6 841.8 600.6 H 0.5
+wire 843.4 600.6 852.6 600.6 H 0.5
+wire 848.6 581.4 848.6 591.4 V 0.5
+wire 856.6 600.6 856.6 598.2 V 0.5
+wire 856.6 600.6 852.6 600.6 H 0.5
+wire 841.4 594.2 841.8 594.2 H 0.5
+wire 841.8 594.2 841.8 600.6 V 0.5
+wire 865.4 598.2 856.6 598.2 H 0.5
+wire 869.4 600.6 874.2 600.6 H 0.5
+wire 874.2 600.6 874.2 604.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N33
+#Trunk_Term begin
+#Trunk clk_m__L3_I33 O 836.2 638.6
+#Trunk mips_core/datamem/ram_reg\[192\]\[11\] CK 852.2 636.2
+#Trunk_Term end
+wire 826.6 632.6 826.6 639 V 0.5
+wire 826.6 632.6 825.4 632.6 H 0.5
+wire 853 623.4 853 626.2 V 0.5
+wire 853 623.4 845 623.4 H 0.5
+wire 852.2 632.6 852.2 636.2 V 0.5
+wire 852.2 632.6 853 632.6 H 0.5
+wire 853 632.6 853 626.2 V 0.5
+wire 833.4 639 836.2 639 H 0.5
+wire 833.4 639 826.6 639 H 0.5
+wire 825.4 626.2 831 626.2 H 0.5
+wire 831 626.2 831 623.4 V 0.5
+wire 825.4 626.2 825.4 629.8 V 0.5
+wire 848.6 645.4 848.6 639 V 0.5
+wire 825.4 629.8 825.4 632.6 V 0.5
+wire 831 623.4 839.8 623.4 H 0.5
+wire 836.2 638.6 836.2 639 V 0.5
+wire 845 623.4 839.8 623.4 H 0.5
+wire 852.2 636.2 848.6 636.2 H 0.5
+wire 848.6 636.2 848.6 639 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N32
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[204\]\[3\] CK 818.2 543
+#Trunk mips_core/datamem/ram_reg\[205\]\[12\] CK 841 546.6
+#Trunk mips_core/datamem/ram_reg\[207\]\[7\] CK 847.8 568.6
+#Trunk_Term end
+wire 829.4 553 834.2 553 H 0.5
+wire 829.4 553 827.4 553 H 0.5
+wire 837.4 555.8 837.4 559.4 V 0.5
+wire 837.4 555.8 834.2 555.8 H 0.5
+wire 834.2 555.8 834.2 555.4 V 0.5
+wire 847.4 572.2 847.8 572.2 H 0.5
+wire 847.8 572.2 847.8 568.6 V 0.5
+wire 847.8 559.4 848.2 559.4 H 0.5
+wire 848.2 559.4 848.2 553 V 0.5
+wire 847.8 559.4 847.8 568.6 V 0.5
+wire 847.8 559.4 845.4 559.4 H 0.5
+wire 837.8 543 841 543 H 0.5
+wire 841 543 841 546.6 V 0.5
+wire 848.2 546.6 841 546.6 H 0.5
+wire 848.2 546.6 848.2 553 V 0.5
+wire 818.2 543 820.2 543 H 0.5
+wire 820.2 543 820.2 549.4 V 0.5
+wire 820.2 549.4 827.4 549.4 H 0.5
+wire 827.4 549.4 827.4 553 V 0.5
+wire 834.2 555.4 834.2 553 V 0.5
+wire 837.4 559.4 845.4 559.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N31
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[193\]\[0\] CK 809.8 651.8
+#Trunk mips_core/datamem/ram_reg\[197\]\[3\] CK 810.6 664.6
+#Trunk mips_core/datamem/ram_reg\[196\]\[9\] CK 835.4 658.2
+#Trunk_Term end
+wire 810.6 671 810.6 664.6 V 0.5
+wire 809.8 655.4 809.8 651.8 V 0.5
+wire 809.8 655.4 811.4 655.4 H 0.5
+wire 841.8 658.2 835.4 658.2 H 0.5
+wire 809.8 642.6 809.8 651.8 V 0.5
+wire 811.4 658.2 814.2 658.2 H 0.5
+wire 811.4 658.2 811.4 655.4 V 0.5
+wire 811.4 658.2 810.6 658.2 H 0.5
+wire 810.6 658.2 810.6 664.6 V 0.5
+wire 826.6 655.4 829.4 655.4 H 0.5
+wire 826.6 655.4 822.2 655.4 H 0.5
+wire 822.2 655.4 822.2 655.8 V 0.5
+wire 829.8 658.2 835.4 658.2 H 0.5
+wire 829.8 658.2 829.4 658.2 H 0.5
+wire 829.4 658.2 829.4 655.4 V 0.5
+wire 814.2 658.2 822.2 658.2 H 0.5
+wire 822.2 655.8 822.2 658.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N30
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[195\]\[8\] CK 822.2 617
+#Trunk mips_core/datamem/ram_reg\[203\]\[9\] CK 817.4 572.2
+#Trunk_Term end
+wire 822.2 610.6 822.2 617 V 0.5
+wire 822.2 610.6 821 610.6 H 0.5
+wire 821 600.6 821 607 V 0.5
+wire 821 600.6 819.4 600.6 H 0.5
+wire 827 593.8 827 587.8 V 0.5
+wire 827 593.8 823 593.8 H 0.5
+wire 809 572.2 809.4 572.2 H 0.5
+wire 809.4 572.2 809.4 568.6 V 0.5
+wire 809 572.2 809 581.4 V 0.5
+wire 809 581.4 818.2 581.4 H 0.5
+wire 809.4 568.6 815 568.6 H 0.5
+wire 815 568.6 817.4 568.6 H 0.5
+wire 817.4 568.6 817.4 572.2 V 0.5
+wire 818.2 581.4 820.2 581.4 H 0.5
+wire 820.2 581.4 820.2 585 V 0.5
+wire 819.4 594.2 823 594.2 H 0.5
+wire 823 594.2 823 593.8 V 0.5
+wire 819.4 594.2 819.4 600.6 V 0.5
+wire 820.2 585 827 585 H 0.5
+wire 821 607 821 610.6 V 0.5
+wire 827 587.8 827 585 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N29
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[250\]\[3\] CK 821 508.2
+#Trunk mips_core/datamem/ram_reg\[250\]\[1\] CK 820.2 527.4
+#Trunk mips_core/datamem/ram_reg\[252\]\[1\] CK 793 514.6
+#Trunk_Term end
+wire 820.2 521 819.8 521 H 0.5
+wire 820.2 521 820.2 527.4 V 0.5
+wire 791.8 514.6 792.6 514.6 H 0.5
+wire 825.8 508.2 821 508.2 H 0.5
+wire 820.2 530.2 820.2 527.4 V 0.5
+wire 809.4 514.6 809.4 511 V 0.5
+wire 809.4 514.6 803.8 514.6 H 0.5
+wire 809.4 514.6 812.6 514.6 H 0.5
+wire 812.6 514.6 812.6 517 V 0.5
+wire 793 514.6 792.6 514.6 H 0.5
+wire 793 514.6 803.8 514.6 H 0.5
+wire 809.4 511 809.4 508.2 V 0.5
+wire 810.6 508.2 821 508.2 H 0.5
+wire 810.6 508.2 809.4 508.2 H 0.5
+wire 812.6 517 815.8 517 H 0.5
+wire 815.8 517 815.8 517.4 V 0.5
+wire 815.8 517.4 819.8 517.4 H 0.5
+wire 819.8 517.4 819.8 521 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N88
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[97\]\[2\] CK 662.6 703
+#Trunk mips_core/datamem/ram_reg\[212\]\[5\] CK 669.8 687.4
+#Trunk mips_core/datamem/ram_reg\[213\]\[5\] CK 681.4 687.4
+#Trunk mips_core/datamem/ram_reg\[213\]\[9\] CK 684.6 693.8
+#Trunk_Term end
+wire 684.6 693.8 684.6 700.2 V 0.5
+wire 684.6 693.8 681.4 693.8 H 0.5
+wire 681.4 687.4 681.4 693.8 V 0.5
+wire 681.4 687.4 684.2 687.4 H 0.5
+wire 684.2 687.4 684.2 683.8 V 0.5
+wire 676.6 693.8 674.6 693.8 H 0.5
+wire 674.6 693.8 674.6 694.2 V 0.5
+wire 676.6 693.8 681.4 693.8 H 0.5
+wire 674.6 694.2 673.4 694.2 H 0.5
+wire 673.4 694.2 673.4 696.6 V 0.5
+wire 673.4 696.6 669.8 696.6 H 0.5
+wire 669.8 687.4 669.8 696.6 V 0.5
+wire 667.8 696.6 667 696.6 H 0.5
+wire 667 696.6 667 700.2 V 0.5
+wire 667.8 696.6 669.8 696.6 H 0.5
+wire 667 700.2 662.6 700.2 H 0.5
+wire 662.6 700.2 662.6 703 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N87
+#Trunk_Term begin
+#Trunk clk_m__L3_I87 O 672.2 869
+#Trunk mips_core/datamem/ram_reg\[101\]\[9\] CK 662.6 879.4
+#Trunk mips_core/datamem/ram_reg\[100\]\[6\] CK 688.2 866.6
+#Trunk_Term end
+wire 673 869 673 866.6 V 0.5
+wire 673 869 672.2 869 H 0.5
+wire 684.2 856.6 684.2 860.2 V 0.5
+wire 684.2 856.6 675.4 856.6 H 0.5
+wire 674.6 860.2 675.4 860.2 H 0.5
+wire 675.4 860.2 675.4 856.6 V 0.5
+wire 674.6 860.2 670.2 860.2 H 0.5
+wire 674.6 860.2 674.6 863 V 0.5
+wire 661.4 856.6 661.4 863 V 0.5
+wire 661.4 856.6 667.4 856.6 H 0.5
+wire 651.8 879.4 662.6 879.4 H 0.5
+wire 688.2 873 688.2 866.6 V 0.5
+wire 661.4 863 662.6 863 H 0.5
+wire 662.6 863 662.6 869.4 V 0.5
+wire 662.6 869.4 662.6 879.4 V 0.5
+wire 667.4 856.6 670.2 856.6 H 0.5
+wire 670.2 856.6 670.2 860.2 V 0.5
+wire 673 866.6 674.6 866.6 H 0.5
+wire 674.6 866.6 674.6 863 V 0.5
+wire 684.2 860.2 685.4 860.2 H 0.5
+wire 685.4 860.2 685.4 863 V 0.5
+wire 685.4 863 688.2 863 H 0.5
+wire 688.2 863 688.2 866.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N86
+#Trunk_Term begin
+#Trunk clk_m__L3_I86 O 671 837
+#Trunk mips_core/datamem/ram_reg\[100\]\[14\] CK 685 843.8
+#Trunk mips_core/datamem/ram_reg\[102\]\[0\] CK 657.8 843.8
+#Trunk_Term end
+wire 659.4 828.2 659.8 828.2 H 0.5
+wire 659.4 828.2 651.8 828.2 H 0.5
+wire 667.4 828.2 672.6 828.2 H 0.5
+wire 667.4 828.2 663 828.2 H 0.5
+wire 684.2 834.6 684.2 837.4 V 0.5
+wire 684.2 834.6 677.4 834.6 H 0.5
+wire 651.8 843.8 657.8 843.8 H 0.5
+wire 651.8 843.8 651.8 837.4 V 0.5
+wire 674.6 834.6 677.4 834.6 H 0.5
+wire 674.6 834.6 671 834.6 H 0.5
+wire 671 834.6 671 837 V 0.5
+wire 674.6 834.6 674.6 831 V 0.5
+wire 651.8 828.2 651.8 837.4 V 0.5
+wire 659.8 828.2 663 828.2 H 0.5
+wire 672.6 828.2 674.6 828.2 H 0.5
+wire 674.6 828.2 674.6 831 V 0.5
+wire 684.2 837.4 685 837.4 H 0.5
+wire 685 837.4 685 843.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N85
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[99\]\[8\] CK 656.2 725.8
+#Trunk mips_core/datamem/ram_reg\[97\]\[15\] CK 677.8 719.4
+#Trunk mips_core/datamem/ram_reg\[99\]\[9\] CK 671 738.6
+#Trunk_Term end
+wire 671 734.6 673.4 734.6 H 0.5
+wire 673.4 734.6 673.4 732.2 V 0.5
+wire 671 734.6 671 738.6 V 0.5
+wire 671 734.6 670.6 734.6 H 0.5
+wire 673.4 728.6 672.6 728.6 H 0.5
+wire 672.6 728.6 672.6 725.8 V 0.5
+wire 673.4 728.6 673.4 732.2 V 0.5
+wire 671 741.4 671 738.6 V 0.5
+wire 657.8 735 656.2 735 H 0.5
+wire 656.2 735 656.2 732.2 V 0.5
+wire 657.8 735 665.8 735 H 0.5
+wire 672.6 719.4 677.8 719.4 H 0.5
+wire 672.6 719.4 672.6 725.8 V 0.5
+wire 656.2 725.8 656.2 732.2 V 0.5
+wire 667 735 665.8 735 H 0.5
+wire 667 735 670.6 735 H 0.5
+wire 670.6 735 670.6 734.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N84
+#Trunk_Term begin
+#Trunk clk_m__L3_I84 O 668.2 764.6
+#Trunk mips_core/datamem/ram_reg\[106\]\[0\] CK 640.6 770.6
+#Trunk mips_core/datamem/ram_reg\[98\]\[11\] CK 689.4 757.8
+#Trunk_Term end
+wire 682.2 757.8 689.4 757.8 H 0.5
+wire 682.2 757.8 681.4 757.8 H 0.5
+wire 651.8 754.2 659 754.2 H 0.5
+wire 651.8 754.2 651.8 760.6 V 0.5
+wire 679.8 757.8 681.4 757.8 H 0.5
+wire 679.8 757.8 670.6 757.8 H 0.5
+wire 666.6 757.8 670.6 757.8 H 0.5
+wire 666.6 757.8 666.6 760.6 V 0.5
+wire 666.6 757.8 659 757.8 H 0.5
+wire 659 757.8 659 754.2 V 0.5
+wire 652.2 767 651.8 767 H 0.5
+wire 651.8 767 651.8 760.6 V 0.5
+wire 652.2 767 652.2 770.6 V 0.5
+wire 645.8 770.6 652.2 770.6 H 0.5
+wire 645.8 770.6 640.6 770.6 H 0.5
+wire 666.6 760.6 667.8 760.6 H 0.5
+wire 667.8 760.6 667.8 764.6 V 0.5
+wire 668.2 764.6 667.8 764.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N83
+#Trunk_Term begin
+#Trunk clk_m__L3_I83 O 633.8 785.8
+#Trunk mips_core/datamem/ram_reg\[127\]\[1\] CK 614.6 767
+#Trunk mips_core/datamem/ram_reg\[107\]\[1\] CK 641 799
+#Trunk_Term end
+wire 633 785.8 633.8 785.8 H 0.5
+wire 633 785.8 633 789.8 V 0.5
+wire 632.2 799 641 799 H 0.5
+wire 632.2 799 630.2 799 H 0.5
+wire 632.2 799 632.2 792.6 V 0.5
+wire 611 783.4 608.6 783.4 H 0.5
+wire 608.6 783.4 608.6 779.8 V 0.5
+wire 611 783.4 611 786.2 V 0.5
+wire 621.8 799 619.4 799 H 0.5
+wire 621.8 799 630.2 799 H 0.5
+wire 645.4 796.2 642.6 796.2 H 0.5
+wire 642.6 796.2 642.6 799 V 0.5
+wire 611 792.6 611 786.2 V 0.5
+wire 611 792.6 617 792.6 H 0.5
+wire 608.6 773.4 609 773.4 H 0.5
+wire 609 773.4 609 770.6 V 0.5
+wire 608.6 773.4 608.6 779.8 V 0.5
+wire 609 770.6 614.6 770.6 H 0.5
+wire 614.6 770.6 614.6 767 V 0.5
+wire 617 792.6 619.4 792.6 H 0.5
+wire 619.4 792.6 619.4 799 V 0.5
+wire 632.2 792.6 633 792.6 H 0.5
+wire 633 792.6 633 789.8 V 0.5
+wire 641 799 642.6 799 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N82
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[120\]\[1\] CK 609.4 831
+#Trunk mips_core/datamem/ram_reg\[121\]\[6\] CK 619.8 811.8
+#Trunk mips_core/datamem/ram_reg\[107\]\[7\] CK 636.2 815.4
+#Trunk mips_core/datamem/ram_reg\[101\]\[0\] CK 646.2 837.4
+#Trunk_Term end
+wire 630.6 828.6 630.6 831 V 0.5
+wire 630.6 828.6 628.6 828.6 H 0.5
+wire 629 831 629 834.6 V 0.5
+wire 629 831 630.6 831 H 0.5
+wire 628.2 818.2 628.2 815.4 V 0.5
+wire 628.2 818.2 623.4 818.2 H 0.5
+wire 631 815.4 636.2 815.4 H 0.5
+wire 631 815.4 628.2 815.4 H 0.5
+wire 636.2 841 636.6 841 H 0.5
+wire 636.6 841 636.6 837.4 V 0.5
+wire 636.2 841 629 841 H 0.5
+wire 623.4 824.6 623.4 818.2 V 0.5
+wire 623.4 824.6 619.4 824.6 H 0.5
+wire 623.4 824.6 623.4 828.6 V 0.5
+wire 609.4 831 611.4 831 H 0.5
+wire 611.4 831 611.4 824.6 V 0.5
+wire 611.4 824.6 619.4 824.6 H 0.5
+wire 619.8 811.8 623.4 811.8 H 0.5
+wire 623.4 811.8 623.4 818.2 V 0.5
+wire 628.6 828.6 623.4 828.6 H 0.5
+wire 629 834.6 629 841 V 0.5
+wire 636.6 837.4 646.2 837.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N81
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[117\]\[6\] CK 634.2 866.6
+#Trunk mips_core/datamem/ram_reg\[103\]\[3\] CK 640.2 853.8
+#Trunk mips_core/datamem/ram_reg\[116\]\[6\] CK 609.8 863
+#Trunk mips_core/datamem/ram_reg\[119\]\[4\] CK 618.6 873
+#Trunk_Term end
+wire 618.6 879.4 618.6 873 V 0.5
+wire 618.2 856.6 619.4 856.6 H 0.5
+wire 618.2 856.6 618.2 863 V 0.5
+wire 636.6 853.8 640.2 853.8 H 0.5
+wire 636.6 853.8 635.4 853.8 H 0.5
+wire 618.6 869.4 618.6 873 V 0.5
+wire 618.6 869.4 618.2 869.4 H 0.5
+wire 618.2 869.4 618.2 863 V 0.5
+wire 631 853.8 635.4 853.8 H 0.5
+wire 631 853.8 630.2 853.8 H 0.5
+wire 630.2 853.8 630.2 856.6 V 0.5
+wire 609.8 863 617.8 863 H 0.5
+wire 617.8 863 618.2 863 H 0.5
+wire 619.4 856.6 630.2 856.6 H 0.5
+wire 630.2 856.6 630.2 862.6 V 0.5
+wire 630.2 862.6 634.2 862.6 H 0.5
+wire 634.2 866.6 634.2 862.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N80
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[114\]\[1\] CK 608.6 715.8
+#Trunk mips_core/datamem/ram_reg\[113\]\[2\] CK 615.4 700.2
+#Trunk mips_core/datamem/ram_reg\[115\]\[6\] CK 635.8 693.8
+#Trunk mips_core/datamem/ram_reg\[98\]\[3\] CK 637.4 709.4
+#Trunk_Term end
+wire 615.4 690.6 615.4 700.2 V 0.5
+wire 637.4 715.8 637.4 709.4 V 0.5
+wire 635.4 709 637.4 709 H 0.5
+wire 637.4 709 637.4 709.4 V 0.5
+wire 635.4 709 635.4 706.6 V 0.5
+wire 635.4 709 629.4 709 H 0.5
+wire 619.4 719.4 614.2 719.4 H 0.5
+wire 619.4 719.4 619.4 715.8 V 0.5
+wire 642.6 693.8 635.8 693.8 H 0.5
+wire 624.6 709 629.4 709 H 0.5
+wire 624.6 709 620.2 709 H 0.5
+wire 620.2 709 620.2 709.4 V 0.5
+wire 624.6 709 624.6 703 V 0.5
+wire 608.6 715.8 614.2 715.8 H 0.5
+wire 614.2 715.8 614.2 719.4 V 0.5
+wire 615.4 700.2 619.4 700.2 H 0.5
+wire 619.4 700.2 624.6 700.2 H 0.5
+wire 624.6 700.2 624.6 703 V 0.5
+wire 619.4 715.8 620.2 715.8 H 0.5
+wire 620.2 715.8 620.2 709.4 V 0.5
+wire 635.4 700.2 635.8 700.2 H 0.5
+wire 635.8 700.2 635.8 693.8 V 0.5
+wire 635.4 700.2 635.4 706.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N79
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[124\]\[5\] CK 613 735
+#Trunk mips_core/datamem/ram_reg\[99\]\[7\] CK 636.2 738.6
+#Trunk mips_core/datamem/ram_reg\[126\]\[6\] CK 623 754.2
+#Trunk_Term end
+wire 629.8 745 630.2 745 H 0.5
+wire 629.8 745 629.8 747.4 V 0.5
+wire 629.8 745 624.6 745 H 0.5
+wire 622.6 735 621 735 H 0.5
+wire 622.6 735 622.6 738.6 V 0.5
+wire 636.2 745 636.2 738.6 V 0.5
+wire 636.2 745 630.2 745 H 0.5
+wire 622.6 745 622.6 738.6 V 0.5
+wire 622.6 745 624.6 745 H 0.5
+wire 617 757.8 623 757.8 H 0.5
+wire 623 757.8 623 754.2 V 0.5
+wire 629 754.2 623 754.2 H 0.5
+wire 629 754.2 629.8 754.2 H 0.5
+wire 629.8 754.2 629.8 751.4 V 0.5
+wire 613 735 621 735 H 0.5
+wire 629.8 747.4 629.8 751.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N78
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[68\]\[13\] CK 753.4 850.2
+#Trunk mips_core/datamem/ram_reg\[71\]\[13\] CK 769.4 860.2
+#Trunk mips_core/datamem/ram_reg\[70\]\[14\] CK 771 821.8
+#Trunk_Term end
+wire 767.4 856.6 769.4 856.6 H 0.5
+wire 769.4 856.6 769.4 860.2 V 0.5
+wire 767.4 856.6 767.4 847.4 V 0.5
+wire 769 843.8 769 841.4 V 0.5
+wire 769 843.8 767.4 843.8 H 0.5
+wire 771 818.2 771 821.8 V 0.5
+wire 760.6 843.8 755 843.8 H 0.5
+wire 755 843.8 755 847.4 V 0.5
+wire 760.6 843.8 765.8 843.8 H 0.5
+wire 776.2 860.2 769.4 860.2 H 0.5
+wire 769 837.4 772.2 837.4 H 0.5
+wire 769 837.4 769 841.4 V 0.5
+wire 753.4 850.2 755 850.2 H 0.5
+wire 755 850.2 755 847.4 V 0.5
+wire 765.8 843.8 767.4 843.8 H 0.5
+wire 767.4 847.4 767.4 843.8 V 0.5
+wire 771 821.8 772.2 821.8 H 0.5
+wire 772.2 821.8 772.2 831 V 0.5
+wire 772.2 831 772.2 837.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N77
+#Trunk_Term begin
+#Trunk clk_m__L3_I77 O 759.8 779.4
+#Trunk mips_core/datamem/ram_reg\[66\]\[1\] CK 745.4 786.2
+#Trunk mips_core/datamem/ram_reg\[67\]\[0\] CK 773.8 760.6
+#Trunk mips_core/datamem/ram_reg\[66\]\[8\] CK 767.4 796.2
+#Trunk mips_core/datamem/ram_reg\[110\]\[12\] CK 745 770.6
+#Trunk_Term end
+wire 761.4 779.4 761.8 779.4 H 0.5
+wire 761.8 779.4 761.8 779.8 V 0.5
+wire 761.4 779.4 761.4 777 V 0.5
+wire 761.4 779.4 759.8 779.4 H 0.5
+wire 765.8 783.4 772.6 783.4 H 0.5
+wire 765.8 783.4 765.8 786.2 V 0.5
+wire 765.8 783.4 761.8 783.4 H 0.5
+wire 773.8 770.6 773.8 760.6 V 0.5
+wire 773.8 770.6 773.8 773.4 V 0.5
+wire 753 786.2 745.4 786.2 H 0.5
+wire 753 786.2 755.8 786.2 H 0.5
+wire 755.8 786.2 755.8 783.4 V 0.5
+wire 745 770.6 748.6 770.6 H 0.5
+wire 748.6 770.6 748.6 773.4 V 0.5
+wire 748.6 773.4 757.4 773.4 H 0.5
+wire 755.8 783.4 761.8 783.4 H 0.5
+wire 757.4 773.4 761.4 773.4 H 0.5
+wire 761.4 773.4 761.4 777 V 0.5
+wire 761.8 779.8 761.8 783.4 V 0.5
+wire 765.8 786.2 767.4 786.2 H 0.5
+wire 767.4 786.2 767.4 796.2 V 0.5
+wire 772.6 779.8 773.8 779.8 H 0.5
+wire 773.8 779.8 773.8 773.4 V 0.5
+wire 772.6 779.8 772.6 783.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N76
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[64\]\[13\] CK 760.6 799
+#Trunk mips_core/datamem/ram_reg\[70\]\[3\] CK 743 837.4
+#Trunk mips_core/datamem/ram_reg\[65\]\[9\] CK 743.4 805.4
+#Trunk_Term end
+wire 743.8 805.4 743.8 811.8 V 0.5
+wire 743.8 805.4 743.4 805.4 H 0.5
+wire 753 822.2 759.4 822.2 H 0.5
+wire 759.4 822.2 759.4 821.8 V 0.5
+wire 753 822.2 751.8 822.2 H 0.5
+wire 760.6 805.4 760.6 799 V 0.5
+wire 760.6 805.4 760.6 809 V 0.5
+wire 760.6 821.8 760.6 818.2 V 0.5
+wire 760.6 821.8 759.4 821.8 H 0.5
+wire 743 834.6 743 837.4 V 0.5
+wire 743 834.6 743 828.2 V 0.5
+wire 743 818.2 743 824.6 V 0.5
+wire 743 818.2 743.8 818.2 H 0.5
+wire 743 824.6 743 828.2 V 0.5
+wire 743.4 805.4 743.4 799 V 0.5
+wire 743.8 811.8 743.8 818.2 V 0.5
+wire 747.4 818.2 751.8 818.2 H 0.5
+wire 751.8 818.2 751.8 822.2 V 0.5
+wire 747.4 818.2 743.8 818.2 H 0.5
+wire 760.6 818.2 760.6 809 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N75
+#Trunk_Term begin
+#Trunk clk_m__L3_I75 O 752.6 741
+#Trunk mips_core/datamem/ram_reg\[221\]\[11\] CK 725.4 745
+#Trunk mips_core/datamem/ram_reg\[76\]\[3\] CK 768.2 745
+#Trunk_Term end
+wire 768.2 745 766.2 745 H 0.5
+wire 766.2 745 766.2 741.4 V 0.5
+wire 766.2 741.4 766.2 738.6 V 0.5
+wire 765 735 762.2 735 H 0.5
+wire 762.2 735 762.2 732.2 V 0.5
+wire 765 735 766.2 735 H 0.5
+wire 766.2 735 766.2 738.6 V 0.5
+wire 762.2 732.2 753 732.2 H 0.5
+wire 753 732.2 753 728.6 V 0.5
+wire 753 728.6 746.6 728.6 H 0.5
+wire 752.6 741 751 741 H 0.5
+wire 751 745 751 751.4 V 0.5
+wire 751 745 751 741 V 0.5
+wire 749.4 738.6 751 738.6 H 0.5
+wire 751 738.6 751 741 V 0.5
+wire 749.4 738.6 746.6 738.6 H 0.5
+wire 746.6 738.6 746.6 735 V 0.5
+wire 746.6 735 746.6 728.6 V 0.5
+wire 742.6 751.4 738.2 751.4 H 0.5
+wire 742.6 751.4 751 751.4 H 0.5
+wire 734.6 751.4 733.4 751.4 H 0.5
+wire 733.4 751.4 733.4 745 V 0.5
+wire 734.6 751.4 738.2 751.4 H 0.5
+wire 733.4 745 725.4 745 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N74
+#Trunk_Term begin
+#Trunk clk_m__L3_I74 O 741.8 709
+#Trunk mips_core/datamem/ram_reg\[223\]\[14\] CK 729.4 693.8
+#Trunk mips_core/datamem/ram_reg\[221\]\[8\] CK 745 703
+#Trunk mips_core/datamem/ram_reg\[223\]\[9\] CK 751.8 715.8
+#Trunk_Term end
+wire 743.8 709 745 709 H 0.5
+wire 745 709 745 703 V 0.5
+wire 743.8 709 743.8 709.4 V 0.5
+wire 743.8 709 741.8 709 H 0.5
+wire 742.2 715.8 742.2 719.4 V 0.5
+wire 742.2 715.8 743.8 715.8 H 0.5
+wire 727.8 713 727.8 706.6 V 0.5
+wire 727.8 713 725.4 713 H 0.5
+wire 725.4 713 725.4 715.8 V 0.5
+wire 733 722.2 729 722.2 H 0.5
+wire 733 722.2 734.2 722.2 H 0.5
+wire 734.2 722.2 734.2 719.4 V 0.5
+wire 725.4 715.8 725.4 722.2 V 0.5
+wire 727.8 706.6 729.4 706.6 H 0.5
+wire 729.4 706.6 729.4 693.8 V 0.5
+wire 729 722.2 725.4 722.2 H 0.5
+wire 734.2 719.4 742.2 719.4 H 0.5
+wire 743.8 709.4 743.8 715.8 V 0.5
+wire 751.8 715.8 743.8 715.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N73
+#Trunk_Term begin
+#Trunk clk_m__L3_I73 O 715.4 803
+#Trunk mips_core/datamem/ram_reg\[109\]\[2\] CK 731 796.2
+#Trunk mips_core/datamem/ram_reg\[110\]\[8\] CK 716.6 789.8
+#Trunk mips_core/datamem/ram_reg\[111\]\[8\] CK 697.8 796.2
+#Trunk mips_core/datamem/ram_reg\[109\]\[6\] CK 701 805.4
+#Trunk mips_core/datamem/ram_reg\[109\]\[15\] CK 726.6 805.4
+#Trunk_Term end
+wire 701 799 701.4 799 H 0.5
+wire 701 799 701 805.4 V 0.5
+wire 701 799 697.8 799 H 0.5
+wire 697.8 799 697.8 796.2 V 0.5
+wire 726.6 799 727.8 799 H 0.5
+wire 726.6 799 726.6 805.4 V 0.5
+wire 726.6 799 719.4 799 H 0.5
+wire 707 799 713 799 H 0.5
+wire 707 799 701.4 799 H 0.5
+wire 716.6 799 716.6 802.6 V 0.5
+wire 716.6 799 719.4 799 H 0.5
+wire 716.6 799 716.6 789.8 V 0.5
+wire 716.6 799 713 799 H 0.5
+wire 715.4 803 716.6 803 H 0.5
+wire 716.6 803 716.6 802.6 V 0.5
+wire 727.8 799 731 799 H 0.5
+wire 731 799 731 796.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N72
+#Trunk_Term begin
+#Trunk clk_m__L3_I72 O 719.8 764.6
+#Trunk mips_core/datamem/ram_reg\[96\]\[11\] CK 705 747.8
+#Trunk mips_core/datamem/ram_reg\[109\]\[12\] CK 731 770.6
+#Trunk mips_core/datamem/ram_reg\[111\]\[3\] CK 709.4 777
+#Trunk_Term end
+wire 705.8 747.8 711 747.8 H 0.5
+wire 711 747.8 711 751.4 V 0.5
+wire 705.8 747.8 705 747.8 H 0.5
+wire 704.6 777 709.4 777 H 0.5
+wire 717.8 764.6 719.8 764.6 H 0.5
+wire 717.8 764.6 717.8 770.6 V 0.5
+wire 717.8 764.6 716.2 764.6 H 0.5
+wire 716.2 764.6 716.2 764.2 V 0.5
+wire 715.4 760.6 716.2 760.6 H 0.5
+wire 716.2 760.6 716.2 764.2 V 0.5
+wire 715.4 760.6 715.4 757.8 V 0.5
+wire 717.8 777 725.4 777 H 0.5
+wire 717.8 777 717.8 773.4 V 0.5
+wire 731 777 731 770.6 V 0.5
+wire 731 777 725.4 777 H 0.5
+wire 715.4 751.4 715.4 757.8 V 0.5
+wire 715.4 751.4 711 751.4 H 0.5
+wire 709.4 777 709.8 777 H 0.5
+wire 709.8 777 709.8 773.4 V 0.5
+wire 709.8 773.4 717.8 773.4 H 0.5
+wire 717.8 770.6 717.8 773.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N71
+#Trunk_Term begin
+#Trunk clk_m__L3_I71 O 712.6 847.8
+#Trunk mips_core/datamem/ram_reg\[103\]\[4\] CK 715.8 863
+#Trunk mips_core/datamem/ram_reg\[103\]\[12\] CK 709.8 856.6
+#Trunk mips_core/datamem/ram_reg\[103\]\[13\] CK 695 837.4
+#Trunk mips_core/datamem/ram_reg\[111\]\[10\] CK 723 834.6
+#Trunk_Term end
+wire 715.8 841 709.8 841 H 0.5
+wire 715.8 841 721 841 H 0.5
+wire 715.8 841 715.8 843.8 V 0.5
+wire 704.6 828.2 703.4 828.2 H 0.5
+wire 704.6 828.2 709.8 828.2 H 0.5
+wire 723 834.6 721 834.6 H 0.5
+wire 721 834.6 721 837.4 V 0.5
+wire 721 837.4 721 841 V 0.5
+wire 715.8 863 715.8 856.6 V 0.5
+wire 715.8 850.2 715.8 856.6 V 0.5
+wire 715.8 850.2 715.8 847.4 V 0.5
+wire 715.8 843.8 715.8 847.4 V 0.5
+wire 714.6 847.4 712.6 847.4 H 0.5
+wire 712.6 847.4 712.6 847.8 V 0.5
+wire 714.6 847.4 715.8 847.4 H 0.5
+wire 709.8 856.6 715.8 856.6 H 0.5
+wire 709.8 834.6 709.8 828.2 V 0.5
+wire 709.8 834.6 709.8 841 V 0.5
+wire 703.4 828.2 699 828.2 H 0.5
+wire 699 828.2 695.8 828.2 H 0.5
+wire 695 837.4 695.8 837.4 H 0.5
+wire 695.8 837.4 695.8 828.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N70
+#Trunk_Term begin
+#Trunk clk_m__L3_I70 O 707 719.8
+#Trunk mips_core/datamem/ram_reg\[223\]\[3\] CK 700.2 703
+#Trunk mips_core/datamem/ram_reg\[222\]\[13\] CK 712.2 732.2
+#Trunk_Term end
+wire 695.4 722.2 695.4 728.6 V 0.5
+wire 695.4 722.2 695.8 722.2 H 0.5
+wire 695.8 722.2 695.8 719.4 V 0.5
+wire 712.2 732.2 712.2 735 V 0.5
+wire 712.2 732.2 706.6 732.2 H 0.5
+wire 706.6 732.2 706.6 728.6 V 0.5
+wire 707 719.8 704.6 719.8 H 0.5
+wire 704.6 719.8 704.6 725.8 V 0.5
+wire 706.6 728.6 704.6 728.6 H 0.5
+wire 704.6 725.8 704.6 728.6 V 0.5
+wire 700.2 713 700.2 706.6 V 0.5
+wire 700.2 713 695.8 713 H 0.5
+wire 700.2 703 700.2 696.6 V 0.5
+wire 700.2 703 700.2 706.6 V 0.5
+wire 698.6 728.6 704.6 728.6 H 0.5
+wire 698.6 728.6 695.4 728.6 H 0.5
+wire 695.8 715.8 695.8 719.4 V 0.5
+wire 695.8 715.8 695.8 713 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N69
+#Trunk_Term begin
+#Trunk clk_m__L3_I69 O 674.6 798.6
+#Trunk mips_core/datamem/ram_reg\[107\]\[2\] CK 670.6 783.4
+#Trunk mips_core/datamem/ram_reg\[107\]\[10\] CK 674.2 809
+#Trunk mips_core/datamem/ram_reg\[106\]\[8\] CK 657 799
+#Trunk_Term end
+wire 674.2 802.6 674.2 798.6 V 0.5
+wire 674.2 802.6 674.2 809 V 0.5
+wire 674.2 802.6 673.4 802.6 H 0.5
+wire 678.6 796.2 678.6 786.2 V 0.5
+wire 678.6 796.2 674.2 796.2 H 0.5
+wire 662.2 799 657 799 H 0.5
+wire 662.2 799 663.4 799 H 0.5
+wire 663.4 799 663.4 802.6 V 0.5
+wire 678.6 783.4 670.6 783.4 H 0.5
+wire 678.6 783.4 678.6 786.2 V 0.5
+wire 657 799 657 802.6 V 0.5
+wire 663.4 802.6 673.4 802.6 H 0.5
+wire 674.2 796.2 674.2 798.6 V 0.5
+wire 674.6 798.6 674.2 798.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N68
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[73\]\[14\] CK 831 754.2
+#Trunk mips_core/datamem/ram_reg\[72\]\[11\] CK 867.8 767
+#Trunk mips_core/datamem/ram_reg\[74\]\[14\] CK 853 747.8
+#Trunk_Term end
+wire 853 753.8 862.2 753.8 H 0.5
+wire 862.2 753.8 862.2 757.8 V 0.5
+wire 853 753.8 852.2 753.8 H 0.5
+wire 853 753.8 853 747.8 V 0.5
+wire 835.4 767 835.4 764.2 V 0.5
+wire 835.4 767 844.2 767 H 0.5
+wire 848.6 767 844.2 767 H 0.5
+wire 848.6 767 848.6 764.2 V 0.5
+wire 831 764.2 831 754.2 V 0.5
+wire 831 764.2 835.4 764.2 H 0.5
+wire 867.8 757.8 867.8 767 V 0.5
+wire 867.8 757.8 862.2 757.8 H 0.5
+wire 846.6 760.6 848.6 760.6 H 0.5
+wire 848.6 760.6 848.6 764.2 V 0.5
+wire 846.6 760.6 846.6 754.2 V 0.5
+wire 852.2 753.8 846.6 753.8 H 0.5
+wire 846.6 753.8 846.6 754.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N67
+#Trunk_Term begin
+#Trunk clk_m__L3_I67 O 854.2 798.6
+#Trunk mips_core/datamem/ram_reg\[73\]\[10\] CK 846.6 818.2
+#Trunk mips_core/datamem/ram_reg\[73\]\[5\] CK 841.8 779.8
+#Trunk mips_core/datamem/ram_reg\[74\]\[2\] CK 857 799
+#Trunk_Term end
+wire 841.8 792.6 841.8 802.6 V 0.5
+wire 841.8 792.6 841.8 786.2 V 0.5
+wire 854.2 799 857 799 H 0.5
+wire 854.2 799 854.2 798.6 V 0.5
+wire 854.2 799 850.6 799 H 0.5
+wire 867.8 799 857 799 H 0.5
+wire 849 805.4 849 799 V 0.5
+wire 849 805.4 849 809 V 0.5
+wire 849 805.4 843 805.4 H 0.5
+wire 841.8 779.8 841.8 786.2 V 0.5
+wire 843 805.4 841.8 805.4 H 0.5
+wire 841.8 805.4 841.8 802.6 V 0.5
+wire 846.6 818.2 849 818.2 H 0.5
+wire 849 818.2 849 811.8 V 0.5
+wire 849 811.8 849 809 V 0.5
+wire 850.6 799 849 799 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N66
+#Trunk_Term begin
+#Trunk clk_m__L3_I66 O 835.8 689.8
+#Trunk mips_core/datamem/ram_reg\[197\]\[8\] CK 826.6 690.2
+#Trunk mips_core/datamem/ram_reg\[197\]\[10\] CK 845 690.2
+#Trunk_Term end
+wire 846.6 683.8 846.6 687.4 V 0.5
+wire 846.6 683.8 841.4 683.8 H 0.5
+wire 833.4 689.8 835.8 689.8 H 0.5
+wire 833.4 689.8 833.4 687.4 V 0.5
+wire 833.4 689.8 832.2 689.8 H 0.5
+wire 832.2 689.8 832.2 693.8 V 0.5
+wire 825.8 683.8 826.6 683.8 H 0.5
+wire 826.6 683.8 826.6 690.2 V 0.5
+wire 827 693.8 832.2 693.8 H 0.5
+wire 827 693.8 826.6 693.8 H 0.5
+wire 845 696.6 845 690.2 V 0.5
+wire 826.6 690.2 826.6 693.8 V 0.5
+wire 833.4 687.4 835 687.4 H 0.5
+wire 835 687.4 835 683.8 V 0.5
+wire 835 683.8 841.4 683.8 H 0.5
+wire 845 690.2 846.6 690.2 H 0.5
+wire 846.6 690.2 846.6 687.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N65
+#Trunk_Term begin
+#Trunk clk_m__L3_I65 O 825.4 721.8
+#Trunk mips_core/datamem/ram_reg\[78\]\[11\] CK 832.2 715.8
+#Trunk mips_core/datamem/ram_reg\[79\]\[12\] CK 828.2 735
+#Trunk mips_core/datamem/ram_reg\[78\]\[6\] CK 832.6 722.2
+#Trunk mips_core/datamem/ram_reg\[77\]\[15\] CK 808.2 715.8
+#Trunk_Term end
+wire 842.2 722.2 832.6 722.2 H 0.5
+wire 817.8 722.2 825.4 722.2 H 0.5
+wire 817.8 722.2 817.8 725.8 V 0.5
+wire 831 722.2 832.2 722.2 H 0.5
+wire 831 722.2 831 728.6 V 0.5
+wire 831 722.2 825.4 722.2 H 0.5
+wire 813 725.8 817.8 725.8 H 0.5
+wire 813 725.8 810.2 725.8 H 0.5
+wire 809.4 713 808.2 713 H 0.5
+wire 808.2 713 808.2 715.8 V 0.5
+wire 808.2 722.2 810.2 722.2 H 0.5
+wire 810.2 722.2 810.2 725.8 V 0.5
+wire 808.2 722.2 808.2 715.8 V 0.5
+wire 825.4 721.8 825.4 722.2 V 0.5
+wire 828.2 735 831 735 H 0.5
+wire 831 735 831 728.6 V 0.5
+wire 832.2 715.8 832.2 722.2 V 0.5
+wire 832.6 722.2 832.2 722.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N64
+#Trunk_Term begin
+#Trunk clk_m__L3_I64 O 820.2 847.8
+#Trunk mips_core/datamem/ram_reg\[68\]\[11\] CK 846.6 847.4
+#Trunk mips_core/datamem/ram_reg\[68\]\[5\] CK 791.8 847.4
+#Trunk_Term end
+wire 794.2 860.2 800.6 860.2 H 0.5
+wire 794.2 860.2 794.2 850.2 V 0.5
+wire 801.4 860.2 801.4 853.8 V 0.5
+wire 801.4 860.2 800.6 860.2 H 0.5
+wire 846.6 837.4 846.6 847.4 V 0.5
+wire 821.8 841 821.8 843.8 V 0.5
+wire 821.8 841 813.8 841 H 0.5
+wire 791.8 843.8 791.8 847.4 V 0.5
+wire 810.2 847.4 810.6 847.4 H 0.5
+wire 810.6 847.4 810.6 841 V 0.5
+wire 810.2 847.4 810.2 853.8 V 0.5
+wire 824.6 850.2 832.2 850.2 H 0.5
+wire 824.6 850.2 821.8 850.2 H 0.5
+wire 821.8 850.2 821.8 847.8 V 0.5
+wire 791.8 847.4 794.2 847.4 H 0.5
+wire 794.2 847.4 794.2 850.2 V 0.5
+wire 801.4 853.8 810.2 853.8 H 0.5
+wire 810.6 841 813.8 841 H 0.5
+wire 820.2 847.8 821.8 847.8 H 0.5
+wire 821.8 843.8 821.8 847.8 V 0.5
+wire 832.2 850.2 846.6 850.2 H 0.5
+wire 846.6 850.2 846.6 847.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N63
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[75\]\[13\] CK 811.8 809
+#Trunk mips_core/datamem/ram_reg\[75\]\[9\] CK 824.6 815.4
+#Trunk mips_core/datamem/ram_reg\[69\]\[7\] CK 810.2 831
+#Trunk mips_core/datamem/ram_reg\[69\]\[15\] CK 796.2 831
+#Trunk_Term end
+wire 796.2 824.6 792.2 824.6 H 0.5
+wire 796.2 824.6 796.2 831 V 0.5
+wire 805 831 804.2 831 H 0.5
+wire 805 831 810.2 831 H 0.5
+wire 805 831 805 824.6 V 0.5
+wire 796.2 831 804.2 831 H 0.5
+wire 805 824.6 808.2 824.6 H 0.5
+wire 808.2 824.6 808.2 821.8 V 0.5
+wire 808.2 821.8 811.8 821.8 H 0.5
+wire 811.8 821.8 811.8 817.8 V 0.5
+wire 810.2 831 816.2 831 H 0.5
+wire 811.8 809 811.8 817.8 V 0.5
+wire 814.2 817.8 811.8 817.8 H 0.5
+wire 814.2 817.8 821.4 817.8 H 0.5
+wire 824.6 815.4 821.4 815.4 H 0.5
+wire 821.4 815.4 821.4 817.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N62
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[66\]\[7\] CK 790.6 809
+#Trunk mips_core/datamem/ram_reg\[66\]\[6\] CK 789.8 777
+#Trunk clk_m__L3_I62 O 810.2 792.2
+#Trunk mips_core/datamem/ram_reg\[75\]\[3\] CK 814.2 783.4
+#Trunk_Term end
+wire 797.4 809 797.4 799 V 0.5
+wire 797.4 809 790.6 809 H 0.5
+wire 810.2 786.2 811 786.2 H 0.5
+wire 811 786.2 811 783.4 V 0.5
+wire 810.2 786.2 810.2 792.2 V 0.5
+wire 810.2 786.2 798.6 786.2 H 0.5
+wire 796.2 789.8 797.8 789.8 H 0.5
+wire 797.8 789.8 797.8 786.2 V 0.5
+wire 796.2 789.8 796.2 796.2 V 0.5
+wire 789.8 777 797 777 H 0.5
+wire 797 777 797 779.8 V 0.5
+wire 796.2 796.2 797.4 796.2 H 0.5
+wire 797.4 796.2 797.4 799 V 0.5
+wire 797 779.8 797.8 779.8 H 0.5
+wire 797.8 779.8 797.8 783.4 V 0.5
+wire 797.8 783.4 797.8 786.2 V 0.5
+wire 798.6 786.2 797.8 786.2 H 0.5
+wire 811 783.4 814.2 783.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N61
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[77\]\[1\] CK 782.6 754.2
+#Trunk mips_core/datamem/ram_reg\[75\]\[0\] CK 810.2 764.2
+#Trunk mips_core/datamem/ram_reg\[65\]\[12\] CK 797.4 757.8
+#Trunk_Term end
+wire 804.6 753.8 808.2 753.8 H 0.5
+wire 808.2 753.8 808.2 751.4 V 0.5
+wire 804.6 753.8 802.6 753.8 H 0.5
+wire 783.4 747.8 782.6 747.8 H 0.5
+wire 782.6 747.8 782.6 754.2 V 0.5
+wire 783.4 747.8 788.2 747.8 H 0.5
+wire 788.2 741.4 788.2 747.8 V 0.5
+wire 815 757.8 810.2 757.8 H 0.5
+wire 810.2 757.8 810.2 764.2 V 0.5
+wire 815 757.8 815 754.2 V 0.5
+wire 797.4 754.2 797.4 757.8 V 0.5
+wire 797.4 754.2 793 754.2 H 0.5
+wire 797.4 754.2 802.6 754.2 H 0.5
+wire 802.6 754.2 802.6 753.8 V 0.5
+wire 788.2 747.8 793 747.8 H 0.5
+wire 793 747.8 793 751.4 V 0.5
+wire 793 751.4 793 754.2 V 0.5
+wire 808.2 751.4 815 751.4 H 0.5
+wire 815 754.2 815 751.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N60
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[217\]\[9\] CK 801.4 696.6
+#Trunk mips_core/datamem/ram_reg\[218\]\[5\] CK 769.4 696.6
+#Trunk mips_core/datamem/ram_reg\[216\]\[7\] CK 785.8 677.4
+#Trunk_Term end
+wire 801.4 696.6 801.4 687.4 V 0.5
+wire 801.4 687.4 800.6 687.4 H 0.5
+wire 800.6 687.4 800.6 683.8 V 0.5
+wire 800.6 683.8 797 683.8 H 0.5
+wire 797 683.8 789.8 683.8 H 0.5
+wire 789.8 683.8 789.8 683.4 V 0.5
+wire 789.8 683.4 785.8 683.4 H 0.5
+wire 785.8 677.4 783.4 677.4 H 0.5
+wire 785.8 677.4 785.8 683.4 V 0.5
+wire 782.6 690.2 780.6 690.2 H 0.5
+wire 780.6 690.2 780.6 693.8 V 0.5
+wire 782.6 690.2 782.6 687.4 V 0.5
+wire 782.6 687.4 785.8 687.4 H 0.5
+wire 785.8 687.4 785.8 683.4 V 0.5
+wire 780.6 693.8 780.6 696.6 V 0.5
+wire 769.4 696.6 780.6 696.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N59
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[221\]\[7\] CK 761 719.4
+#Trunk mips_core/datamem/ram_reg\[77\]\[0\] CK 795.4 732.2
+#Trunk mips_core/datamem/ram_reg\[216\]\[5\] CK 782.2 703
+#Trunk_Term end
+wire 788.2 713 788.2 709.4 V 0.5
+wire 788.2 713 784.6 713 H 0.5
+wire 784.6 713 784.6 719.4 V 0.5
+wire 779.8 706.6 782.2 706.6 H 0.5
+wire 782.2 706.6 782.2 703 V 0.5
+wire 779.8 719.8 782.6 719.8 H 0.5
+wire 779.8 719.8 779.8 725.8 V 0.5
+wire 779.8 732.2 782.2 732.2 H 0.5
+wire 779.8 732.2 779.8 725.8 V 0.5
+wire 787.4 703 782.2 703 H 0.5
+wire 787.4 703 787.4 706.6 V 0.5
+wire 761 719.4 765 719.4 H 0.5
+wire 765 719.4 765 725.8 V 0.5
+wire 765 725.8 770.6 725.8 H 0.5
+wire 770.6 725.8 779.8 725.8 H 0.5
+wire 782.6 719.8 784.6 719.8 H 0.5
+wire 784.6 719.8 784.6 719.4 V 0.5
+wire 787.4 706.6 788.2 706.6 H 0.5
+wire 788.2 706.6 788.2 709.4 V 0.5
+wire 787.4 732.2 795.4 732.2 H 0.5
+wire 787.4 732.2 782.2 732.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N117
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[178\]\[9\] CK 427 425
+#Trunk clk_m__L3_I117 O 442.6 408.2
+#Trunk mips_core/datamem/ram_reg\[178\]\[1\] CK 435 399.4
+#Trunk_Term end
+wire 423.8 405.8 430.2 405.8 H 0.5
+wire 423.8 405.8 423.8 415 V 0.5
+wire 435 402.2 439.8 402.2 H 0.5
+wire 435 402.2 435 399.4 V 0.5
+wire 435 402.2 430.2 402.2 H 0.5
+wire 430.2 402.2 430.2 405.8 V 0.5
+wire 442.6 402.2 442.6 408.2 V 0.5
+wire 442.6 402.2 439.8 402.2 H 0.5
+wire 448.6 408.2 442.6 408.2 H 0.5
+wire 423.8 421.4 427 421.4 H 0.5
+wire 427 421.4 427 425 V 0.5
+wire 423.8 421.4 423.8 415 V 0.5
+wire 435 399.4 435 389.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N116
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[11\]\[1\] CK 427.4 469.8
+#Trunk mips_core/datamem/ram_reg\[10\]\[4\] CK 418.6 453.4
+#Trunk mips_core/datamem/ram_reg\[9\]\[0\] CK 434.6 450.6
+#Trunk_Term end
+wire 441 453.4 434.6 453.4 H 0.5
+wire 434.6 453.4 434.6 453 V 0.5
+wire 413.8 447 413.8 453.4 V 0.5
+wire 435 440.6 435 447 V 0.5
+wire 434.6 450.6 435 450.6 H 0.5
+wire 435 450.6 435 447 V 0.5
+wire 434.6 450.6 434.6 453 V 0.5
+wire 430.6 453 427 453 H 0.5
+wire 427 453 427 450.6 V 0.5
+wire 430.6 453 434.6 453 H 0.5
+wire 427.4 469.8 427 469.8 H 0.5
+wire 427 469.8 427 459.8 V 0.5
+wire 427 459.8 423.4 459.8 H 0.5
+wire 423.4 459.8 423.4 457 V 0.5
+wire 423.8 450.6 423.4 450.6 H 0.5
+wire 423.8 450.6 427 450.6 H 0.5
+wire 423.4 457 423.4 450.6 V 0.5
+wire 419.4 450.6 418.6 450.6 H 0.5
+wire 418.6 450.6 418.6 453.4 V 0.5
+wire 419.4 450.6 423.4 450.6 H 0.5
+wire 418.6 453.4 413.8 453.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N115
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[176\]\[5\] CK 405.4 389.4
+#Trunk mips_core/datamem/ram_reg\[187\]\[13\] CK 444.2 361
+#Trunk_Term end
+wire 428.6 370.2 428.6 374.2 V 0.5
+wire 428.6 370.2 428.2 370.2 H 0.5
+wire 434.6 363.8 434.6 361 V 0.5
+wire 434.6 363.8 428.2 363.8 H 0.5
+wire 405.4 376.6 405.4 389.4 V 0.5
+wire 405.4 376.6 411.8 376.6 H 0.5
+wire 417 376.6 411.8 376.6 H 0.5
+wire 417 376.6 419.4 376.6 H 0.5
+wire 419.4 376.6 419.4 380.2 V 0.5
+wire 429.8 380.2 427.4 380.2 H 0.5
+wire 429.8 380.2 429.8 376.6 V 0.5
+wire 444.2 367.4 449.4 367.4 H 0.5
+wire 444.2 367.4 444.2 361 V 0.5
+wire 427.4 380.2 419.4 380.2 H 0.5
+wire 428.2 363.8 428.2 370.2 V 0.5
+wire 428.6 374.2 429.8 374.2 H 0.5
+wire 429.8 374.2 429.8 376.6 V 0.5
+wire 434.6 361 442.2 361 H 0.5
+wire 444.2 361 442.2 361 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N114
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[177\]\[15\] CK 405 405.8
+#Trunk mips_core/datamem/ram_reg\[9\]\[13\] CK 389 431.4
+#Trunk mips_core/datamem/ram_reg\[9\]\[2\] CK 404.6 437.8
+#Trunk_Term end
+wire 407 418.6 407 415 V 0.5
+wire 407 418.6 407 425 V 0.5
+wire 406.2 425 405.4 425 H 0.5
+wire 405.4 425 405.4 427.4 V 0.5
+wire 406.2 425 407 425 H 0.5
+wire 405.4 431.4 404.6 431.4 H 0.5
+wire 404.6 431.4 404.6 437.8 V 0.5
+wire 405.4 431.4 405.4 427.4 V 0.5
+wire 405.4 415 405 415 H 0.5
+wire 405 415 405 412.2 V 0.5
+wire 405.4 415 407 415 H 0.5
+wire 405 405.8 405 412.2 V 0.5
+wire 404.6 437.8 402.2 437.8 H 0.5
+wire 402.2 437.8 402.2 440.6 V 0.5
+wire 400.2 427.4 397.8 427.4 H 0.5
+wire 400.2 427.4 405.4 427.4 H 0.5
+wire 397.4 431.4 389 431.4 H 0.5
+wire 397.4 431.4 397.8 431.4 H 0.5
+wire 397.8 431.4 397.8 427.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N113
+#Trunk_Term begin
+#Trunk clk_m__L3_I113 O 399.8 476.6
+#Trunk mips_core/datamem/ram_reg\[8\]\[4\] CK 403.4 466.2
+#Trunk mips_core/datamem/ram_reg\[13\]\[2\] CK 407.8 489
+#Trunk_Term end
+wire 387 476.2 391.4 476.2 H 0.5
+wire 391.4 476.2 391.4 479 V 0.5
+wire 387 476.2 387 472.6 V 0.5
+wire 381.4 472.6 387 472.6 H 0.5
+wire 381.4 472.6 381.4 469.8 V 0.5
+wire 403 485.4 407.8 485.4 H 0.5
+wire 407.8 485.4 407.8 489 V 0.5
+wire 403 485.4 399.8 485.4 H 0.5
+wire 395 479 396.2 479 H 0.5
+wire 396.2 479 396.2 476.6 V 0.5
+wire 395 479 395 482.6 V 0.5
+wire 395 479 391.4 479 H 0.5
+wire 381.4 469.8 383.8 469.8 H 0.5
+wire 383.8 469.8 383.8 466.2 V 0.5
+wire 383.8 466.2 389 466.2 H 0.5
+wire 389 466.2 389 463.4 V 0.5
+wire 389 463.4 397 463.4 H 0.5
+wire 395 482.6 399.8 482.6 H 0.5
+wire 399.8 482.6 399.8 485.4 V 0.5
+wire 397 463.4 397.4 463.4 H 0.5
+wire 397.4 463.4 397.4 466.2 V 0.5
+wire 397.4 466.2 403.4 466.2 H 0.5
+wire 399.8 476.6 396.2 476.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N112
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[12\]\[15\] CK 372.2 489
+#Trunk clk_m__L3_I112 O 383 497.8
+#Trunk mips_core/datamem/ram_reg\[0\]\[13\] CK 381.4 508.2
+#Trunk mips_core/datamem/ram_reg\[1\]\[13\] CK 385 498.2
+#Trunk_Term end
+wire 382.2 498.2 382.2 501.8 V 0.5
+wire 382.2 498.2 375 498.2 H 0.5
+wire 382.2 498.2 383 498.2 H 0.5
+wire 393.4 498.2 385 498.2 H 0.5
+wire 381.4 514.6 381.4 508.2 V 0.5
+wire 372.2 489 372.2 498.2 V 0.5
+wire 375 498.2 372.2 498.2 H 0.5
+wire 381.4 508.2 382.2 508.2 H 0.5
+wire 382.2 508.2 382.2 501.8 V 0.5
+wire 383 497.8 383 498.2 V 0.5
+wire 385 498.2 383 498.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N111
+#Trunk_Term begin
+#Trunk clk_m__L3_I111 O 372.6 421
+#Trunk mips_core/datamem/ram_reg\[8\]\[6\] CK 362.6 437.8
+#Trunk mips_core/datamem/ram_reg\[8\]\[10\] CK 370.6 450.6
+#Trunk_Term end
+wire 369.8 450.6 370.6 450.6 H 0.5
+wire 369.8 450.6 369.8 447 V 0.5
+wire 373.8 427.8 373.8 421 V 0.5
+wire 373.8 427.8 373.8 431.4 V 0.5
+wire 368.6 437.8 370.6 437.8 H 0.5
+wire 368.6 437.8 362.6 437.8 H 0.5
+wire 368.6 437.8 368.6 440.6 V 0.5
+wire 375.8 450.6 379.8 450.6 H 0.5
+wire 375.8 450.6 370.6 450.6 H 0.5
+wire 358.6 431.4 351.8 431.4 H 0.5
+wire 358.6 431.4 362.6 431.4 H 0.5
+wire 362.6 431.4 362.6 437.8 V 0.5
+wire 387 399.4 373.8 399.4 H 0.5
+wire 373.8 399.4 373.8 421 V 0.5
+wire 368.6 440.6 369.8 440.6 H 0.5
+wire 369.8 440.6 369.8 447 V 0.5
+wire 370.6 437.8 373.8 437.8 H 0.5
+wire 373.8 437.8 373.8 431.4 V 0.5
+wire 372.6 421 373.8 421 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N110
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[9\]\[9\] CK 370.6 463.4
+#Trunk mips_core/datamem/ram_reg\[8\]\[11\] CK 333 453.4
+#Trunk_Term end
+wire 358.2 469.8 358.6 469.8 H 0.5
+wire 358.2 469.8 353.8 469.8 H 0.5
+wire 347.8 459.4 347.8 457 V 0.5
+wire 347.8 459.4 349.4 459.4 H 0.5
+wire 360.2 469.8 369.4 469.8 H 0.5
+wire 360.2 469.8 358.6 469.8 H 0.5
+wire 327 453.4 333 453.4 H 0.5
+wire 347.8 450.6 340.2 450.6 H 0.5
+wire 347.8 450.6 347.8 457 V 0.5
+wire 333 453.4 340.2 453.4 H 0.5
+wire 340.2 453.4 340.2 450.6 V 0.5
+wire 349.4 459.4 351.8 459.4 H 0.5
+wire 351.8 459.4 351.8 463.4 V 0.5
+wire 351.8 463.4 351.8 469.8 V 0.5
+wire 353.8 469.8 351.8 469.8 H 0.5
+wire 369.4 469.8 370.6 469.8 H 0.5
+wire 370.6 469.8 370.6 463.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N109
+#Trunk_Term begin
+#Trunk clk_m__L3_I109 O 339 495.8
+#Trunk mips_core/datamem/ram_reg\[15\]\[3\] CK 347.8 482.6
+#Trunk mips_core/datamem/ram_reg\[12\]\[3\] CK 321.8 485.4
+#Trunk mips_core/datamem/ram_reg\[1\]\[5\] CK 328.2 508.2
+#Trunk_Term end
+wire 339 498.2 340.2 498.2 H 0.5
+wire 340.2 498.2 340.2 501.8 V 0.5
+wire 339 498.2 339 495.8 V 0.5
+wire 339 498.2 337 498.2 H 0.5
+wire 321.8 508.2 328.2 508.2 H 0.5
+wire 326.6 489 321.8 489 H 0.5
+wire 321.8 489 321.8 485.4 V 0.5
+wire 326.6 489 326.6 491.8 V 0.5
+wire 351 489 348.2 489 H 0.5
+wire 351 489 351 491.8 V 0.5
+wire 353 501.8 353 498.2 V 0.5
+wire 353 501.8 341.4 501.8 H 0.5
+wire 330.6 498.2 325.8 498.2 H 0.5
+wire 330.6 498.2 337 498.2 H 0.5
+wire 330.6 498.2 330.6 504.6 V 0.5
+wire 325.8 495.4 326.6 495.4 H 0.5
+wire 326.6 495.4 326.6 491.8 V 0.5
+wire 325.8 495.4 325.8 498.2 V 0.5
+wire 328.2 508.2 330.6 508.2 H 0.5
+wire 330.6 508.2 330.6 504.6 V 0.5
+wire 341.4 501.8 340.2 501.8 H 0.5
+wire 347.8 482.6 348.2 482.6 H 0.5
+wire 348.2 482.6 348.2 489 V 0.5
+wire 351 491.8 353 491.8 H 0.5
+wire 353 491.8 353 498.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__N0
+#Trunk_Term begin
+#Trunk clk_m__I0 O 493.4 380.6
+#Trunk mips_core/datamem/ram_reg\[185\]\[0\] CK 497.4 341.8
+#Trunk_Term end
+wire 501 354.6 501 363.8 V 0.5
+wire 501 354.6 499.8 354.6 H 0.5
+wire 499.8 354.6 499.8 351 V 0.5
+wire 497.4 335.4 497.4 341.8 V 0.5
+wire 493.4 363.8 493.4 380.6 V 0.5
+wire 493.4 363.8 501 363.8 H 0.5
+wire 497.4 341.8 499.8 341.8 H 0.5
+wire 499.8 341.8 499.8 348.2 V 0.5
+wire 499.8 348.2 499.8 351 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N99
+#Trunk_Term begin
+#Trunk clk_m__L3_I99 O 443.4 478.6
+#Trunk mips_core/datamem/ram_reg\[181\]\[11\] CK 457.4 489
+#Trunk mips_core/datamem/ram_reg\[12\]\[1\] CK 431.8 489
+#Trunk mips_core/datamem/ram_reg\[183\]\[13\] CK 449.4 469.8
+#Trunk_Term end
+wire 426.6 482.6 435.4 482.6 H 0.5
+wire 426.6 482.6 426.6 485.4 V 0.5
+wire 444.2 479 449 479 H 0.5
+wire 444.2 479 443.4 479 H 0.5
+wire 443.4 479 443.4 478.6 V 0.5
+wire 444.2 479 444.2 482.6 V 0.5
+wire 449.4 472.6 450.6 472.6 H 0.5
+wire 449.4 472.6 449.4 469.8 V 0.5
+wire 449.4 472.6 449.4 479 V 0.5
+wire 457.4 472.6 457.4 479 V 0.5
+wire 457.4 472.6 450.6 472.6 H 0.5
+wire 426.6 489 431.8 489 H 0.5
+wire 426.6 489 426.6 485.4 V 0.5
+wire 435.4 482.6 444.2 482.6 H 0.5
+wire 449 479 449.4 479 H 0.5
+wire 449.4 469.8 449.4 463.4 V 0.5
+wire 457.4 479 457.4 489 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N100
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[182\]\[14\] CK 449.4 444.2
+#Trunk mips_core/datamem/ram_reg\[183\]\[15\] CK 472.6 444.2
+#Trunk mips_core/datamem/ram_reg\[191\]\[9\] CK 462.6 415
+#Trunk_Term end
+wire 463.4 434.2 463.8 434.2 H 0.5
+wire 463.4 434.2 463.4 431.8 V 0.5
+wire 463.4 434.2 457.4 434.2 H 0.5
+wire 449.4 453.4 449.4 444.2 V 0.5
+wire 472.6 440.6 472.6 444.2 V 0.5
+wire 472.6 440.6 470.2 440.6 H 0.5
+wire 472.6 450.6 472.6 444.2 V 0.5
+wire 462.6 425 462.6 418.6 V 0.5
+wire 462.6 425 462.6 427.8 V 0.5
+wire 466.2 415 462.6 415 H 0.5
+wire 449.4 444.2 457.4 444.2 H 0.5
+wire 457.4 434.2 457.4 444.2 V 0.5
+wire 462.6 415 462.6 418.6 V 0.5
+wire 463.4 431.8 462.6 431.8 H 0.5
+wire 462.6 431.8 462.6 427.8 V 0.5
+wire 463.8 434.2 468.2 434.2 H 0.5
+wire 468.2 434.2 468.2 437.8 V 0.5
+wire 468.2 437.8 470.2 437.8 H 0.5
+wire 470.2 437.8 470.2 440.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N101
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[184\]\[2\] CK 472.6 325.4
+#Trunk mips_core/datamem/ram_reg\[186\]\[1\] CK 479 351
+#Trunk mips_core/datamem/ram_reg\[186\]\[11\] CK 462.2 344.6
+#Trunk mips_core/datamem/ram_reg\[184\]\[14\] CK 456.2 335.4
+#Trunk_Term end
+wire 479 351 472.6 351 H 0.5
+wire 472.6 331.8 472.6 325.4 V 0.5
+wire 472.6 331.8 466.6 331.8 H 0.5
+wire 466.6 331.8 466.6 335.4 V 0.5
+wire 470.6 351 468.6 351 H 0.5
+wire 468.6 351 468.6 348.2 V 0.5
+wire 470.6 351 472.6 351 H 0.5
+wire 468.6 344.6 466.6 344.6 H 0.5
+wire 468.6 344.6 468.6 348.2 V 0.5
+wire 466.6 344.2 466.6 335.4 V 0.5
+wire 466.6 344.2 466.6 344.6 V 0.5
+wire 464.2 335.4 456.2 335.4 H 0.5
+wire 464.2 335.4 466.6 335.4 H 0.5
+wire 462.2 344.6 466.6 344.6 H 0.5
+wire 456.2 335.4 450.2 335.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N102
+#Trunk_Term begin
+#Trunk clk_m__L3_I102 O 475.8 382.6
+#Trunk mips_core/datamem/ram_reg\[188\]\[2\] CK 469 376.6
+#Trunk mips_core/datamem/ram_reg\[188\]\[14\] CK 458.2 399.4
+#Trunk mips_core/datamem/ram_reg\[184\]\[8\] CK 482.2 376.6
+#Trunk_Term end
+wire 457.4 393 458.2 393 H 0.5
+wire 458.2 393 458.2 399.4 V 0.5
+wire 457.4 393 457.4 386.6 V 0.5
+wire 487.8 376.6 482.2 376.6 H 0.5
+wire 475.8 376.6 482.2 376.6 H 0.5
+wire 475.8 376.6 475.8 380.2 V 0.5
+wire 457.4 383 457.4 386.6 V 0.5
+wire 457.4 383 462.6 383 H 0.5
+wire 463 399.4 458.2 399.4 H 0.5
+wire 469 383 462.6 383 H 0.5
+wire 469 383 469 380.2 V 0.5
+wire 469 376.6 469 380.2 V 0.5
+wire 471.8 380.2 475.8 380.2 H 0.5
+wire 471.8 380.2 469 380.2 H 0.5
+wire 475.8 382.6 475.8 380.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N103
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[30\]\[9\] CK 493 517.4
+#Trunk mips_core/datamem/ram_reg\[182\]\[10\] CK 489 495.4
+#Trunk mips_core/datamem/ram_reg\[182\]\[8\] CK 478.2 495.4
+#Trunk_Term end
+wire 481 495.4 481 498.2 V 0.5
+wire 481 495.4 489 495.4 H 0.5
+wire 481 495.4 478.2 495.4 H 0.5
+wire 493 517.4 491.4 517.4 H 0.5
+wire 491.4 517.4 491.4 521 V 0.5
+wire 491.4 521 489 521 H 0.5
+wire 489 521 489 523.8 V 0.5
+wire 486.2 508.6 483.8 508.6 H 0.5
+wire 483.8 508.6 483.8 514.6 V 0.5
+wire 486.2 508.6 486.2 504.6 V 0.5
+wire 483.8 514.6 483.4 514.6 H 0.5
+wire 483.4 514.6 483.4 517.4 V 0.5
+wire 483.4 523.8 489 523.8 H 0.5
+wire 483.4 523.8 483.4 517.4 V 0.5
+wire 483.4 504.6 486.2 504.6 H 0.5
+wire 483.4 504.6 481 504.6 H 0.5
+wire 481 504.6 481 501.8 V 0.5
+wire 481 498.2 481 501.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N104
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[182\]\[1\] CK 475.8 472.6
+#Trunk mips_core/datamem/ram_reg\[181\]\[0\] CK 487 457
+#Trunk_Term end
+wire 494.6 459.8 497.4 459.8 H 0.5
+wire 494.6 459.8 494.2 459.8 H 0.5
+wire 489 444.2 487 444.2 H 0.5
+wire 487 444.2 487 450.6 V 0.5
+wire 500.6 459.8 500.6 463.4 V 0.5
+wire 500.6 459.8 497.4 459.8 H 0.5
+wire 494.6 479 487.8 479 H 0.5
+wire 494.6 479 500.2 479 H 0.5
+wire 476.6 476.2 475.8 476.2 H 0.5
+wire 475.8 476.2 475.8 472.6 V 0.5
+wire 476.6 476.2 480.6 476.2 H 0.5
+wire 480.6 476.2 487.8 476.2 H 0.5
+wire 487.8 476.2 487.8 479 V 0.5
+wire 487 457 487 450.6 V 0.5
+wire 487 457 487 459.4 V 0.5
+wire 487 459.4 494.2 459.4 H 0.5
+wire 494.2 459.4 494.2 459.8 V 0.5
+wire 499 469.8 499 472.6 V 0.5
+wire 499 469.8 500.6 469.8 H 0.5
+wire 500.6 469.8 500.6 463.4 V 0.5
+wire 499 472.6 500.2 472.6 H 0.5
+wire 500.2 472.6 500.2 476.2 V 0.5
+wire 500.2 476.2 500.2 479 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N105
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[191\]\[10\] CK 498.6 425
+#Trunk mips_core/datamem/ram_reg\[190\]\[0\] CK 494.2 386.6
+#Trunk mips_core/datamem/ram_reg\[188\]\[10\] CK 487.4 421.4
+#Trunk clk_m__L3_I105 O 495.4 412.6
+#Trunk_Term end
+wire 495 405.8 495.4 405.8 H 0.5
+wire 495.4 405.8 495.4 412.6 V 0.5
+wire 483.4 393 492.6 393 H 0.5
+wire 483.4 393 483.4 399.4 V 0.5
+wire 501.4 418.6 501.4 421.4 V 0.5
+wire 501.4 418.6 501 418.6 H 0.5
+wire 501 418.6 501 415 V 0.5
+wire 493 415 487.8 415 H 0.5
+wire 493 415 495.4 415 H 0.5
+wire 483.4 399.4 483.4 405.8 V 0.5
+wire 483.4 405.8 486.6 405.8 H 0.5
+wire 486.6 405.8 486.6 412.2 V 0.5
+wire 486.6 412.2 487.4 412.2 H 0.5
+wire 487.4 412.2 487.4 415 V 0.5
+wire 487.4 421.4 487.4 415 V 0.5
+wire 487.8 415 487.4 415 H 0.5
+wire 492.6 393 494.2 393 H 0.5
+wire 494.2 393 494.2 386.6 V 0.5
+wire 495.4 412.6 495.4 415 V 0.5
+wire 498.6 425 501.4 425 H 0.5
+wire 501.4 425 501.4 421.4 V 0.5
+wire 501 415 495.4 415 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N107
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[190\]\[5\] CK 521 402.2
+#Trunk mips_core/datamem/ram_reg\[140\]\[15\] CK 535.4 383
+#Trunk mips_core/datamem/ram_reg\[187\]\[3\] CK 507 370.2
+#Trunk_Term end
+wire 501.4 370.2 507 370.2 H 0.5
+wire 527 389 527 383 V 0.5
+wire 527 389 521.4 389 H 0.5
+wire 527 389 528.6 389 H 0.5
+wire 528.6 389 528.6 389.4 V 0.5
+wire 518.2 389 513 389 H 0.5
+wire 513 389 513 389.4 V 0.5
+wire 518.2 389 521.4 389 H 0.5
+wire 509.4 373.8 507 373.8 H 0.5
+wire 507 373.8 507 370.2 V 0.5
+wire 509.4 373.8 509.4 376.6 V 0.5
+wire 509.4 383 509.4 376.6 V 0.5
+wire 509.4 383 512.6 383 H 0.5
+wire 512.6 383 512.6 389.4 V 0.5
+wire 528.6 393 528.6 389.4 V 0.5
+wire 528.6 393 527 393 H 0.5
+wire 527 393 527 395.8 V 0.5
+wire 526.6 402.2 527 402.2 H 0.5
+wire 527 402.2 527 395.8 V 0.5
+wire 526.6 402.2 521 402.2 H 0.5
+wire 512.6 389.4 513 389.4 H 0.5
+wire 527 383 535.4 383 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N108
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[142\]\[10\] CK 527 421.4
+#Trunk mips_core/datamem/ram_reg\[147\]\[15\] CK 527 447
+#Trunk mips_core/datamem/ram_reg\[180\]\[3\] CK 500.2 450.6
+#Trunk_Term end
+wire 500.2 440.6 500.2 450.6 V 0.5
+wire 520.2 440.6 521 440.6 H 0.5
+wire 520.2 440.6 520.2 444.2 V 0.5
+wire 521 431.4 522.2 431.4 H 0.5
+wire 521 431.4 521 433.8 V 0.5
+wire 520.2 450.6 526.6 450.6 H 0.5
+wire 520.2 450.6 520.2 444.2 V 0.5
+wire 520.2 450.6 519.8 450.6 H 0.5
+wire 530.6 425 527 425 H 0.5
+wire 527 425 527 421.4 V 0.5
+wire 530.6 425 530.6 431.4 V 0.5
+wire 500.2 450.6 510.6 450.6 H 0.5
+wire 510.6 450.6 519.8 450.6 H 0.5
+wire 521 433.8 521 440.6 V 0.5
+wire 522.2 431.4 530.6 431.4 H 0.5
+wire 526.6 450.6 527 450.6 H 0.5
+wire 527 450.6 527 447 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N106
+#Trunk_Term begin
+#Trunk clk_m__L3_I106 O 491.4 374.2
+#Trunk mips_core/datamem/ram_reg\[186\]\[6\] CK 510.6 335.4
+#Trunk mips_core/datamem/ram_reg\[186\]\[7\] CK 520.2 354.6
+#Trunk_Term end
+wire 520.2 354.6 520.2 351 V 0.5
+wire 513.8 361 513.8 363.8 V 0.5
+wire 513.8 361 513.8 351 V 0.5
+wire 513.8 351 513.4 351 H 0.5
+wire 513.4 351 513.4 344.6 V 0.5
+wire 513.8 351 520.2 351 H 0.5
+wire 513.4 344.6 510.6 344.6 H 0.5
+wire 510.6 344.6 510.6 341.8 V 0.5
+wire 510.6 335.4 510.6 341.8 V 0.5
+wire 491.4 374.2 513.8 374.2 H 0.5
+wire 513.8 374.2 513.8 363.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N98
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[130\]\[0\] CK 587.4 348.2
+#Trunk mips_core/datamem/ram_reg\[129\]\[2\] CK 598.2 357.4
+#Trunk mips_core/datamem/ram_reg\[139\]\[8\] CK 593 325.4
+#Trunk_Term end
+wire 593 319 593 325.4 V 0.5
+wire 592.6 335.4 593 335.4 H 0.5
+wire 593 335.4 593 329 V 0.5
+wire 592.6 335.4 592.6 338.2 V 0.5
+wire 592.6 335.4 588.2 335.4 H 0.5
+wire 602.6 354.6 598.2 354.6 H 0.5
+wire 598.2 354.6 598.2 357.4 V 0.5
+wire 602.6 354.6 602.6 351 V 0.5
+wire 601 342.2 602.6 342.2 H 0.5
+wire 602.6 342.2 602.6 344.6 V 0.5
+wire 601 342.2 596.6 342.2 H 0.5
+wire 585 344.6 585 335.4 V 0.5
+wire 585 344.6 587.4 344.6 H 0.5
+wire 587.4 344.6 587.4 348.2 V 0.5
+wire 588.2 335.4 585 335.4 H 0.5
+wire 592.6 338.2 596.6 338.2 H 0.5
+wire 596.6 338.2 596.6 342.2 V 0.5
+wire 593 325.4 593 329 V 0.5
+wire 602.6 344.6 602.6 351 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N97
+#Trunk_Term begin
+#Trunk clk_m__L3_I97 O 593 427.4
+#Trunk mips_core/datamem/ram_reg\[135\]\[10\] CK 581.8 427.8
+#Trunk mips_core/datamem/ram_reg\[141\]\[5\] CK 603.4 405.8
+#Trunk mips_core/datamem/ram_reg\[135\]\[2\] CK 606.6 444.2
+#Trunk_Term end
+wire 593.4 427.4 600.2 427.4 H 0.5
+wire 593.4 427.4 593.4 421.4 V 0.5
+wire 593.4 427.4 593 427.4 H 0.5
+wire 603.4 412.2 603.4 405.8 V 0.5
+wire 603.4 412.2 603 412.2 H 0.5
+wire 603 425 603 418.6 V 0.5
+wire 603 425 600.2 425 H 0.5
+wire 600.2 425 600.2 427.4 V 0.5
+wire 606.6 434.2 606.6 444.2 V 0.5
+wire 606.6 434.2 605.8 434.2 H 0.5
+wire 579.4 427.8 581.8 427.8 H 0.5
+wire 579.4 427.8 579.4 421.4 V 0.5
+wire 588.2 421.4 579.4 421.4 H 0.5
+wire 588.2 421.4 593.4 421.4 H 0.5
+wire 600.2 434.2 605.8 434.2 H 0.5
+wire 600.2 434.2 600.2 427.8 V 0.5
+wire 600.2 427.8 600.2 427.4 V 0.5
+wire 603 412.2 603 418.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N96
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[129\]\[12\] CK 569.4 389.4
+#Trunk mips_core/datamem/ram_reg\[128\]\[10\] CK 575 383
+#Trunk mips_core/datamem/ram_reg\[130\]\[2\] CK 599 373.8
+#Trunk_Term end
+wire 577.4 386.6 578.6 386.6 H 0.5
+wire 577.4 386.6 577.4 389.4 V 0.5
+wire 577.4 386.6 575 386.6 H 0.5
+wire 575 386.6 575 383 V 0.5
+wire 593 395.8 593 386.6 V 0.5
+wire 582.6 387 587.4 387 H 0.5
+wire 582.6 387 578.6 387 H 0.5
+wire 578.6 387 578.6 386.6 V 0.5
+wire 595 373.8 599 373.8 H 0.5
+wire 595 373.8 594.6 373.8 H 0.5
+wire 594.6 373.8 594.6 376.6 V 0.5
+wire 569.4 389.4 577.4 389.4 H 0.5
+wire 587.4 387 589.4 387 H 0.5
+wire 589.4 387 589.4 386.6 V 0.5
+wire 589.4 386.6 593 386.6 H 0.5
+wire 593 380.2 594.6 380.2 H 0.5
+wire 594.6 380.2 594.6 376.6 V 0.5
+wire 593 380.2 593 386.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N95
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[144\]\[2\] CK 597.4 476.2
+#Trunk mips_core/datamem/ram_reg\[157\]\[9\] CK 562.6 479
+#Trunk mips_core/datamem/ram_reg\[155\]\[0\] CK 597.4 482.6
+#Trunk_Term end
+wire 581.4 476.2 581.8 476.2 H 0.5
+wire 581.8 476.2 581.8 478.6 V 0.5
+wire 581.4 476.2 579.4 476.2 H 0.5
+wire 597.4 482.6 597.4 479 V 0.5
+wire 597.4 476.2 597.4 479 V 0.5
+wire 592.2 479 597.4 479 H 0.5
+wire 592.2 479 588.2 479 H 0.5
+wire 588.2 479 588.2 478.6 V 0.5
+wire 585 478.6 588.2 478.6 H 0.5
+wire 585 478.6 581.8 478.6 H 0.5
+wire 579.4 476.2 571.4 476.2 H 0.5
+wire 571.4 479 569.4 479 H 0.5
+wire 571.4 479 571.4 476.2 V 0.5
+wire 562.6 479 569.4 479 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N94
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[146\]\[11\] CK 548.2 447
+#Trunk mips_core/datamem/ram_reg\[135\]\[9\] CK 580.6 447
+#Trunk_Term end
+wire 551.8 457 559.4 457 H 0.5
+wire 559 447 557.4 447 H 0.5
+wire 559 447 559.4 447 H 0.5
+wire 559.4 447 559.4 450.6 V 0.5
+wire 573.4 457 573.4 453 V 0.5
+wire 573.4 457 570.2 457 H 0.5
+wire 573.4 450.6 580.6 450.6 H 0.5
+wire 573.4 450.6 573.4 453 V 0.5
+wire 584.6 447 580.6 447 H 0.5
+wire 548.2 447 557.4 447 H 0.5
+wire 559.4 450.6 559.4 457 V 0.5
+wire 559.8 457 559.4 457 H 0.5
+wire 559.8 457 563.4 457 H 0.5
+wire 570.2 457 563.4 457 H 0.5
+wire 580.6 447 580.6 450.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N93
+#Trunk_Term begin
+#Trunk clk_m__L3_I93 O 561.8 510.6
+#Trunk mips_core/datamem/ram_reg\[159\]\[12\] CK 566.2 527.4
+#Trunk mips_core/datamem/ram_reg\[156\]\[11\] CK 558.2 495.4
+#Trunk_Term end
+wire 565 508.2 565 510.6 V 0.5
+wire 565 508.2 565 501.8 V 0.5
+wire 566.2 501.8 566.2 495.4 V 0.5
+wire 566.2 501.8 565 501.8 H 0.5
+wire 557 527.4 566.2 527.4 H 0.5
+wire 557 527.4 557 523.8 V 0.5
+wire 551.4 495.4 558.2 495.4 H 0.5
+wire 557 523.8 557 517.4 V 0.5
+wire 558.2 495.4 566.2 495.4 H 0.5
+wire 559.4 517.4 557 517.4 H 0.5
+wire 559.4 517.4 565 517.4 H 0.5
+wire 561.8 510.6 565 510.6 H 0.5
+wire 565 511 565 517.4 V 0.5
+wire 565 511 565 510.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N92
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[138\]\[15\] CK 533.4 335.4
+#Trunk mips_core/datamem/ram_reg\[136\]\[11\] CK 569 331.8
+#Trunk_Term end
+wire 533.4 329 533.4 335.4 V 0.5
+wire 533.4 329 537.4 329 H 0.5
+wire 553.8 322.6 553.8 329 V 0.5
+wire 569 331.8 572.6 331.8 H 0.5
+wire 569 331.8 569 329 V 0.5
+wire 566.2 329 561 329 H 0.5
+wire 566.2 329 569 329 H 0.5
+wire 558.2 329 553.8 329 H 0.5
+wire 558.2 329 561 329 H 0.5
+wire 553.8 331.4 553.8 331.8 V 0.5
+wire 553.8 331.4 553.8 329 V 0.5
+wire 550.2 331.8 542.2 331.8 H 0.5
+wire 550.2 331.8 553.8 331.8 H 0.5
+wire 542.2 331.8 537.4 331.8 H 0.5
+wire 537.4 331.8 537.4 329 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N91
+#Trunk_Term begin
+#Trunk clk_m__L3_I91 O 553 414.6
+#Trunk mips_core/datamem/ram_reg\[134\]\[14\] CK 565 427.8
+#Trunk mips_core/datamem/ram_reg\[132\]\[15\] CK 571.4 399.4
+#Trunk mips_core/datamem/ram_reg\[133\]\[14\] CK 548.6 427.8
+#Trunk_Term end
+wire 539 427.8 548.6 427.8 H 0.5
+wire 543 408.6 543.4 408.6 H 0.5
+wire 543.4 408.6 543.4 405.8 V 0.5
+wire 543 408.6 543 415 V 0.5
+wire 543.4 402.2 549.8 402.2 H 0.5
+wire 543.4 402.2 543.4 405.8 V 0.5
+wire 549.4 415 553 415 H 0.5
+wire 553 415 553 414.6 V 0.5
+wire 549.4 415 543 415 H 0.5
+wire 549.4 415 549.4 418.6 V 0.5
+wire 559.8 399.4 563.4 399.4 H 0.5
+wire 559.8 399.4 558.2 399.4 H 0.5
+wire 558.2 399.4 558.2 402.2 V 0.5
+wire 553.4 427.8 549.4 427.8 H 0.5
+wire 553.4 427.8 557.4 427.8 H 0.5
+wire 548.6 427.8 549.4 427.8 H 0.5
+wire 549.4 418.6 549.4 427.8 V 0.5
+wire 549.8 402.2 555.4 402.2 H 0.5
+wire 555.4 402.2 558.2 402.2 H 0.5
+wire 559.4 427.8 557.4 427.8 H 0.5
+wire 559.4 427.8 565 427.8 H 0.5
+wire 563.4 399.4 571.4 399.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N90
+#Trunk_Term begin
+#Trunk clk_m__L3_I90 O 557 367.8
+#Trunk mips_core/datamem/ram_reg\[142\]\[15\] CK 549.4 383
+#Trunk mips_core/datamem/ram_reg\[143\]\[15\] CK 538.6 357.4
+#Trunk_Term end
+wire 566.2 361 565.4 361 H 0.5
+wire 565.4 361 565.4 357.4 V 0.5
+wire 566.2 361 566.2 363.8 V 0.5
+wire 566.2 363.8 565.4 363.8 H 0.5
+wire 565.4 363.8 565.4 367.4 V 0.5
+wire 565.4 367.4 565 367.4 H 0.5
+wire 565 367.4 565 370.2 V 0.5
+wire 565 370.2 559.4 370.2 H 0.5
+wire 559.4 370.2 557 370.2 H 0.5
+wire 557 370.2 557 367.8 V 0.5
+wire 559 357.4 553 357.4 H 0.5
+wire 559 357.4 565.4 357.4 H 0.5
+wire 553 363.8 548.6 363.8 H 0.5
+wire 553 363.8 553 357.4 V 0.5
+wire 551 354.6 549 354.6 H 0.5
+wire 551 354.6 553 354.6 H 0.5
+wire 553 354.6 553 357.4 V 0.5
+wire 549.4 383 548.6 383 H 0.5
+wire 548.6 383 548.6 373.8 V 0.5
+wire 548.6 373.8 548.6 367.4 V 0.5
+wire 548.6 363.8 548.6 367.4 V 0.5
+wire 543 354.6 538.6 354.6 H 0.5
+wire 538.6 354.6 538.6 357.4 V 0.5
+wire 543 354.6 549 354.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N89
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[182\]\[7\] CK 510.6 476.2
+#Trunk mips_core/datamem/ram_reg\[153\]\[9\] CK 531.8 482.6
+#Trunk mips_core/datamem/ram_reg\[144\]\[13\] CK 536.2 476.2
+#Trunk mips_core/datamem/ram_reg\[181\]\[5\] CK 521.4 463.4
+#Trunk_Term end
+wire 536.2 476.2 531.8 476.2 H 0.5
+wire 531.8 476.2 531.8 476.6 V 0.5
+wire 531.8 482.6 531.8 476.6 V 0.5
+wire 529 476.6 527 476.6 H 0.5
+wire 527 476.6 527 476.2 V 0.5
+wire 529 476.6 531.8 476.6 H 0.5
+wire 527.4 466.2 527.4 463.4 V 0.5
+wire 527.4 466.2 527 466.2 H 0.5
+wire 527 466.2 527 472.6 V 0.5
+wire 527 472.6 527 476.2 V 0.5
+wire 527 459.8 521.8 459.8 H 0.5
+wire 527 459.8 527.4 459.8 H 0.5
+wire 527.4 459.8 527.4 463.4 V 0.5
+wire 525.4 476.2 520.2 476.2 H 0.5
+wire 525.4 476.2 527 476.2 H 0.5
+wire 521.4 463.4 521.8 463.4 H 0.5
+wire 521.8 463.4 521.8 459.8 V 0.5
+wire 510.6 476.2 520.2 476.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N147
+#Trunk_Term begin
+#Trunk clk_m__L3_I147 O 401 604.6
+#Trunk mips_core/datamem/ram_reg\[35\]\[13\] CK 385.8 604.2
+#Trunk mips_core/datamem/ram_reg\[33\]\[12\] CK 421 597.8
+#Trunk_Term end
+wire 421 597.8 421 604.2 V 0.5
+wire 421 597.8 418.2 597.8 H 0.5
+wire 418.2 597.8 413.8 597.8 H 0.5
+wire 413 594.2 413 585 V 0.5
+wire 413 594.2 413.8 594.2 H 0.5
+wire 413.8 594.2 413.8 597.8 V 0.5
+wire 413 594.2 407.4 594.2 H 0.5
+wire 407.4 607 407.4 597.8 V 0.5
+wire 407.4 607 401 607 H 0.5
+wire 407.4 597.8 407.4 594.2 V 0.5
+wire 401 604.6 401 607 V 0.5
+wire 399.8 610.6 401 610.6 H 0.5
+wire 399.8 610.6 391.4 610.6 H 0.5
+wire 391.4 607 391.4 610.6 V 0.5
+wire 391.4 607 391.4 604.2 V 0.5
+wire 385.8 604.2 391.4 604.2 H 0.5
+wire 401 607 401 610.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N146
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[40\]\[14\] CK 391.4 677.4
+#Trunk mips_core/datamem/ram_reg\[43\]\[14\] CK 397.4 664.6
+#Trunk mips_core/datamem/ram_reg\[42\]\[2\] CK 407.4 683.8
+#Trunk mips_core/datamem/ram_reg\[41\]\[14\] CK 397.4 681
+#Trunk_Term end
+wire 407.8 683.8 407.8 677.4 V 0.5
+wire 407.8 683.8 407.4 683.8 H 0.5
+wire 407.4 687.4 407.4 683.8 V 0.5
+wire 401.4 664.6 397.4 664.6 H 0.5
+wire 401.4 664.6 401.4 668.2 V 0.5
+wire 397.4 687.4 397.4 681 V 0.5
+wire 405.4 677 405.4 671 V 0.5
+wire 405.4 677 400.2 677 H 0.5
+wire 405.4 677 407.8 677 H 0.5
+wire 407.8 677 407.8 677.4 V 0.5
+wire 405.4 668.2 401.4 668.2 H 0.5
+wire 405.4 668.2 405.4 671 V 0.5
+wire 397.4 677.4 397.4 681 V 0.5
+wire 397.4 677.4 391.4 677.4 H 0.5
+wire 397.4 677.4 400.2 677.4 H 0.5
+wire 400.2 677.4 400.2 677 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N145
+#Trunk_Term begin
+#Trunk clk_m__L3_I145 O 384.2 568.2
+#Trunk mips_core/datamem/ram_reg\[6\]\[13\] CK 398.2 562.2
+#Trunk mips_core/datamem/ram_reg\[7\]\[13\] CK 375.8 559.4
+#Trunk_Term end
+wire 375.8 562.2 375.8 559.4 V 0.5
+wire 375.8 562.2 375 562.2 H 0.5
+wire 375 562.2 375 565.8 V 0.5
+wire 375.8 553 375.8 559.4 V 0.5
+wire 368.2 572.2 375 572.2 H 0.5
+wire 399 578.6 401.4 578.6 H 0.5
+wire 401.4 578.6 401.4 575 V 0.5
+wire 399 578.6 394.6 578.6 H 0.5
+wire 401.4 568.6 401.4 565.8 V 0.5
+wire 401.4 568.6 401.4 575 V 0.5
+wire 385 578.6 385.8 578.6 H 0.5
+wire 385 578.6 385 572.2 V 0.5
+wire 375 565.8 375 572.2 V 0.5
+wire 377 572.2 384.2 572.2 H 0.5
+wire 377 572.2 375 572.2 H 0.5
+wire 384.2 568.2 384.2 572.2 V 0.5
+wire 385 572.2 384.2 572.2 H 0.5
+wire 394.6 578.6 385.8 578.6 H 0.5
+wire 398.2 562.2 401 562.2 H 0.5
+wire 401 562.2 401.4 562.2 H 0.5
+wire 401.4 562.2 401.4 565.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N144
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[47\]\[13\] CK 377.4 639
+#Trunk mips_core/datamem/ram_reg\[33\]\[13\] CK 380.6 613.4
+#Trunk mips_core/datamem/ram_reg\[33\]\[7\] CK 353.8 626.2
+#Trunk mips_core/datamem/ram_reg\[34\]\[7\] CK 355 617
+#Trunk_Term end
+wire 380.6 613.4 380.6 619.8 V 0.5
+wire 379.8 626.2 380.6 626.2 H 0.5
+wire 380.6 626.2 380.6 619.8 V 0.5
+wire 379.8 626.2 374.6 626.2 H 0.5
+wire 377.4 639 368.6 639 H 0.5
+wire 368.6 639 368.6 636.2 V 0.5
+wire 374.6 626.2 369.4 626.2 H 0.5
+wire 369.4 626.2 369.4 623.8 V 0.5
+wire 368.6 636.2 365.8 636.2 H 0.5
+wire 366.2 623.8 369.4 623.8 H 0.5
+wire 366.2 623.8 365.8 623.8 H 0.5
+wire 365.8 623.8 365.8 626.2 V 0.5
+wire 365.8 636.2 365.8 629.8 V 0.5
+wire 365.8 629.8 365.8 626.2 V 0.5
+wire 358.6 626.2 353.8 626.2 H 0.5
+wire 358.6 626.2 358.6 617 V 0.5
+wire 358.6 626.2 365.8 626.2 H 0.5
+wire 358.6 617 355 617 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N143
+#Trunk_Term begin
+#Trunk clk_m__L3_I143 O 367.8 657.8
+#Trunk mips_core/datamem/ram_reg\[43\]\[10\] CK 359.8 668.2
+#Trunk mips_core/datamem/ram_reg\[45\]\[9\] CK 361.8 645.4
+#Trunk mips_core/datamem/ram_reg\[45\]\[15\] CK 374.6 651.8
+#Trunk_Term end
+wire 367.8 658.2 368.6 658.2 H 0.5
+wire 367.8 658.2 367.8 657.8 V 0.5
+wire 367 668.2 362.6 668.2 H 0.5
+wire 367 668.2 368.6 668.2 H 0.5
+wire 368.6 668.2 368.6 661.8 V 0.5
+wire 374.6 651.8 379.8 651.8 H 0.5
+wire 374.6 651.8 370.6 651.8 H 0.5
+wire 370.6 645.4 361.8 645.4 H 0.5
+wire 370.6 645.4 370.6 651.8 V 0.5
+wire 369.8 658.2 370.6 658.2 H 0.5
+wire 370.6 658.2 370.6 651.8 V 0.5
+wire 369.8 658.2 368.6 658.2 H 0.5
+wire 368.6 661.8 368.6 658.2 V 0.5
+wire 362.6 668.2 360.2 668.2 H 0.5
+wire 359.8 668.2 360.2 668.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N142
+#Trunk_Term begin
+#Trunk clk_m__L3_I142 O 362.6 527.8
+#Trunk mips_core/datamem/ram_reg\[2\]\[15\] CK 370.6 517.4
+#Trunk mips_core/datamem/ram_reg\[4\]\[10\] CK 348.2 530.2
+#Trunk mips_core/datamem/ram_reg\[6\]\[6\] CK 368.6 543
+#Trunk_Term end
+wire 358.6 527.8 353.8 527.8 H 0.5
+wire 353.8 527.8 353.8 527.4 V 0.5
+wire 358.6 527.8 361.8 527.8 H 0.5
+wire 342.6 530.2 348.2 530.2 H 0.5
+wire 353.4 530.2 353.4 536.6 V 0.5
+wire 353.4 530.2 348.2 530.2 H 0.5
+wire 353.4 530.2 353.4 527.4 V 0.5
+wire 357.4 546.6 363.8 546.6 H 0.5
+wire 357.4 546.6 357.4 540.2 V 0.5
+wire 353.4 536.6 357.4 536.6 H 0.5
+wire 357.4 536.6 357.4 540.2 V 0.5
+wire 353.8 527.4 353.4 527.4 H 0.5
+wire 361.8 517.4 370.6 517.4 H 0.5
+wire 361.8 517.4 361.8 521 V 0.5
+wire 361.8 521 361.8 527.8 V 0.5
+wire 362.6 527.8 361.8 527.8 H 0.5
+wire 363.8 546.6 368.6 546.6 H 0.5
+wire 368.6 546.6 368.6 543 V 0.5
+wire 368.6 543 370.6 543 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N141
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[38\]\[7\] CK 368.6 587.8
+#Trunk mips_core/datamem/ram_reg\[34\]\[10\] CK 342.2 594.2
+#Trunk mips_core/datamem/ram_reg\[36\]\[15\] CK 358.6 575
+#Trunk_Term end
+wire 358.6 581 361.8 581 H 0.5
+wire 358.6 581 358.6 578.6 V 0.5
+wire 355.4 568.6 358.6 568.6 H 0.5
+wire 358.6 568.6 358.6 572.2 V 0.5
+wire 376.2 587.8 368.6 587.8 H 0.5
+wire 354.2 591.4 348.2 591.4 H 0.5
+wire 354.2 591.4 358.2 591.4 H 0.5
+wire 342.2 594.2 341.4 594.2 H 0.5
+wire 341.4 594.2 341.4 587.8 V 0.5
+wire 342.2 594.2 347.8 594.2 H 0.5
+wire 347.8 594.2 348.2 594.2 H 0.5
+wire 348.2 594.2 348.2 591.4 V 0.5
+wire 358.2 591.4 364.2 591.4 H 0.5
+wire 364.2 591.4 364.2 587.8 V 0.5
+wire 358.6 575 358.6 572.2 V 0.5
+wire 358.6 575 358.6 578.6 V 0.5
+wire 361.8 581 364.2 581 H 0.5
+wire 364.2 581 364.2 581.4 V 0.5
+wire 364.2 581.4 364.2 587.8 V 0.5
+wire 368.6 587.8 364.2 587.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N140
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[38\]\[10\] CK 347.8 562.2
+#Trunk mips_core/datamem/ram_reg\[3\]\[6\] CK 325.4 521
+#Trunk mips_core/datamem/ram_reg\[1\]\[6\] CK 321.4 523.8
+#Trunk mips_core/datamem/ram_reg\[37\]\[3\] CK 320.6 559.4
+#Trunk_Term end
+wire 347.8 562.2 339.8 562.2 H 0.5
+wire 339.8 562.2 335.8 562.2 H 0.5
+wire 335.8 562.2 335.8 559.4 V 0.5
+wire 335.8 555.8 333.8 555.8 H 0.5
+wire 333.8 555.8 333.8 547 V 0.5
+wire 335.8 555.8 335.8 559.4 V 0.5
+wire 333.8 547 333.8 543 V 0.5
+wire 331.4 559.4 328.6 559.4 H 0.5
+wire 331.4 559.4 335.8 559.4 H 0.5
+wire 330.6 543 330.6 533.8 V 0.5
+wire 330.6 543 333.8 543 H 0.5
+wire 327.8 530.2 325.4 530.2 H 0.5
+wire 325.4 530.2 325.4 523.8 V 0.5
+wire 327.8 530.2 330.6 530.2 H 0.5
+wire 330.6 530.2 330.6 533.8 V 0.5
+wire 325.4 521 325.4 523.8 V 0.5
+wire 321.4 523.8 325.4 523.8 H 0.5
+wire 320.6 559.4 320.6 565.8 V 0.5
+wire 320.6 559.4 328.6 559.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N139
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[46\]\[6\] CK 299 655.4
+#Trunk mips_core/datamem/ram_reg\[46\]\[3\] CK 309.8 636.2
+#Trunk mips_core/datamem/ram_reg\[47\]\[11\] CK 336.6 658.2
+#Trunk mips_core/datamem/ram_reg\[44\]\[11\] CK 337 645.4
+#Trunk_Term end
+wire 319 642.6 319 649 V 0.5
+wire 319 642.6 318.6 642.6 H 0.5
+wire 318.6 642.6 318.6 636.2 V 0.5
+wire 337 645.4 338.6 645.4 H 0.5
+wire 338.6 645.4 338.6 639 V 0.5
+wire 337 645.4 328.2 645.4 H 0.5
+wire 336.6 658.2 342.2 658.2 H 0.5
+wire 336.6 658.2 330.6 658.2 H 0.5
+wire 330.6 658.2 330.6 655.4 V 0.5
+wire 330.6 655.4 327.8 655.4 H 0.5
+wire 327.8 655.4 327.8 651.8 V 0.5
+wire 328.2 645.4 327.8 645.4 H 0.5
+wire 327.8 645.4 327.8 649.4 V 0.5
+wire 327.8 651.8 327.8 649.4 V 0.5
+wire 325 649.4 327.8 649.4 H 0.5
+wire 325 649.4 319 649.4 H 0.5
+wire 319 655.4 299 655.4 H 0.5
+wire 319 655.4 319 649.4 V 0.5
+wire 318.6 636.2 309.8 636.2 H 0.5
+wire 319 649.4 319 649 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N138
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[33\]\[3\] CK 308.6 623.4
+#Trunk mips_core/datamem/ram_reg\[37\]\[5\] CK 321.8 581.4
+#Trunk mips_core/datamem/ram_reg\[35\]\[10\] CK 340.2 607
+#Trunk_Term end
+wire 308.6 617 308.6 623.4 V 0.5
+wire 319.4 604.2 319.4 600.6 V 0.5
+wire 319.4 604.2 320.2 604.2 H 0.5
+wire 341.8 610.6 340.2 610.6 H 0.5
+wire 340.2 610.6 340.2 607 V 0.5
+wire 332.6 607 340.2 607 H 0.5
+wire 332.6 607 331.4 607 H 0.5
+wire 326.6 607 331.4 607 H 0.5
+wire 326.6 607 323.8 607 H 0.5
+wire 323.8 607 323.8 604.6 V 0.5
+wire 326.6 607 326.6 610.6 V 0.5
+wire 319.4 594.2 315 594.2 H 0.5
+wire 319.4 594.2 319.4 600.6 V 0.5
+wire 321.8 623.4 321.8 617 V 0.5
+wire 321.8 623.4 319.4 623.4 H 0.5
+wire 324.6 585 321.8 585 H 0.5
+wire 321.8 585 321.8 581.4 V 0.5
+wire 308.6 623.4 319.4 623.4 H 0.5
+wire 315 587.8 315 581.4 V 0.5
+wire 315 587.8 315 594.2 V 0.5
+wire 320.2 604.2 323.8 604.2 H 0.5
+wire 323.8 604.2 323.8 604.6 V 0.5
+wire 321.8 581.4 315 581.4 H 0.5
+wire 321.8 617 326.6 617 H 0.5
+wire 326.6 617 326.6 610.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N137
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[22\]\[1\] CK 477 664.6
+#Trunk mips_core/datamem/ram_reg\[23\]\[9\] CK 503 664.6
+#Trunk mips_core/datamem/ram_reg\[21\]\[14\] CK 478.2 683.8
+#Trunk_Term end
+wire 490.2 670.6 488.6 670.6 H 0.5
+wire 490.2 670.6 490.2 664.6 V 0.5
+wire 490.2 658.2 491.8 658.2 H 0.5
+wire 490.2 658.2 490.2 664.6 V 0.5
+wire 478.6 671 477.8 671 H 0.5
+wire 478.6 671 478.6 668.2 V 0.5
+wire 478.6 671 483.4 671 H 0.5
+wire 500.2 658.2 503 658.2 H 0.5
+wire 503 658.2 503 664.6 V 0.5
+wire 500.2 658.2 494.6 658.2 H 0.5
+wire 477.8 681 478.2 681 H 0.5
+wire 478.2 681 478.2 683.8 V 0.5
+wire 477.8 681 477.8 677.4 V 0.5
+wire 477 664.6 478.6 664.6 H 0.5
+wire 478.6 664.6 478.6 668.2 V 0.5
+wire 477.8 677.4 477.8 671 V 0.5
+wire 483.4 671 488.6 671 H 0.5
+wire 488.6 671 488.6 670.6 V 0.5
+wire 491.8 658.2 494.6 658.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N136
+#Trunk_Term begin
+#Trunk clk_m__L3_I136 O 484.6 568.2
+#Trunk mips_core/datamem/ram_reg\[26\]\[14\] CK 463 572.2
+#Trunk mips_core/datamem/ram_reg\[26\]\[1\] CK 478.2 555.8
+#Trunk mips_core/datamem/ram_reg\[24\]\[8\] CK 470.2 581.4
+#Trunk_Term end
+wire 484.6 568.6 487.8 568.6 H 0.5
+wire 484.6 568.6 484.6 568.2 V 0.5
+wire 484.6 568.6 481 568.6 H 0.5
+wire 470.6 572.2 470.6 575 V 0.5
+wire 470.6 572.2 463 572.2 H 0.5
+wire 470.6 572.2 477 572.2 H 0.5
+wire 479 572.2 477 572.2 H 0.5
+wire 479 572.2 481 572.2 H 0.5
+wire 481 572.2 481 568.6 V 0.5
+wire 490.6 568.6 490.6 562.2 V 0.5
+wire 490.6 568.6 487.8 568.6 H 0.5
+wire 489.4 555.8 489 555.8 H 0.5
+wire 489.4 555.8 489.4 559.4 V 0.5
+wire 470.2 581.4 470.6 581.4 H 0.5
+wire 470.6 581.4 470.6 575 V 0.5
+wire 478.2 555.8 481 555.8 H 0.5
+wire 481 555.8 489 555.8 H 0.5
+wire 489.4 559.4 490.6 559.4 H 0.5
+wire 490.6 559.4 490.6 562.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N135
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[7\]\[12\] CK 440.6 533.8
+#Trunk mips_core/datamem/ram_reg\[30\]\[0\] CK 484.2 543
+#Trunk_Term end
+wire 464.2 543 470.6 543 H 0.5
+wire 464.2 543 463.8 543 H 0.5
+wire 463.8 543 463.8 542.6 V 0.5
+wire 462.6 542.6 463.8 542.6 H 0.5
+wire 462.6 542.6 455 542.6 H 0.5
+wire 455 542.6 455 543 V 0.5
+wire 484.2 540.2 484.2 543 V 0.5
+wire 451 543 451 540.2 V 0.5
+wire 451 543 455 543 H 0.5
+wire 451 530.2 444.2 530.2 H 0.5
+wire 451 530.2 451 536.6 V 0.5
+wire 440.6 533.8 444.2 533.8 H 0.5
+wire 444.2 533.8 444.2 530.2 V 0.5
+wire 451 536.6 451 540.2 V 0.5
+wire 470.6 543 470.6 546.6 V 0.5
+wire 477 546.6 484.2 546.6 H 0.5
+wire 477 546.6 470.6 546.6 H 0.5
+wire 484.2 543 484.2 546.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N134
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[21\]\[6\] CK 456.2 671
+#Trunk mips_core/datamem/ram_reg\[41\]\[12\] CK 441.4 674.6
+#Trunk mips_core/datamem/ram_reg\[50\]\[8\] CK 462.6 696.6
+#Trunk_Term end
+wire 452.2 671 456.2 671 H 0.5
+wire 452.2 671 450.6 671 H 0.5
+wire 452.2 671 452.2 677.4 V 0.5
+wire 469 696.6 462.6 696.6 H 0.5
+wire 443.8 671 441.4 671 H 0.5
+wire 441.4 671 441.4 674.6 V 0.5
+wire 443.8 671 450.6 671 H 0.5
+wire 457 677.4 452.2 677.4 H 0.5
+wire 457 677.4 457 681.4 V 0.5
+wire 461 693.8 462.6 693.8 H 0.5
+wire 462.6 693.8 462.6 696.6 V 0.5
+wire 461 693.8 457.8 693.8 H 0.5
+wire 456.2 683.8 457 683.8 H 0.5
+wire 457 683.8 457 681.4 V 0.5
+wire 456.2 683.8 456.2 687.4 V 0.5
+wire 456.2 687.4 456.2 693.8 V 0.5
+wire 457.8 693.8 456.2 693.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N133
+#Trunk_Term begin
+#Trunk clk_m__L3_I133 O 459 643
+#Trunk mips_core/datamem/ram_reg\[46\]\[0\] CK 443 658.2
+#Trunk mips_core/datamem/ram_reg\[17\]\[3\] CK 471.8 632.6
+#Trunk mips_core/datamem/ram_reg\[20\]\[13\] CK 455 645.4
+#Trunk mips_core/datamem/ram_reg\[46\]\[12\] CK 438.2 639
+#Trunk_Term end
+wire 459 642.6 461 642.6 H 0.5
+wire 459 642.6 459 643 V 0.5
+wire 459 642.6 455.4 642.6 H 0.5
+wire 477 636.2 471.8 636.2 H 0.5
+wire 471.8 636.2 471.8 632.6 V 0.5
+wire 477 636.2 477 639 V 0.5
+wire 470.2 642.6 475.8 642.6 H 0.5
+wire 470.2 642.6 461 642.6 H 0.5
+wire 451.4 642.6 445.4 642.6 H 0.5
+wire 451.4 642.6 455 642.6 H 0.5
+wire 438.2 642.6 438.2 639 V 0.5
+wire 438.2 642.6 442.2 642.6 H 0.5
+wire 438.2 639 438.2 629.8 V 0.5
+wire 442.2 642.6 445.4 642.6 H 0.5
+wire 443 658.2 445.4 658.2 H 0.5
+wire 445.4 658.2 445.4 651.8 V 0.5
+wire 445.4 651.8 445.4 642.6 V 0.5
+wire 455 645.4 455 642.6 V 0.5
+wire 455.4 642.6 455 642.6 H 0.5
+wire 475.8 642.6 477 642.6 H 0.5
+wire 477 642.6 477 639 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N132
+#Trunk_Term begin
+#Trunk clk_m__L3_I132 O 448.2 606.6
+#Trunk mips_core/datamem/ram_reg\[36\]\[0\] CK 437.8 587.8
+#Trunk mips_core/datamem/ram_reg\[35\]\[0\] CK 434.6 610.6
+#Trunk mips_core/datamem/ram_reg\[17\]\[8\] CK 466.2 604.2
+#Trunk_Term end
+wire 466.2 597.8 466.2 604.2 V 0.5
+wire 466.2 597.8 458.6 597.8 H 0.5
+wire 462.6 610.6 466.2 610.6 H 0.5
+wire 466.2 610.6 466.2 604.2 V 0.5
+wire 448.2 604.2 448.2 606.6 V 0.5
+wire 448.2 604.2 445.8 604.2 H 0.5
+wire 448.2 604.2 449.4 604.2 H 0.5
+wire 449.4 604.2 449.4 600.6 V 0.5
+wire 454.2 600.6 450.2 600.6 H 0.5
+wire 454.2 600.6 458.2 600.6 H 0.5
+wire 458.2 600.6 458.2 597.8 V 0.5
+wire 434.6 610.6 434.6 619.8 V 0.5
+wire 434.6 610.6 442.6 610.6 H 0.5
+wire 437.8 587.8 444.2 587.8 H 0.5
+wire 442.6 610.6 445.8 610.6 H 0.5
+wire 445.8 610.6 445.8 604.2 V 0.5
+wire 444.2 587.8 445.4 587.8 H 0.5
+wire 445.4 587.8 445.4 591.4 V 0.5
+wire 445.4 591.4 449.4 591.4 H 0.5
+wire 449.4 591.4 449.4 594.2 V 0.5
+wire 449.4 594.2 449.4 600.6 V 0.5
+wire 450.2 600.6 449.4 600.6 H 0.5
+wire 458.6 597.8 458.2 597.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N131
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[2\]\[2\] CK 428.6 521
+#Trunk mips_core/datamem/ram_reg\[2\]\[1\] CK 422.6 514.6
+#Trunk mips_core/datamem/ram_reg\[0\]\[0\] CK 448.6 517.4
+#Trunk_Term end
+wire 448.6 517 448.6 508.2 V 0.5
+wire 448.6 517 448.6 517.4 V 0.5
+wire 448.6 517 441.4 517 H 0.5
+wire 451 521 448.6 521 H 0.5
+wire 448.6 521 448.6 517.4 V 0.5
+wire 428.6 511 428.6 521 V 0.5
+wire 428.6 511 423.4 511 H 0.5
+wire 428.6 511 434.6 511 H 0.5
+wire 422.6 514.6 423.4 514.6 H 0.5
+wire 423.4 514.6 423.4 511 V 0.5
+wire 435.4 511 434.6 511 H 0.5
+wire 435.4 511 439.4 511 H 0.5
+wire 439.4 511 439.4 514.6 V 0.5
+wire 439.4 514.6 441.4 514.6 H 0.5
+wire 441.4 514.6 441.4 517 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N130
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[39\]\[12\] CK 438.2 562.2
+#Trunk mips_core/datamem/ram_reg\[38\]\[12\] CK 414.6 568.6
+#Trunk mips_core/datamem/ram_reg\[25\]\[5\] CK 442.2 575
+#Trunk_Term end
+wire 443 568.2 443 565.8 V 0.5
+wire 443 568.2 440.6 568.2 H 0.5
+wire 443.8 578.6 442.2 578.6 H 0.5
+wire 442.2 578.6 442.2 575 V 0.5
+wire 425.4 578.6 425.8 578.6 H 0.5
+wire 425.4 578.6 419.4 578.6 H 0.5
+wire 440.6 572.2 442.2 572.2 H 0.5
+wire 442.2 572.2 442.2 575 V 0.5
+wire 440.6 572.2 440.6 568.2 V 0.5
+wire 440.6 572.2 435 572.2 H 0.5
+wire 414.6 568.6 417.4 568.6 H 0.5
+wire 417.4 568.6 417.4 572.2 V 0.5
+wire 414.6 568.6 414.6 562.2 V 0.5
+wire 417.4 572.2 417.4 578.6 V 0.5
+wire 419.4 578.6 417.4 578.6 H 0.5
+wire 434.2 578.6 435 578.6 H 0.5
+wire 435 578.6 435 572.2 V 0.5
+wire 434.2 578.6 425.8 578.6 H 0.5
+wire 438.2 562.2 443 562.2 H 0.5
+wire 443 562.2 443 565.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N129
+#Trunk_Term begin
+#Trunk clk_m__L3_I129 O 412.6 651.4
+#Trunk mips_core/datamem/ram_reg\[40\]\[0\] CK 419.8 661.8
+#Trunk mips_core/datamem/ram_reg\[46\]\[14\] CK 401 639
+#Trunk_Term end
+wire 428.2 655.4 423 655.4 H 0.5
+wire 423 655.4 423 658.2 V 0.5
+wire 428.2 655.4 428.2 649 V 0.5
+wire 426.2 642.6 423.4 642.6 H 0.5
+wire 423.4 642.6 423.4 639 V 0.5
+wire 426.2 642.6 428.2 642.6 H 0.5
+wire 428.2 642.6 428.2 649 V 0.5
+wire 423 658.2 419.8 658.2 H 0.5
+wire 420.6 639 417 639 H 0.5
+wire 420.6 639 423.4 639 H 0.5
+wire 419.8 661.8 419.8 671 V 0.5
+wire 419.8 661.8 419.8 658.2 V 0.5
+wire 413 655.4 413 651.8 V 0.5
+wire 413 655.4 419.8 655.4 H 0.5
+wire 419.8 655.4 419.8 658.2 V 0.5
+wire 412.6 651.4 413 651.4 H 0.5
+wire 413 651.4 413 651.8 V 0.5
+wire 412.6 639 407 639 H 0.5
+wire 412.6 639 417 639 H 0.5
+wire 401 639 401 642.6 V 0.5
+wire 401 639 407 639 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N128
+#Trunk_Term begin
+#Trunk clk_m__L3_I128 O 407 536.2
+#Trunk mips_core/datamem/ram_reg\[7\]\[4\] CK 419.4 543
+#Trunk mips_core/datamem/ram_reg\[6\]\[8\] CK 391.4 536.6
+#Trunk_Term end
+wire 391.4 530.2 391.4 536.6 V 0.5
+wire 392.6 549.4 402.2 549.4 H 0.5
+wire 392.6 549.4 392.6 546.6 V 0.5
+wire 405.4 536.2 407 536.2 H 0.5
+wire 405.4 536.2 405.4 533.8 V 0.5
+wire 405.4 536.2 405.4 543 V 0.5
+wire 405.4 530.2 403 530.2 H 0.5
+wire 403 530.2 403 527.4 V 0.5
+wire 405.4 530.2 407.4 530.2 H 0.5
+wire 405.4 530.2 405.4 533.8 V 0.5
+wire 418.6 536.6 419.4 536.6 H 0.5
+wire 419.4 536.6 419.4 543 V 0.5
+wire 418.6 536.6 413.4 536.6 H 0.5
+wire 391.4 543 392.6 543 H 0.5
+wire 392.6 543 392.6 546.6 V 0.5
+wire 391.4 543 391.4 536.6 V 0.5
+wire 405.4 549.4 405.4 543 V 0.5
+wire 405.4 549.4 402.2 549.4 H 0.5
+wire 407.4 530.2 413 530.2 H 0.5
+wire 413 530.2 413.4 530.2 H 0.5
+wire 413.4 530.2 413.4 536.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N127
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[158\]\[12\] CK 581.4 517.4
+#Trunk mips_core/datamem/ram_reg\[159\]\[8\] CK 597.8 527.4
+#Trunk mips_core/datamem/ram_reg\[159\]\[10\] CK 588.6 508.2
+#Trunk mips_core/datamem/ram_reg\[153\]\[8\] CK 591.4 527.4
+#Trunk_Term end
+wire 599.4 530.2 597.8 530.2 H 0.5
+wire 597.8 530.2 597.8 527.4 V 0.5
+wire 588.6 504.6 588.6 508.2 V 0.5
+wire 591.4 530.2 591.4 536.6 V 0.5
+wire 591.4 530.2 591.4 527.4 V 0.5
+wire 587 536.6 591.4 536.6 H 0.5
+wire 592.2 517.4 592.2 523.4 V 0.5
+wire 592.2 517.4 589 517.4 H 0.5
+wire 581.4 517.4 587 517.4 H 0.5
+wire 587 517.4 589 517.4 H 0.5
+wire 588.6 508.2 589 508.2 H 0.5
+wire 589 508.2 589 514.6 V 0.5
+wire 589 514.6 589 517.4 V 0.5
+wire 591.4 527.4 592.2 527.4 H 0.5
+wire 592.2 523.4 592.2 527.4 V 0.5
+wire 597.8 527.4 592.2 527.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N126
+#Trunk_Term begin
+#Trunk clk_m__L3_I126 O 586.6 566.2
+#Trunk mips_core/reg_file/reg_array_reg\[2\]\[9\] CK 571.8 569
+#Trunk mips_core/reg_file/reg_array_reg\[2\]\[8\] CK 587 578.2
+#Trunk mips_core/datamem/ram_reg\[149\]\[9\] CK 580.2 546.6
+#Trunk_Term end
+wire 587.8 571.8 587.8 569 V 0.5
+wire 587.8 571.8 587 571.8 H 0.5
+wire 587.8 566.2 587.8 562.6 V 0.5
+wire 587.8 566.2 586.6 566.2 H 0.5
+wire 587.8 566.2 587.8 569 V 0.5
+wire 589 555.8 589 549.4 V 0.5
+wire 589 555.8 587.8 555.8 H 0.5
+wire 572.6 546.6 580.2 546.6 H 0.5
+wire 571.8 569 571.8 562.6 V 0.5
+wire 573 562.6 571.8 562.6 H 0.5
+wire 573 562.6 577.4 562.6 H 0.5
+wire 577.4 562.6 577.4 559.4 V 0.5
+wire 577.4 559.4 579 559.4 H 0.5
+wire 579 559.4 579 555.8 V 0.5
+wire 579 555.8 587.8 555.8 H 0.5
+wire 580.2 546.6 588.2 546.6 H 0.5
+wire 587 571.8 587 578.2 V 0.5
+wire 587.8 562.6 587.8 555.8 V 0.5
+wire 588.2 546.6 589 546.6 H 0.5
+wire 589 546.6 589 549.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N125
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[27\]\[10\] CK 531 559.4
+#Trunk clk_m__L3_I125 O 549.8 542.6
+#Trunk mips_core/datamem/ram_reg\[153\]\[12\] CK 544.2 527.4
+#Trunk_Term end
+wire 549.8 540.2 551.8 540.2 H 0.5
+wire 549.8 540.2 549.4 540.2 H 0.5
+wire 549.4 540.2 549.4 536.6 V 0.5
+wire 549.8 540.2 549.8 542.6 V 0.5
+wire 557.4 559.4 554.2 559.4 H 0.5
+wire 554.2 559.4 554.2 562.2 V 0.5
+wire 557.4 559.4 557.4 553 V 0.5
+wire 539 527.4 544.2 527.4 H 0.5
+wire 549.4 530.2 544.2 530.2 H 0.5
+wire 544.2 530.2 544.2 527.4 V 0.5
+wire 549.4 530.2 549.4 536.6 V 0.5
+wire 549.4 562.2 542.2 562.2 H 0.5
+wire 549.4 562.2 554.2 562.2 H 0.5
+wire 531 559.4 539.8 559.4 H 0.5
+wire 539.8 559.4 542.2 559.4 H 0.5
+wire 542.2 559.4 542.2 562.2 V 0.5
+wire 551.8 540.2 559.4 540.2 H 0.5
+wire 557.4 553 559.4 553 H 0.5
+wire 559.4 553 559.4 546.6 V 0.5
+wire 559.4 546.6 559.4 540.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N124
+#Trunk_Term begin
+#Trunk mips_core/reg_file/reg_array_reg\[1\]\[15\] CK 559.4 661.4
+#Trunk mips_core/reg_file/reg_array_reg\[0\]\[14\] CK 537.4 674.2
+#Trunk mips_core/reg_file/reg_array_reg\[4\]\[14\] CK 548.6 684.2
+#Trunk mips_core/reg_file/reg_array_reg\[1\]\[14\] CK 537.8 665
+#Trunk_Term end
+wire 559.4 661.4 549.4 661.4 H 0.5
+wire 554.6 680.6 554.6 677.8 V 0.5
+wire 554.6 680.6 554.6 684.2 V 0.5
+wire 554.6 677.8 554.6 674.2 V 0.5
+wire 552.6 671.4 545.4 671.4 H 0.5
+wire 552.6 671.4 554.6 671.4 H 0.5
+wire 554.6 671.4 554.6 674.2 V 0.5
+wire 549.4 664.6 549.4 661.4 V 0.5
+wire 549.4 664.6 545.8 664.6 H 0.5
+wire 545.8 664.6 545.8 665 V 0.5
+wire 548.6 684.2 548.6 690.6 V 0.5
+wire 548.6 684.2 554.6 684.2 H 0.5
+wire 545.8 667.8 545.8 665 V 0.5
+wire 545.8 667.8 545.4 667.8 H 0.5
+wire 545.4 667.8 545.4 670.6 V 0.5
+wire 545.4 670.6 545.4 671.4 V 0.5
+wire 543.4 674.2 537.4 674.2 H 0.5
+wire 543.4 674.2 545.4 674.2 H 0.5
+wire 545.4 674.2 545.4 671.4 V 0.5
+wire 537.8 665 537.4 665 H 0.5
+wire 537.4 665 537.4 664.6 V 0.5
+wire 537.8 665 545.8 665 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N123
+#Trunk_Term begin
+#Trunk mips_core/pc_current_reg\[12\] CK 559 636.2
+#Trunk mips_core/datamem/ram_reg\[19\]\[12\] CK 521.8 613.4
+#Trunk mips_core/reg_file/reg_array_reg\[5\]\[13\] CK 543.4 635.8
+#Trunk_Term end
+wire 542.2 616.6 543 616.6 H 0.5
+wire 542.2 616.6 537.8 616.6 H 0.5
+wire 539.4 635.8 543.4 635.8 H 0.5
+wire 524.6 613.4 531.4 613.4 H 0.5
+wire 524.6 613.4 521.8 613.4 H 0.5
+wire 545 633 550.2 633 H 0.5
+wire 545 633 543.4 633 H 0.5
+wire 543.4 633 543.4 635.8 V 0.5
+wire 545 633 545 629.4 V 0.5
+wire 531.4 613.4 537.4 613.4 H 0.5
+wire 537.4 613.4 537.4 616.6 V 0.5
+wire 537.4 616.6 537.8 616.6 H 0.5
+wire 543 625.8 545 625.8 H 0.5
+wire 545 625.8 545 629.4 V 0.5
+wire 543 625.8 543 616.6 V 0.5
+wire 550.2 633 559 633 H 0.5
+wire 559 633 559 636.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N122
+#Trunk_Term begin
+#Trunk mips_core/reg_file/reg_array_reg\[7\]\[10\] CK 558.6 569
+#Trunk mips_core/reg_file/reg_array_reg\[0\]\[9\] CK 558.2 581.8
+#Trunk mips_core/reg_file/reg_array_reg\[0\]\[10\] CK 537.8 575.4
+#Trunk mips_core/datamem/ram_reg\[25\]\[4\] CK 525.4 587.8
+#Trunk mips_core/reg_file/reg_array_reg\[1\]\[10\] CK 535 588.2
+#Trunk_Term end
+wire 535 591 535 588.2 V 0.5
+wire 537.8 578.2 547.4 578.2 H 0.5
+wire 537.8 578.2 537.8 575.4 V 0.5
+wire 537.8 578.2 536.6 578.2 H 0.5
+wire 536.6 578.2 536.6 578.6 V 0.5
+wire 535 585 535.8 585 H 0.5
+wire 535.8 585 535.8 581 V 0.5
+wire 535 585 530.6 585 H 0.5
+wire 535 585 535 588.2 V 0.5
+wire 558.2 578.2 558.6 578.2 H 0.5
+wire 558.6 578.2 558.6 569 V 0.5
+wire 558.2 578.2 558.2 581.8 V 0.5
+wire 558.2 578.2 554.6 578.2 H 0.5
+wire 520.2 587.8 525.4 587.8 H 0.5
+wire 525.4 587.8 530.6 587.8 H 0.5
+wire 530.6 587.8 530.6 585 V 0.5
+wire 535.8 581 536.6 581 H 0.5
+wire 536.6 581 536.6 578.6 V 0.5
+wire 547.4 578.2 554.6 578.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N121
+#Trunk_Term begin
+#Trunk clk_m__L3_I121 O 518.2 515
+#Trunk mips_core/datamem/ram_reg\[29\]\[10\] CK 510.6 521
+#Trunk mips_core/datamem/ram_reg\[152\]\[14\] CK 535.4 517.4
+#Trunk_Term end
+wire 535.4 517.4 527.4 517.4 H 0.5
+wire 535.4 517.4 535.4 514.6 V 0.5
+wire 534.6 511 534.6 508.2 V 0.5
+wire 534.6 511 535.4 511 H 0.5
+wire 535.4 511 535.4 514.6 V 0.5
+wire 534.6 508.2 526.6 508.2 H 0.5
+wire 526.6 508.2 525.4 508.2 H 0.5
+wire 525.4 508.2 525.4 501.8 V 0.5
+wire 525.4 501.8 521.4 501.8 H 0.5
+wire 521.4 501.8 521.4 498.2 V 0.5
+wire 521.4 498.2 515.8 498.2 H 0.5
+wire 518.2 515 517 515 H 0.5
+wire 517 515 517 511 V 0.5
+wire 517 511 510.6 511 H 0.5
+wire 510.6 521 510.6 511 V 0.5
+wire 510.6 508.2 510.6 511 V 0.5
+wire 510.6 508.2 505.4 508.2 H 0.5
+wire 510.6 498.2 506.2 498.2 H 0.5
+wire 510.6 498.2 515.8 498.2 H 0.5
+wire 506.2 498.2 499.8 498.2 H 0.5
+wire 505.4 508.2 499.8 508.2 H 0.5
+wire 499.8 508.2 499.8 504.6 V 0.5
+wire 499.8 504.6 499.8 498.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N120
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[28\]\[15\] CK 504.2 536.6
+#Trunk mips_core/datamem/ram_reg\[27\]\[7\] CK 506.2 568.6
+#Trunk_Term end
+wire 521 546.6 521 553 V 0.5
+wire 521 546.6 521 543 V 0.5
+wire 517.4 543 513.8 543 H 0.5
+wire 513.8 543 513.8 540.2 V 0.5
+wire 517.4 543 521 543 H 0.5
+wire 513.8 553 513.8 555.4 V 0.5
+wire 513.8 553 521 553 H 0.5
+wire 513.8 540.2 505 540.2 H 0.5
+wire 511.8 555.4 499.8 555.4 H 0.5
+wire 511.8 555.4 513.8 555.4 H 0.5
+wire 506.2 568.6 502.2 568.6 H 0.5
+wire 505 540.2 504.2 540.2 H 0.5
+wire 504.2 540.2 504.2 536.6 V 0.5
+wire 502.2 565.8 502.2 568.6 V 0.5
+wire 502.2 565.8 499.8 565.8 H 0.5
+wire 499.8 565.8 499.8 559.4 V 0.5
+wire 499.8 555.8 499.8 559.4 V 0.5
+wire 499.8 555.8 499.8 555.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N119
+#Trunk_Term begin
+#Trunk clk_m__L3_I119 O 503.8 649.4
+#Trunk mips_core/datamem/ram_reg\[17\]\[4\] CK 510.6 629.8
+#Trunk mips_core/datamem/ram_reg\[22\]\[12\] CK 521.4 651.8
+#Trunk_Term end
+wire 503.8 649 510.2 649 H 0.5
+wire 503.8 649 503.8 649.4 V 0.5
+wire 503.8 649 501 649 H 0.5
+wire 501 649 501 645.4 V 0.5
+wire 487.4 636.2 487.4 632.6 V 0.5
+wire 487.4 636.2 487.4 639 V 0.5
+wire 487.4 626.2 494.2 626.2 H 0.5
+wire 487.4 626.2 487.4 632.6 V 0.5
+wire 515.4 658.2 515.4 651.8 V 0.5
+wire 487.4 639 487.8 639 H 0.5
+wire 487.8 639 487.8 642.6 V 0.5
+wire 487.8 642.6 496.6 642.6 H 0.5
+wire 494.2 626.2 505 626.2 H 0.5
+wire 496.6 642.6 497.4 642.6 H 0.5
+wire 497.4 642.6 497.4 645.4 V 0.5
+wire 497.4 645.4 501 645.4 H 0.5
+wire 505 626.2 510.6 626.2 H 0.5
+wire 510.6 626.2 510.6 629.8 V 0.5
+wire 510.2 649 515.4 649 H 0.5
+wire 515.4 649 515.4 651.8 V 0.5
+wire 515.8 651.8 521.4 651.8 H 0.5
+wire 515.8 651.8 515.4 651.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N118
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[19\]\[11\] CK 474.6 610.6
+#Trunk mips_core/datamem/ram_reg\[24\]\[9\] CK 497.4 591.4
+#Trunk mips_core/datamem/ram_reg\[27\]\[4\] CK 504.2 594.2
+#Trunk mips_core/datamem/ram_reg\[19\]\[9\] CK 500.2 610.6
+#Trunk_Term end
+wire 493.8 606.6 499.8 606.6 H 0.5
+wire 499.8 606.6 499.8 607 V 0.5
+wire 493.8 606.6 492.6 606.6 H 0.5
+wire 500.6 604.2 500.6 600.6 V 0.5
+wire 500.6 604.2 500.2 604.2 H 0.5
+wire 500.2 604.2 500.2 607 V 0.5
+wire 500.2 617 500.2 610.6 V 0.5
+wire 489.4 607 492.6 607 H 0.5
+wire 492.6 607 492.6 606.6 V 0.5
+wire 489.4 607 482.6 607 H 0.5
+wire 477.8 607 482.6 607 H 0.5
+wire 477.8 607 474.6 607 H 0.5
+wire 474.6 607 474.6 610.6 V 0.5
+wire 500.6 594.2 504.2 594.2 H 0.5
+wire 500.6 594.2 497.4 594.2 H 0.5
+wire 497.4 594.2 497.4 591.4 V 0.5
+wire 500.6 594.2 500.6 600.6 V 0.5
+wire 499.8 607 500.2 607 H 0.5
+wire 500.2 610.6 500.2 607 V 0.5
+wire 504.2 594.2 507.4 594.2 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N177
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[91\]\[5\] CK 456.6 773.4
+#Trunk mips_core/datamem/ram_reg\[49\]\[1\] CK 449 741.4
+#Trunk mips_core/datamem/ram_reg\[50\]\[15\] CK 438.2 757.8
+#Trunk_Term end
+wire 446.6 757.8 446.6 760.2 V 0.5
+wire 446.6 757.8 447 757.8 H 0.5
+wire 447 757.8 447 751.4 V 0.5
+wire 446.6 757.8 446.2 757.8 H 0.5
+wire 456.2 760.2 457.4 760.2 H 0.5
+wire 457.4 760.2 457.4 760.6 V 0.5
+wire 456.2 760.2 450.2 760.2 H 0.5
+wire 460.2 767 456.6 767 H 0.5
+wire 456.6 767 456.6 770.6 V 0.5
+wire 460.2 767 460.2 760.6 V 0.5
+wire 449 747.8 449 741.4 V 0.5
+wire 449 747.8 447 747.8 H 0.5
+wire 447 747.8 447 751.4 V 0.5
+wire 439.8 767 438.2 767 H 0.5
+wire 438.2 767 438.2 764.2 V 0.5
+wire 438.2 757.8 438.2 764.2 V 0.5
+wire 438.2 757.8 446.2 757.8 H 0.5
+wire 450.2 760.2 446.6 760.2 H 0.5
+wire 456.6 773.4 456.6 770.6 V 0.5
+wire 457.4 760.6 460.2 760.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N176
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[58\]\[2\] CK 414.2 709.4
+#Trunk mips_core/datamem/ram_reg\[49\]\[13\] CK 439.4 709.4
+#Trunk mips_core/datamem/ram_reg\[58\]\[4\] CK 423.4 690.2
+#Trunk_Term end
+wire 428.6 703 435.4 703 H 0.5
+wire 428.6 703 428.6 700.6 V 0.5
+wire 414.2 706.6 414.2 709.4 V 0.5
+wire 414.2 706.6 412.2 706.6 H 0.5
+wire 412.2 706.6 412.2 703 V 0.5
+wire 423.4 687.4 423.4 690.2 V 0.5
+wire 423.4 693.8 423.4 690.2 V 0.5
+wire 423.4 693.8 420.6 693.8 H 0.5
+wire 423.4 693.8 427 693.8 H 0.5
+wire 427 693.8 427 696.6 V 0.5
+wire 435.4 713 439.4 713 H 0.5
+wire 439.4 713 439.4 709.4 V 0.5
+wire 440.6 703 440.6 706.6 V 0.5
+wire 440.6 703 435.4 703 H 0.5
+wire 412.2 696.6 412.2 703 V 0.5
+wire 412.2 696.6 420.6 696.6 H 0.5
+wire 420.6 696.6 420.6 693.8 V 0.5
+wire 427 696.6 428.6 696.6 H 0.5
+wire 428.6 696.6 428.6 700.6 V 0.5
+wire 439.4 709.4 440.6 709.4 H 0.5
+wire 440.6 709.4 440.6 706.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N175
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[61\]\[2\] CK 412.2 757.8
+#Trunk mips_core/datamem/ram_reg\[60\]\[14\] CK 406.2 735
+#Trunk mips_core/datamem/ram_reg\[60\]\[12\] CK 426.2 735
+#Trunk_Term end
+wire 413.4 735 413.4 738.6 V 0.5
+wire 413.4 735 406.2 735 H 0.5
+wire 419 745.4 421 745.4 H 0.5
+wire 419 745.4 419 751.4 V 0.5
+wire 419 745.4 413.8 745.4 H 0.5
+wire 413.8 745.4 413.8 745 V 0.5
+wire 426.2 745 426.2 735 V 0.5
+wire 426.2 745 423 745 H 0.5
+wire 426.2 728.6 426.2 735 V 0.5
+wire 419.4 757.8 412.2 757.8 H 0.5
+wire 419.4 757.8 419.4 754.2 V 0.5
+wire 413.4 738.6 413.4 745 V 0.5
+wire 413.8 745 413.4 745 H 0.5
+wire 419 751.4 419.4 751.4 H 0.5
+wire 419.4 751.4 419.4 754.2 V 0.5
+wire 421 745.4 423 745.4 H 0.5
+wire 423 745.4 423 745 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N174
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[53\]\[1\] CK 424.6 818.2
+#Trunk mips_core/datamem/ram_reg\[54\]\[4\] CK 403.4 809
+#Trunk mips_core/datamem/ram_reg\[53\]\[0\] CK 427 799
+#Trunk_Term end
+wire 418.2 796.2 418.6 796.2 H 0.5
+wire 418.6 796.2 418.6 799 V 0.5
+wire 418.2 796.2 418.2 789.8 V 0.5
+wire 419.8 811.8 423.8 811.8 H 0.5
+wire 419.8 811.8 419.8 805 V 0.5
+wire 419.8 799 427 799 H 0.5
+wire 419.8 799 419.8 805 V 0.5
+wire 419.8 799 418.6 799 H 0.5
+wire 403.4 805.4 398.2 805.4 H 0.5
+wire 403.4 805.4 403.4 809 V 0.5
+wire 418.2 786.2 418.2 789.8 V 0.5
+wire 418.2 786.2 413 786.2 H 0.5
+wire 408.6 786.2 413 786.2 H 0.5
+wire 408.6 786.2 403 786.2 H 0.5
+wire 398.2 799 398.2 789.8 V 0.5
+wire 398.2 799 398.2 805.4 V 0.5
+wire 403 786.2 398.2 786.2 H 0.5
+wire 398.2 786.2 398.2 789.8 V 0.5
+wire 423.8 811.8 424.6 811.8 H 0.5
+wire 424.6 811.8 424.6 818.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N173
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[55\]\[3\] CK 379.8 777
+#Trunk mips_core/datamem/ram_reg\[63\]\[9\] CK 383.8 770.6
+#Trunk mips_core/datamem/ram_reg\[52\]\[13\] CK 391.4 783.4
+#Trunk mips_core/datamem/ram_reg\[55\]\[14\] CK 413 770.6
+#Trunk_Term end
+wire 402.2 779.4 402.2 770.6 V 0.5
+wire 402.2 779.4 401.4 779.4 H 0.5
+wire 404.6 770.6 413 770.6 H 0.5
+wire 404.6 770.6 402.2 770.6 H 0.5
+wire 384.6 777 384.6 773.4 V 0.5
+wire 384.6 777 379.8 777 H 0.5
+wire 384.6 777 384.6 779.8 V 0.5
+wire 383.8 770.6 384.6 770.6 H 0.5
+wire 384.6 770.6 384.6 773.4 V 0.5
+wire 384.6 779.8 391.4 779.8 H 0.5
+wire 391.4 783.4 391.4 779.8 V 0.5
+wire 392.2 779.8 391.4 779.8 H 0.5
+wire 392.2 779.8 401.4 779.8 H 0.5
+wire 401.4 779.8 401.4 779.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N172
+#Trunk_Term begin
+#Trunk clk_m__L3_I172 O 389.4 732.6
+#Trunk mips_core/datamem/ram_reg\[57\]\[13\] CK 392.2 709.4
+#Trunk mips_core/datamem/ram_reg\[63\]\[7\] CK 375.8 735
+#Trunk mips_core/datamem/ram_reg\[63\]\[14\] CK 397 732.2
+#Trunk_Term end
+wire 397 741.4 397 732.2 V 0.5
+wire 383.8 722.2 382.2 722.2 H 0.5
+wire 382.2 722.2 382.2 725.8 V 0.5
+wire 383.8 722.2 386.6 722.2 H 0.5
+wire 399.8 719.4 396.2 719.4 H 0.5
+wire 399.8 719.4 401 719.4 H 0.5
+wire 401 719.4 401 715.8 V 0.5
+wire 379 735 375.8 735 H 0.5
+wire 379 735 380.2 735 H 0.5
+wire 380.2 735 380.2 728.6 V 0.5
+wire 393.4 732.2 397 732.2 H 0.5
+wire 393.4 732.2 389.4 732.2 H 0.5
+wire 389.4 732.2 389.4 732.6 V 0.5
+wire 393.4 732.2 393.4 728.6 V 0.5
+wire 393.4 722.2 393.4 728.6 V 0.5
+wire 393.4 722.2 386.6 722.2 H 0.5
+wire 393.4 722.2 396.2 722.2 H 0.5
+wire 396.2 722.2 396.2 719.4 V 0.5
+wire 375.8 735 370.6 735 H 0.5
+wire 370.6 735 370.6 732.2 V 0.5
+wire 380.2 728.6 382.2 728.6 H 0.5
+wire 382.2 728.6 382.2 725.8 V 0.5
+wire 392.2 709.4 401 709.4 H 0.5
+wire 401 709.4 401 715.8 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N171
+#Trunk_Term begin
+#Trunk clk_m__L3_I171 O 373.8 707
+#Trunk mips_core/datamem/ram_reg\[42\]\[7\] CK 357.4 687.4
+#Trunk mips_core/datamem/ram_reg\[40\]\[7\] CK 367 683.8
+#Trunk mips_core/datamem/ram_reg\[56\]\[10\] CK 364.2 713
+#Trunk_Term end
+wire 373.8 703 373.8 706.6 V 0.5
+wire 373.8 703 373 703 H 0.5
+wire 373 703 373 696.6 V 0.5
+wire 361.8 715.8 364.2 715.8 H 0.5
+wire 364.2 715.8 364.2 713 V 0.5
+wire 365 687.4 367 687.4 H 0.5
+wire 367 687.4 367 683.8 V 0.5
+wire 365 687.4 365 690.2 V 0.5
+wire 365 687.4 357.4 687.4 H 0.5
+wire 364.2 713 364.2 706.6 V 0.5
+wire 365 690.2 368.6 690.2 H 0.5
+wire 368.6 690.2 368.6 693.8 V 0.5
+wire 365 706.6 364.2 706.6 H 0.5
+wire 365 706.6 373.8 706.6 H 0.5
+wire 368.6 693.8 373 693.8 H 0.5
+wire 373 693.8 373 696.6 V 0.5
+wire 373.8 707 373.8 706.6 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N170
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[54\]\[6\] CK 336.6 809
+#Trunk clk_m__L3_I170 O 367.4 796.6
+#Trunk mips_core/datamem/ram_reg\[52\]\[11\] CK 343.4 792.6
+#Trunk mips_core/datamem/ram_reg\[54\]\[7\] CK 382.6 809
+#Trunk_Term end
+wire 370.6 809 371.4 809 H 0.5
+wire 371.4 809 371.4 811.8 V 0.5
+wire 370.6 809 370.6 802.6 V 0.5
+wire 358.6 783.4 358.6 792.6 V 0.5
+wire 358.6 783.4 364.2 783.4 H 0.5
+wire 370.6 792.6 370.6 789.8 V 0.5
+wire 370.6 792.6 369.4 792.6 H 0.5
+wire 369.4 792.6 369.4 796.6 V 0.5
+wire 343.4 796.2 343.4 792.6 V 0.5
+wire 343.4 796.2 336.6 796.2 H 0.5
+wire 336.6 796.2 336.6 809 V 0.5
+wire 343.4 796.2 348.6 796.2 H 0.5
+wire 368.6 783.4 364.2 783.4 H 0.5
+wire 368.6 783.4 370.6 783.4 H 0.5
+wire 370.6 783.4 370.6 789.8 V 0.5
+wire 357.4 796.2 348.6 796.2 H 0.5
+wire 357.4 796.2 358.6 796.2 H 0.5
+wire 358.6 796.2 358.6 792.6 V 0.5
+wire 387 809 382.6 809 H 0.5
+wire 367.4 796.6 369.4 796.6 H 0.5
+wire 369.4 799 369.4 796.6 V 0.5
+wire 369.4 799 370.6 799 H 0.5
+wire 370.6 799 370.6 802.6 V 0.5
+wire 371.4 811.8 371.8 811.8 H 0.5
+wire 371.8 811.8 371.8 815.4 V 0.5
+wire 371.8 815.4 380.6 815.4 H 0.5
+wire 380.6 815.4 382.6 815.4 H 0.5
+wire 382.6 815.4 382.6 809 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N169
+#Trunk_Term begin
+#Trunk clk_m__L3_I169 O 361 753.8
+#Trunk mips_core/datamem/ram_reg\[63\]\[10\] CK 342.2 751.4
+#Trunk mips_core/datamem/ram_reg\[61\]\[7\] CK 368.6 751.4
+#Trunk mips_core/datamem/ram_reg\[60\]\[10\] CK 348.6 745
+#Trunk_Term end
+wire 363 757.8 363.4 757.8 H 0.5
+wire 363.4 757.8 363.4 760.6 V 0.5
+wire 363 757.8 363 754.2 V 0.5
+wire 370.6 760.6 370.6 767 V 0.5
+wire 370.6 760.6 363.4 760.6 H 0.5
+wire 351.8 767 351.8 764.2 V 0.5
+wire 351.8 767 357.4 767 H 0.5
+wire 348.6 751.4 348.6 745 V 0.5
+wire 348.6 751.4 342.2 751.4 H 0.5
+wire 348.6 751.4 353 751.4 H 0.5
+wire 351.8 764.2 353 764.2 H 0.5
+wire 353 764.2 353 757.8 V 0.5
+wire 353 751.4 353 757.8 V 0.5
+wire 357.4 767 361.4 767 H 0.5
+wire 361.4 767 361.4 770.6 V 0.5
+wire 361 753.8 363 753.8 H 0.5
+wire 361.4 770.6 369.4 770.6 H 0.5
+wire 363 754.2 363 753.8 V 0.5
+wire 368.6 751.4 363 751.4 H 0.5
+wire 363 751.4 363 753.8 V 0.5
+wire 369.4 770.6 370.6 770.6 H 0.5
+wire 370.6 770.6 370.6 767 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N168
+#Trunk_Term begin
+#Trunk clk_m__L3_I168 O 333.4 702.6
+#Trunk mips_core/datamem/ram_reg\[42\]\[6\] CK 319.4 671
+#Trunk mips_core/datamem/ram_reg\[57\]\[5\] CK 337 728.6
+#Trunk_Term end
+wire 336.6 690.2 337 690.2 H 0.5
+wire 336.6 690.2 336.6 696.6 V 0.5
+wire 330.6 671 319.4 671 H 0.5
+wire 330.6 671 330.6 677.4 V 0.5
+wire 337 715.8 337 722.2 V 0.5
+wire 337 715.8 339 715.8 H 0.5
+wire 339 715.8 339 713 V 0.5
+wire 336.6 702.6 336.6 706.6 V 0.5
+wire 336.6 702.6 333.4 702.6 H 0.5
+wire 336.6 702.6 336.6 696.6 V 0.5
+wire 337 677.4 330.6 677.4 H 0.5
+wire 337 677.4 337 683.8 V 0.5
+wire 336.6 706.6 339 706.6 H 0.5
+wire 339 706.6 339 709.4 V 0.5
+wire 337 683.8 337 690.2 V 0.5
+wire 337 722.2 337 728.6 V 0.5
+wire 339 709.4 339 713 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N167
+#Trunk_Term begin
+#Trunk clk_m__L3_I167 O 527 862.6
+#Trunk mips_core/datamem/ram_reg\[86\]\[9\] CK 515.8 869.4
+#Trunk mips_core/datamem/ram_reg\[87\]\[6\] CK 513.8 850.2
+#Trunk mips_core/datamem/ram_reg\[85\]\[9\] CK 532.2 879.4
+#Trunk_Term end
+wire 529 869.4 532.2 869.4 H 0.5
+wire 529 869.4 529 863 V 0.5
+wire 529 869.4 526.6 869.4 H 0.5
+wire 525.4 869.4 515.8 869.4 H 0.5
+wire 525.4 869.4 526.6 869.4 H 0.5
+wire 527 847.4 523 847.4 H 0.5
+wire 527 847.4 527.4 847.4 H 0.5
+wire 527.4 847.4 527.4 850.2 V 0.5
+wire 520.2 850.2 513.8 850.2 H 0.5
+wire 520.2 850.2 523 850.2 H 0.5
+wire 523 850.2 523 847.4 V 0.5
+wire 531 860.2 531 856.6 V 0.5
+wire 531 860.2 529 860.2 H 0.5
+wire 529 860.2 529 862.6 V 0.5
+wire 537.8 879.4 532.2 879.4 H 0.5
+wire 527 862.6 529 862.6 H 0.5
+wire 527.4 850.2 531 850.2 H 0.5
+wire 529 863 529 862.6 V 0.5
+wire 531 856.6 531 850.2 V 0.5
+wire 532.2 869.4 532.2 879.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N166
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[92\]\[0\] CK 521.8 783.4
+#Trunk mips_core/datamem/ram_reg\[92\]\[12\] CK 526.6 767
+#Trunk mips_core/datamem/ram_reg\[94\]\[14\] CK 513.8 773.4
+#Trunk_Term end
+wire 505.8 770.6 505.8 773.4 V 0.5
+wire 515.8 773 517.4 773 H 0.5
+wire 515.8 773 515.4 773 H 0.5
+wire 515.4 773 515.4 773.4 V 0.5
+wire 519.4 773.4 524.6 773.4 H 0.5
+wire 519.4 773.4 519.4 777 V 0.5
+wire 519.4 773.4 517.4 773.4 H 0.5
+wire 517.4 773.4 517.4 773 V 0.5
+wire 526.6 773.4 526.6 767 V 0.5
+wire 526.6 773.4 524.6 773.4 H 0.5
+wire 526.6 757.8 526.6 767 V 0.5
+wire 513.8 773.4 515.4 773.4 H 0.5
+wire 513.8 773.4 505.8 773.4 H 0.5
+wire 519.4 777 521.8 777 H 0.5
+wire 521.8 777 521.8 783.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N165
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[20\]\[10\] CK 511.8 687.4
+#Trunk mips_core/datamem/ram_reg\[80\]\[11\] CK 526.6 693.8
+#Trunk mips_core/datamem/ram_reg\[49\]\[9\] CK 494.2 693.8
+#Trunk_Term end
+wire 494.2 700.2 494.2 693.8 V 0.5
+wire 518.2 696.6 521.8 696.6 H 0.5
+wire 518.2 696.6 518.2 694.2 V 0.5
+wire 511.8 693.8 518.2 693.8 H 0.5
+wire 518.2 693.8 518.2 694.2 V 0.5
+wire 511.8 693.8 511.8 687.4 V 0.5
+wire 511.8 693.8 509.4 693.8 H 0.5
+wire 506.2 693.8 509.4 693.8 H 0.5
+wire 506.2 693.8 499 693.8 H 0.5
+wire 523.8 693.8 526.6 693.8 H 0.5
+wire 523.8 693.8 521.8 693.8 H 0.5
+wire 521.8 693.8 521.8 696.6 V 0.5
+wire 531.8 693.8 526.6 693.8 H 0.5
+wire 494.2 693.8 499 693.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N164
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[81\]\[6\] CK 522.2 722.2
+#Trunk mips_core/datamem/ram_reg\[82\]\[13\] CK 521.4 741.4
+#Trunk mips_core/datamem/ram_reg\[81\]\[4\] CK 504.2 735
+#Trunk_Term end
+wire 522.2 722.2 513.8 722.2 H 0.5
+wire 521.4 741.4 521.4 745 V 0.5
+wire 521 745 510.6 745 H 0.5
+wire 521 745 521.4 745 H 0.5
+wire 513.8 725.8 513.8 722.2 V 0.5
+wire 513.8 725.8 511.8 725.8 H 0.5
+wire 511.8 725.8 511.8 732.2 V 0.5
+wire 511.8 732.2 509.8 732.2 H 0.5
+wire 509.8 732.2 509.8 732.6 V 0.5
+wire 510.6 741.4 509.8 741.4 H 0.5
+wire 509.8 741.4 509.8 735 V 0.5
+wire 510.6 741.4 510.6 745 V 0.5
+wire 509.8 732.6 509.8 735 V 0.5
+wire 504.2 735 501.8 735 H 0.5
+wire 504.2 735 509.8 735 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N163
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[88\]\[1\] CK 490.2 805.4
+#Trunk mips_core/datamem/ram_reg\[92\]\[15\] CK 505.8 818.2
+#Trunk mips_core/datamem/ram_reg\[94\]\[15\] CK 514.2 805.4
+#Trunk mips_core/datamem/ram_reg\[93\]\[3\] CK 499.8 789.8
+#Trunk_Term end
+wire 500.6 805.4 501 805.4 H 0.5
+wire 500.6 805.4 498.2 805.4 H 0.5
+wire 500.6 805.4 500.6 803 V 0.5
+wire 499.8 783.4 499.8 789.8 V 0.5
+wire 490.2 805.4 498.2 805.4 H 0.5
+wire 499.8 789.8 500.2 789.8 H 0.5
+wire 500.2 789.8 500.2 799 V 0.5
+wire 500.2 799 500.6 799 H 0.5
+wire 500.6 799 500.6 803 V 0.5
+wire 501 811.8 505.8 811.8 H 0.5
+wire 505.8 811.8 505.8 818.2 V 0.5
+wire 501 811.8 501 805.4 V 0.5
+wire 506.2 805.4 514.2 805.4 H 0.5
+wire 506.2 805.4 501 805.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N162
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[86\]\[7\] CK 494.2 837.4
+#Trunk mips_core/datamem/ram_reg\[84\]\[4\] CK 478.6 866.6
+#Trunk_Term end
+wire 494.2 841 503.4 841 H 0.5
+wire 494.2 841 494.2 837.4 V 0.5
+wire 505 850.2 497.8 850.2 H 0.5
+wire 505 850.2 505 843.8 V 0.5
+wire 505 841 505 843.8 V 0.5
+wire 505 841 503.4 841 H 0.5
+wire 487.8 869.4 481.4 869.4 H 0.5
+wire 487.8 869.4 493 869.4 H 0.5
+wire 501 869.4 495.4 869.4 H 0.5
+wire 501 869.4 501 860.2 V 0.5
+wire 478.6 866.6 478.6 860.2 V 0.5
+wire 478.6 866.6 481.4 866.6 H 0.5
+wire 481.4 866.6 481.4 869.4 V 0.5
+wire 493 869.4 495.4 869.4 H 0.5
+wire 497.8 854.2 499.8 854.2 H 0.5
+wire 499.8 854.2 499.8 856.6 V 0.5
+wire 497.8 854.2 497.8 850.2 V 0.5
+wire 499.8 856.6 501 856.6 H 0.5
+wire 501 856.6 501 860.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N161
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[49\]\[0\] CK 465 747.8
+#Trunk mips_core/datamem/ram_reg\[94\]\[5\] CK 493 767
+#Trunk mips_core/datamem/ram_reg\[80\]\[7\] CK 489 747.8
+#Trunk_Term end
+wire 479.4 747.8 480.2 747.8 H 0.5
+wire 479.4 747.8 477 747.8 H 0.5
+wire 477 747.8 477 751.4 V 0.5
+wire 465 754.2 465 747.8 V 0.5
+wire 465 754.2 466.6 754.2 H 0.5
+wire 466.6 754.2 466.6 757.8 V 0.5
+wire 472.6 758.2 472.6 760.6 V 0.5
+wire 472.6 758.2 466.6 758.2 H 0.5
+wire 466.6 758.2 466.6 757.8 V 0.5
+wire 472.6 758.2 475.8 758.2 H 0.5
+wire 484.2 767 493 767 H 0.5
+wire 484.2 767 480.2 767 H 0.5
+wire 472.6 760.6 472.6 767 V 0.5
+wire 472.6 767 478.2 767 H 0.5
+wire 475.8 758.2 477 758.2 H 0.5
+wire 477 758.2 477 754.2 V 0.5
+wire 477 751.4 477 754.2 V 0.5
+wire 478.2 767 480.2 767 H 0.5
+wire 480.2 747.8 489 747.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N160
+#Trunk_Term begin
+#Trunk clk_m__L3_I160 O 465.8 822.2
+#Trunk mips_core/datamem/ram_reg\[88\]\[10\] CK 483.4 821.8
+#Trunk mips_core/datamem/ram_reg\[90\]\[13\] CK 451 828.2
+#Trunk mips_core/datamem/ram_reg\[89\]\[9\] CK 456.6 811.8
+#Trunk_Term end
+wire 465.8 815.4 467.8 815.4 H 0.5
+wire 465.8 815.4 460.6 815.4 H 0.5
+wire 483.4 821.8 483.4 815.4 V 0.5
+wire 472.6 828.2 472.6 837.4 V 0.5
+wire 472.6 828.2 471.4 828.2 H 0.5
+wire 471.4 828.2 471.4 824.6 V 0.5
+wire 472.6 815.4 483.4 815.4 H 0.5
+wire 472.6 815.4 467.8 815.4 H 0.5
+wire 471.4 824.6 467.8 824.6 H 0.5
+wire 467.8 824.6 467.8 822.2 V 0.5
+wire 467.8 821.8 467.8 822.2 V 0.5
+wire 467.8 821.8 467.8 815.4 V 0.5
+wire 467.4 837.4 461.4 837.4 H 0.5
+wire 467.4 837.4 472.6 837.4 H 0.5
+wire 465.8 822.2 467.8 822.2 H 0.5
+wire 461.4 834.6 459 834.6 H 0.5
+wire 459 834.6 459 828.2 V 0.5
+wire 461.4 834.6 461.4 837.4 V 0.5
+wire 460.6 815.4 456.6 815.4 H 0.5
+wire 456.6 815.4 456.6 811.8 V 0.5
+wire 459 828.2 451 828.2 H 0.5
+wire 456.6 811.8 451 811.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N159
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[48\]\[4\] CK 478.2 715.8
+#Trunk mips_core/datamem/ram_reg\[50\]\[11\] CK 448.6 713
+#Trunk mips_core/datamem/ram_reg\[49\]\[10\] CK 470.6 722.2
+#Trunk_Term end
+wire 472.2 725.8 470.6 725.8 H 0.5
+wire 470.6 725.8 470.6 722.2 V 0.5
+wire 470.6 719.8 470.6 715.8 V 0.5
+wire 470.6 719.8 466.6 719.8 H 0.5
+wire 470.6 719.8 470.6 722.2 V 0.5
+wire 448.6 706.6 448.6 713 V 0.5
+wire 462.6 719.8 461.8 719.8 H 0.5
+wire 461.8 719.8 461.8 722.2 V 0.5
+wire 462.6 719.8 466.6 719.8 H 0.5
+wire 448.6 719.4 448.6 715.8 V 0.5
+wire 448.6 719.4 448.6 725.8 V 0.5
+wire 450.2 728.6 448.6 728.6 H 0.5
+wire 448.6 728.6 448.6 725.8 V 0.5
+wire 450.2 728.6 455.4 728.6 H 0.5
+wire 448.6 713 448.6 715.8 V 0.5
+wire 455.4 728.6 457.4 728.6 H 0.5
+wire 457.4 728.6 457.4 725.8 V 0.5
+wire 457.4 725.8 461.8 725.8 H 0.5
+wire 461.8 725.8 461.8 722.2 V 0.5
+wire 472.6 715.8 478.2 715.8 H 0.5
+wire 472.6 715.8 470.6 715.8 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N158
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[91\]\[6\] CK 455 799
+#Trunk mips_core/datamem/ram_reg\[90\]\[8\] CK 482.2 796.2
+#Trunk_Term end
+wire 476.6 805.4 476.6 802.6 V 0.5
+wire 476.6 805.4 469 805.4 H 0.5
+wire 465.8 802.6 465.8 799 V 0.5
+wire 465.8 802.6 469 802.6 H 0.5
+wire 469 802.6 469 805.4 V 0.5
+wire 448.6 789.8 449.4 789.8 H 0.5
+wire 449.4 789.8 449.4 792.6 V 0.5
+wire 448.6 789.8 448.6 786.2 V 0.5
+wire 455 796.2 455 799 V 0.5
+wire 455 796.2 450.6 796.2 H 0.5
+wire 453 786.2 448.6 786.2 H 0.5
+wire 453 786.2 457.4 786.2 H 0.5
+wire 465.8 796.2 464.6 796.2 H 0.5
+wire 464.6 796.2 464.6 792.2 V 0.5
+wire 465.8 796.2 465.8 799 V 0.5
+wire 449.4 792.6 450.6 792.6 H 0.5
+wire 450.6 792.6 450.6 796.2 V 0.5
+wire 457.4 786.2 464.6 786.2 H 0.5
+wire 464.6 792.2 464.6 786.2 V 0.5
+wire 476.6 802.6 482.2 802.6 H 0.5
+wire 482.2 802.6 482.2 796.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N157
+#Trunk_Term begin
+#Trunk clk_m__L3_I157 O 589.4 828.6
+#Trunk mips_core/datamem/ram_reg\[119\]\[12\] CK 576.2 837.4
+#Trunk mips_core/datamem/ram_reg\[122\]\[7\] CK 595.4 824.6
+#Trunk mips_core/datamem/ram_reg\[123\]\[8\] CK 583 824.6
+#Trunk_Term end
+wire 589 834.6 589 831 V 0.5
+wire 589 834.6 595.8 834.6 H 0.5
+wire 583 831 583 824.6 V 0.5
+wire 583 831 581 831 H 0.5
+wire 583 831 589 831 H 0.5
+wire 601 824.6 595.4 824.6 H 0.5
+wire 601 824.6 601 831 V 0.5
+wire 581.8 815.4 583 815.4 H 0.5
+wire 583 815.4 583 818.2 V 0.5
+wire 601 834.6 601 831 V 0.5
+wire 601 834.6 597.4 834.6 H 0.5
+wire 574.6 831 574.6 834.6 V 0.5
+wire 574.6 831 581 831 H 0.5
+wire 574.6 834.6 576.2 834.6 H 0.5
+wire 576.2 834.6 576.2 837.4 V 0.5
+wire 583 824.6 583 818.2 V 0.5
+wire 589 831 589.4 831 H 0.5
+wire 589.4 831 589.4 828.6 V 0.5
+wire 595.8 834.6 597.4 834.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N156
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[126\]\[8\] CK 587 770.6
+#Trunk mips_core/datamem/ram_reg\[127\]\[5\] CK 603 741.4
+#Trunk mips_core/datamem/ram_reg\[127\]\[8\] CK 593.4 773.4
+#Trunk mips_core/datamem/ram_reg\[113\]\[12\] CK 573.8 735
+#Trunk_Term end
+wire 588.6 751.4 590.2 751.4 H 0.5
+wire 590.2 751.4 590.2 754.2 V 0.5
+wire 588.6 751.4 588.6 745 V 0.5
+wire 580.2 735 573.8 735 H 0.5
+wire 580.2 735 580.2 741.4 V 0.5
+wire 572.6 745 573.8 745 H 0.5
+wire 573.8 745 573.8 735 V 0.5
+wire 592.2 764.2 592.2 767 V 0.5
+wire 592.2 764.2 590.2 764.2 H 0.5
+wire 590.2 764.2 590.2 758.2 V 0.5
+wire 588.6 741.4 593.4 741.4 H 0.5
+wire 588.6 741.4 580.2 741.4 H 0.5
+wire 588.6 741.4 588.6 745 V 0.5
+wire 592.2 770.6 593.4 770.6 H 0.5
+wire 593.4 770.6 593.4 773.4 V 0.5
+wire 592.2 770.6 587 770.6 H 0.5
+wire 592.2 770.6 592.2 767 V 0.5
+wire 590.2 758.2 590.2 754.2 V 0.5
+wire 593.4 741.4 603 741.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N155
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[113\]\[7\] CK 593.4 732.2
+#Trunk mips_core/datamem/ram_reg\[113\]\[10\] CK 573 719.4
+#Trunk mips_core/datamem/ram_reg\[113\]\[11\] CK 591.4 703
+#Trunk_Term end
+wire 589 715.4 592.2 715.4 H 0.5
+wire 592.2 715.4 592.2 713 V 0.5
+wire 589 715.4 587 715.4 H 0.5
+wire 598.6 725.8 593.4 725.8 H 0.5
+wire 593.4 725.8 593.4 732.2 V 0.5
+wire 598.6 725.8 598.6 719.4 V 0.5
+wire 573 713 573 719.4 V 0.5
+wire 573 713 578.2 713 H 0.5
+wire 581.8 715.8 578.2 715.8 H 0.5
+wire 581.8 715.8 587 715.8 H 0.5
+wire 587 715.8 587 715.4 V 0.5
+wire 592.2 709.4 591.4 709.4 H 0.5
+wire 592.2 709.4 598.2 709.4 H 0.5
+wire 592.2 709.4 592.2 713 V 0.5
+wire 598.6 715.8 598.6 719.4 V 0.5
+wire 598.6 715.8 598.6 709.4 V 0.5
+wire 578.2 715.8 578.2 713 V 0.5
+wire 591.4 703 591.4 709.4 V 0.5
+wire 598.2 709.4 598.6 709.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N154
+#Trunk_Term begin
+#Trunk mips_core/reg_file/reg_array_reg\[2\]\[0\] CK 592.2 665
+#Trunk mips_core/datamem/ram_reg\[114\]\[15\] CK 564.6 700.2
+#Trunk mips_core/reg_file/reg_array_reg\[4\]\[0\] CK 592.6 684.2
+#Trunk_Term end
+wire 559 700.2 564.6 700.2 H 0.5
+wire 571 690.2 579.8 690.2 H 0.5
+wire 571 690.2 571 696.6 V 0.5
+wire 584.2 684.2 592.6 684.2 H 0.5
+wire 584.2 684.2 583.8 684.2 H 0.5
+wire 583.8 684.2 583.8 683.4 V 0.5
+wire 584.2 684.2 584.2 690.2 V 0.5
+wire 599 684.2 603 684.2 H 0.5
+wire 599 684.2 592.6 684.2 H 0.5
+wire 564.6 700.2 571 700.2 H 0.5
+wire 571 700.2 571 696.6 V 0.5
+wire 579.8 690.2 584.2 690.2 H 0.5
+wire 583.8 683.4 583.8 671.4 V 0.5
+wire 592.2 665 583.8 665 H 0.5
+wire 583.8 665 583.8 671.4 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N153
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[117\]\[8\] CK 592.2 879.4
+#Trunk mips_core/datamem/ram_reg\[117\]\[10\] CK 593.4 853.8
+#Trunk clk_m__L3_I153 O 585 869
+#Trunk mips_core/datamem/ram_reg\[119\]\[14\] CK 564.2 873
+#Trunk_Term end
+wire 581.8 853.8 593.4 853.8 H 0.5
+wire 581.8 853.8 581.8 856.6 V 0.5
+wire 585 866.6 585 869 V 0.5
+wire 585 866.6 575.8 866.6 H 0.5
+wire 585 866.6 585 863 V 0.5
+wire 571.4 873 571.4 875.8 V 0.5
+wire 571.4 873 564.2 873 H 0.5
+wire 571.4 873 571.4 866.6 V 0.5
+wire 583 879.4 592.2 879.4 H 0.5
+wire 583 879.4 576.2 879.4 H 0.5
+wire 562.6 875.8 564.2 875.8 H 0.5
+wire 564.2 875.8 564.2 873 V 0.5
+wire 571.4 866.6 575.8 866.6 H 0.5
+wire 571.4 875.8 576.2 875.8 H 0.5
+wire 576.2 875.8 576.2 879.4 V 0.5
+wire 581.8 856.6 581.8 860.2 V 0.5
+wire 581.8 860.2 585 860.2 H 0.5
+wire 585 860.2 585 863 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N152
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[121\]\[0\] CK 590.2 792.6
+#Trunk mips_core/datamem/ram_reg\[123\]\[15\] CK 558.2 796.2
+#Trunk mips_core/datamem/ram_reg\[121\]\[11\] CK 593 799
+#Trunk_Term end
+wire 593 799 592.2 799 H 0.5
+wire 592.2 799 592.2 798.6 V 0.5
+wire 593 799 595.8 799 H 0.5
+wire 592.2 796.2 590.2 796.2 H 0.5
+wire 590.2 796.2 590.2 792.6 V 0.5
+wire 592.2 796.2 592.2 798.6 V 0.5
+wire 585.4 798.6 581.4 798.6 H 0.5
+wire 581.4 798.6 581.4 796.2 V 0.5
+wire 585.4 798.6 592.2 798.6 H 0.5
+wire 581.4 796.2 571.4 796.2 H 0.5
+wire 571.4 796.2 571.4 792.6 V 0.5
+wire 565 792.6 562.6 792.6 H 0.5
+wire 565 792.6 571.4 792.6 H 0.5
+wire 559.4 792.6 558.2 792.6 H 0.5
+wire 558.2 792.6 558.2 796.2 V 0.5
+wire 559.4 792.6 562.6 792.6 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N151
+#Trunk_Term begin
+#Trunk clk_m__L3_I151 O 560.6 843.4
+#Trunk mips_core/datamem/ram_reg\[84\]\[10\] CK 543 856.6
+#Trunk mips_core/datamem/ram_reg\[118\]\[10\] CK 570.2 847.4
+#Trunk mips_core/datamem/ram_reg\[117\]\[13\] CK 557.4 837.4
+#Trunk mips_core/datamem/ram_reg\[123\]\[13\] CK 550.6 834.6
+#Trunk_Term end
+wire 550.6 824.6 550.6 834.6 V 0.5
+wire 553.8 856.6 543 856.6 H 0.5
+wire 553.8 856.6 554.2 856.6 H 0.5
+wire 554.2 856.6 554.2 853.8 V 0.5
+wire 559.4 843.8 560.6 843.8 H 0.5
+wire 560.6 843.8 560.6 843.4 V 0.5
+wire 559.4 843.8 559.4 847.4 V 0.5
+wire 559.4 843.8 557 843.8 H 0.5
+wire 557 841 557.4 841 H 0.5
+wire 557.4 841 557.4 837.4 V 0.5
+wire 557 841 557 843.8 V 0.5
+wire 557 841 551 841 H 0.5
+wire 550.6 834.6 551 834.6 H 0.5
+wire 551 834.6 551 841 V 0.5
+wire 554.2 853.8 559.4 853.8 H 0.5
+wire 559.4 853.8 559.4 847.4 V 0.5
+wire 559.4 847.4 570.2 847.4 H 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N150
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[126\]\[14\] CK 566.6 747.8
+#Trunk mips_core/datamem/ram_reg\[127\]\[9\] CK 566.6 777
+#Trunk mips_core/datamem/ram_reg\[125\]\[13\] CK 549.8 757.8
+#Trunk_Term end
+wire 562.6 760.6 565 760.6 H 0.5
+wire 562.6 760.6 562.6 764.6 V 0.5
+wire 552.2 779.8 557 779.8 H 0.5
+wire 552.2 779.8 552.2 777 V 0.5
+wire 552.2 770.6 549.8 770.6 H 0.5
+wire 552.2 770.6 552.2 777 V 0.5
+wire 552.2 770.6 559.8 770.6 H 0.5
+wire 569.8 760.6 569.8 754.2 V 0.5
+wire 569.8 760.6 565 760.6 H 0.5
+wire 543 757.8 549.8 757.8 H 0.5
+wire 549.8 757.8 549.8 767 V 0.5
+wire 549.8 767 549.8 770.6 V 0.5
+wire 557 779.8 563.4 779.8 H 0.5
+wire 559.8 770.6 562.6 770.6 H 0.5
+wire 562.6 770.6 562.6 764.6 V 0.5
+wire 563.4 779.8 566.6 779.8 H 0.5
+wire 566.6 779.8 566.6 777 V 0.5
+wire 566.6 747.8 569.8 747.8 H 0.5
+wire 569.8 747.8 569.8 754.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N149
+#Trunk_Term begin
+#Trunk mips_core/datamem/ram_reg\[113\]\[14\] CK 559.8 732.2
+#Trunk mips_core/datamem/ram_reg\[80\]\[9\] CK 543.4 715.8
+#Trunk mips_core/datamem/ram_reg\[115\]\[13\] CK 556.2 715.8
+#Trunk_Term end
+wire 552.2 732.2 552.2 735 V 0.5
+wire 552.2 732.2 552.2 728.2 V 0.5
+wire 555.4 728.2 559.4 728.2 H 0.5
+wire 559.4 728.2 559.4 728.6 V 0.5
+wire 555.4 728.2 555.4 725.8 V 0.5
+wire 555.4 728.2 552.2 728.2 H 0.5
+wire 556.2 709.4 556.2 715.8 V 0.5
+wire 557.4 722.2 557.4 719.4 V 0.5
+wire 557.4 722.2 555.4 722.2 H 0.5
+wire 555.4 722.2 555.4 725.8 V 0.5
+wire 549.4 735 543 735 H 0.5
+wire 549.4 735 552.2 735 H 0.5
+wire 537.8 725.8 531 725.8 H 0.5
+wire 531 725.8 531 728.6 V 0.5
+wire 537.8 725.8 537.8 722.2 V 0.5
+wire 537.8 725.8 542.2 725.8 H 0.5
+wire 537.8 722.2 537.8 715.8 V 0.5
+wire 542.2 725.8 542.2 732.2 V 0.5
+wire 542.2 732.2 543 732.2 H 0.5
+wire 543 732.2 543 735 V 0.5
+wire 543.4 715.8 537.8 715.8 H 0.5
+wire 556.2 715.8 557.4 715.8 H 0.5
+wire 557.4 715.8 557.4 719.4 V 0.5
+wire 559.4 728.6 559.8 728.6 H 0.5
+wire 559.8 728.6 559.8 732.2 V 0.5
+endRouteGuideNet
+routeGuideNet clk_m__L3_N148
+#Trunk_Term begin
+#Trunk clk_m__L3_I148 O 534.6 817.8
+#Trunk mips_core/datamem/ram_reg\[94\]\[13\] CK 527 811.8
+#Trunk mips_core/datamem/ram_reg\[86\]\[12\] CK 523.4 837.4
+#Trunk mips_core/datamem/ram_reg\[95\]\[10\] CK 537.4 809
+#Trunk mips_core/datamem/ram_reg\[93\]\[1\] CK 536.6 805.4
+#Trunk_Term end
+wire 531.8 824.6 531.8 821.8 V 0.5
+wire 531.8 824.6 525 824.6 H 0.5
+wire 532.2 817.8 534.6 817.8 H 0.5
+wire 532.2 817.8 532.2 815.4 V 0.5
+wire 532.2 817.8 531.8 817.8 H 0.5
+wire 531.8 817.8 531.8 821.8 V 0.5
+wire 523.4 834.6 523.4 837.4 V 0.5
+wire 523.4 834.6 525 834.6 H 0.5
+wire 525 834.6 525 828.2 V 0.5
+wire 532.2 811.8 536.6 811.8 H 0.5
+wire 536.6 811.8 536.6 809 V 0.5
+wire 532.2 811.8 527 811.8 H 0.5
+wire 532.2 811.8 532.2 815.4 V 0.5
+wire 536.6 799 536.6 805.4 V 0.5
+wire 525 824.6 525 828.2 V 0.5
+wire 536.6 805.4 536.6 809 V 0.5
+wire 537.4 809 536.6 809 H 0.5
+endRouteGuideNet
