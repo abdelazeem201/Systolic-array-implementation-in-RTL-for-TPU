@@ -1,3 +1,4 @@
+#Synthesis
 set design tpu_top
 
 set_app_var search_path "/home/standard_cell_libraries/NangateOpenCellLibrary_PDKv1_3_v2010_12/lib/Front_End/Liberty/NLDM"
