@@ -18,9 +18,9 @@ module systolic_controller #(
     parameter ARRAY_SIZE = 32           // Defines the size of the systolic array
 )
 (
-    input clk,                          // System clock
-    input srstn,                        // Active-low synchronous reset
-    input tpu_start,                    // TPU start signal for initiating operation
+    input wire clk,                          // System clock
+    input wire rst_n,                        // Active-low synchronous reset
+    input wire tpu_start,                    // TPU start signal for initiating operation
     
     // Outputs
     output reg sram_write_enable,       // Enable signal for writing data to SRAM
@@ -58,7 +58,7 @@ reg [5:0] matrix_index_nx;              // Next state of the matrix index
 // State and Register Initialization
 //------------------------------------
 always @(posedge clk) begin
-    if (~srstn) begin                   // On reset, initialize all control signals and states
+    if (~rst_n) begin                   // On reset, initialize all control signals and states
         state <= IDLE;
         data_set <= 2'b00;
         cycle_num <= 9'b0;
