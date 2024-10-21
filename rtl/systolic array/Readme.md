@@ -58,8 +58,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. 
 
-## Acknowledgments
-
-- Thank you to the Verilog community for the inspiration and resources.
-- Special thanks to the open-source projects that provided base functionality.
 
